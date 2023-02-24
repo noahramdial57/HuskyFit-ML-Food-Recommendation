@@ -1,520 +1,520 @@
 Food Item,Breakfast,Lunch,Dinner,Fish,Soybeans,Wheat,Gluten,Milk,Tree Nuts,Eggs,Sesame,Crustacean Shellfish,Gluten Friendly,Less Sodium,Smart Check,Vegan,Vegetarian,Contains Nuts
-Bacon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buttermilk Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Home Fries,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Bacon,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Buttermilk Pancakes,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Home Fries,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Chip Muffins,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Chicken Bella,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Tofu,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chickpea Rotini With Tomato and Mozzarella,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Muffuletta,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Chocolate Chip Muffins,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Grilled Chicken Bella,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Lemon Tofu,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1
+Chickpea Rotini With Tomato and Mozzarella,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Muffuletta,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
 Pancake Topping Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Noodle Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Italian Vegetables,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marinara Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mozzarella Sticks,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cherry White Chocolate Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jonathan Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crispy Dijon Scrod,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chicken Noodle Soup,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+Italian Vegetables,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Marinara Sauce,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Mozzarella Sticks,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0
+Cherry White Chocolate Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Jonathan Bar,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Crispy Dijon Scrod,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0
 Belgian Waffle Bar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Black Bean Burger,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lebanese Beef Kofta Meatballs,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crush and Fry Potato,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Honey Glazed Carrots,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Mujaddara,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Coconut Custard Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Country Style Hash Browns,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast Stix,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black Bean Burger,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0
+Lebanese Beef Kofta Meatballs,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+Crush and Fry Potato,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+Honey Glazed Carrots,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0
+Mujaddara,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Coconut Custard Pie,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Country Style Hash Browns,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+French Toast Stix,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cranberry Orange Bread,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Spinach Calzone,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Boneless Chinese BBQ Pork,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buffalo Wings,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Cranberry Orange Bread,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Spinach Calzone,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0
+Boneless Chinese BBQ Pork,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+Buffalo Wings,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Teriyaki Chicken Wings,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitney Clam Chowder,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baked Tater Tots,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Fresh Steamed Green beans,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Garlic Parmesan Butter,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Jasmine Rice,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Brownies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oatmeal Raisin Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Outback Chicken with Apple Smoked Bacon,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Pizza,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Macaroni & Cheese,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pepperoni Pizza,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Lentil Pasta w/ Roasted Vegetables,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cross Trax French Fries,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Calamari With Banana Peppers,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marinara Sauce,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Roasted Cauliflower,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Peach Bread Pudding,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Applewood Bacon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Country Style Hash Browns,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teriyaki Chicken Wings,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Whitney Clam Chowder,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Baked Tater Tots,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0
+Fresh Steamed Green beans,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Garlic Parmesan Butter,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+Jasmine Rice,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Chocolate Brownies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Oatmeal Raisin Cookies,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Outback Chicken with Apple Smoked Bacon,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0
+Cheese Pizza,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0
+Macaroni & Cheese,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+Pepperoni Pizza,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Red Lentil Pasta w/ Roasted Vegetables,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+Cross Trax French Fries,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0
+Fried Calamari With Banana Peppers,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+Marinara Sauce,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Roasted Cauliflower,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Peach Bread Pudding,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Applewood Bacon,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Cage Free Boiled Eggs,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Country Style Hash Browns,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+French Toast,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Ravioli with Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Zesty Fried Chicken Tenders,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cream of Broccoli Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blueberry Muffin,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Double Chocolate Chip Cookie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Fajitas,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chimichurri Basted Scrod,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Plant-based Steak Fajita,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mexican Fiesta Rice,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Summer Salsa,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fruit of the Forest Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Chip Pancakes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-O'Brien Potatoes,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Scrambled Eggs,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,0,1,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Cheese Ravioli with Sauce,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+Zesty Fried Chicken Tenders,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Cream of Broccoli Soup,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Blueberry Muffin,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Double Chocolate Chip Cookie,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Chicken Fajitas,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Chimichurri Basted Scrod,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Plant-based Steak Fajita,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Mexican Fiesta Rice,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+Summer Salsa,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Fruit of the Forest Pie,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Cage Free Boiled Eggs,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Chocolate Chip Pancakes,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+O'Brien Potatoes,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant-Based Breakfast Sausage,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sausage Patties,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Lasagna,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Chicken Breast,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tomato Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Assorted  Scones 1.8 oz.,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-S'mores Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan Sloppy Joe,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BBQ Pork Chops,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-White Vegetable Lasagna,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baby Carrots Fresh Steamed,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Petite Potatoes w/ Parsley,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Confetti Cake,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Belgian Waffle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Breakfast Potatoes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant Based Pancakes,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Plant-Based Breakfast Sausage,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1
+Sausage Patties,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Scrambled Eggs,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,0,1,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Cheese Lasagna,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+Grilled Chicken Breast,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Tomato Soup,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0
+Assorted  Scones 1.8 oz.,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+S'mores Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+Vegan Sloppy Joe,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0
+BBQ Pork Chops,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+White Vegetable Lasagna,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Baby Carrots Fresh Steamed,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Red Petite Potatoes w/ Parsley,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Confetti Cake,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Belgian Waffle,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0
+Breakfast Potatoes,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Banana Bread,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Korean BBQ Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"""BLT"" Panini",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crispy Orange Ginger Tofu,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Imperial Shrimp & Vegetables,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Banana Bread,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Korean BBQ Chicken,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0
+"""BLT"" Panini",0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+Crispy Orange Ginger Tofu,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0
+Imperial Shrimp & Vegetables,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0
 Mac & Cheese Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gnocchi Sausage Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Edamame Fried Rice,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Steamed Broccoli,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Chip Cookie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Bars,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dairy Free Tofu Baked Ziti,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Kielbasa,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Potato & Cheese Pierogi,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stuffed Beef Cabbage,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Braised Red Cabbage,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Dill Potato,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Apple Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bacon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Hash Brown Patties,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pina Colada Muffin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sweet & Sour Tofu,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Coconut Green Chili Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Curry Potato Enchilada,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gnocchi Sausage Soup,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Edamame Fried Rice,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0
+Steamed Broccoli,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Chocolate Chip Cookie,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Lemon Bars,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Dairy Free Tofu Baked Ziti,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1
+Grilled Kielbasa,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Potato & Cheese Pierogi,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0
+Stuffed Beef Cabbage,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Braised Red Cabbage,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Lemon Dill Potato,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+Apple Pie,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Bacon,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Fried Hash Brown Patties,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Pina Colada Muffin,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Sweet & Sour Tofu,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0
+Coconut Green Chili Chicken,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Curry Potato Enchilada,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
 Nacho Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pasta Primavera,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegetarian Lentil Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Corn, Edamame and Cumin Saute",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Vegetable Samosas w/ Chutney,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-M & M Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Snickerdoodle Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baked Scrod Florentine,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eggplant Parmesan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Steak Toscano,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Penne w/Tomato Pesto,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Italian Style Zucchini,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Mashed Red Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Midnight Choc Cake w/ Chocolate Frosting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-O'Brien Potatoes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pasta Primavera,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Vegetarian Lentil Soup,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+"Corn, Edamame and Cumin Saute",0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Vegetable Samosas w/ Chutney,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0
+M & M Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Snickerdoodle Cookies,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Baked Scrod Florentine,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+Eggplant Parmesan,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0
+Grilled Steak Toscano,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Penne w/Tomato Pesto,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0
+Italian Style Zucchini,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Mashed Red Potatoes,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Midnight Choc Cake w/ Chocolate Frosting,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+O'Brien Potatoes,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pork Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blueberry Coffee Cake,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BBQ Tempeh & Peppers,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Grilled Mojito & Lime Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pork Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Blueberry Coffee Cake,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+BBQ Tempeh & Peppers,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0
+Grilled Mojito & Lime Chicken,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
 Curry Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pernil,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Minestrone Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baked Plantains,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fresh Vegetable Saute,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Yellow Rice w/ Pinto Beans,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Streusel Brownies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ranger Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tamarind Glazed Salmon,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Pernil,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Minestrone Soup,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Baked Plantains,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Fresh Vegetable Saute,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Yellow Rice w/ Pinto Beans,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+Chocolate Streusel Brownies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Ranger Cookies,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1
+Tamarind Glazed Salmon,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0
 Baked Potato Bar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Curry Bar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-General Tso's Chicken,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Korean BBQ Tofu,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Braised Baby Bok Choy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Japchae,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sticky Rice,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Delights,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mini Potato Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Tso's Chicken,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+Korean BBQ Tofu,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0
+Braised Baby Bok Choy,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0
+Japchae,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0
+Sticky Rice,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Lemon Delights,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Mini Potato Pancakes,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Chip Bread,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Lentil Pasta w/ Sundried Tomatoes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Chocolate Chip Bread,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Red Lentil Pasta w/ Sundried Tomatoes,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0
 Dumpling Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Italian Chicken Sausage,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Meatball  in Marinara Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan Brats in a Hot Tub,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beef Barley Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Garlic Shoestring Fries,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sicilian Broccoli,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Cherry White Chocolate Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Shortbread Bars,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon & Herb Grilled Tuna,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Lentil & Mushroom Shepherd's Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Memphis Style BBQ Chicken Thighs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bourbon & Black Strap Sweet Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Asparagus w/ Orange Zest,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Honey Roasted Parsnips & Sweet Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Blueberry Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bacon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Belgian Waffle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Breakfast Potatoes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cinnamon Coffee Cake,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baked Alaskan Scrod with Lemon & Onions,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemony Chicken w/ Artichokes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Moroccan Burger,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Italian Chicken Sausage,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Meatball  in Marinara Sauce,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Vegan Brats in a Hot Tub,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1
+Beef Barley Soup,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Garlic Shoestring Fries,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Sicilian Broccoli,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Cherry White Chocolate Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Lemon Shortbread Bars,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Lemon & Herb Grilled Tuna,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Lentil & Mushroom Shepherd's Pie,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0
+Memphis Style BBQ Chicken Thighs,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Bourbon & Black Strap Sweet Potatoes,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0
+Grilled Asparagus w/ Orange Zest,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Honey Roasted Parsnips & Sweet Potatoes,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0
+Blueberry Pie,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Bacon,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Belgian Waffle,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0
+Breakfast Potatoes,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Cinnamon Coffee Cake,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Baked Alaskan Scrod with Lemon & Onions,0,1,0,1,1,0,0,1,0,0,0,1,1,1,1,0,0,0
+Lemony Chicken w/ Artichokes,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Moroccan Burger,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
 Pasta Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swedish Meatballs,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Split Pea Soup with Ham,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Buttered Egg Noodles,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Farro Risotto,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Roasted Zucchini & Peppers,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Velvet Cookie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rice Krispie Bars,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackened Cod,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Asado Argentina Strip Loin,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Navratan (9 Vegetable Curry),0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Baked Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Basmati Rice Pilaf,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Just Garlic and Green Beans,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mango Salsa,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Humming Bird Cake,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mini Potato Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swedish Meatballs,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Split Pea Soup with Ham,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+Buttered Egg Noodles,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Farro Risotto,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0
+Roasted Zucchini & Peppers,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Red Velvet Cookie,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Rice Krispie Bars,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Blackened Cod,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Asado Argentina Strip Loin,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Navratan (9 Vegetable Curry),0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0
+Baked Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Basmati Rice Pilaf,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Just Garlic and Green Beans,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Mango Salsa,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Humming Bird Cake,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Mini Potato Pancakes,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant-Based Breakfast Sausage,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sausage Patties,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Apple Turnover,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Huli Huli Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Fish Taco with Chipotle Cream and Salsa Fresca,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-Based Breakfast Sausage,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1
+Sausage Patties,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Apple Turnover,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Huli Huli Chicken,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Fish Taco with Chipotle Cream and Salsa Fresca,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
 Grilled Cheese Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan Sausage w/ Peppers & Onions,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Onion Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Bombay Potatoes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mandarin Basmati Rice,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sauteed Mexican Street Corn,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Strawberry  Blondie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sugar Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Forward Quesadillas,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Cornmeal Crusted Catfish,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Slow Cooked Barbeque Beef Brisket,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Creamy Corn With Leeks And Bacon,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Hush Puppies,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegetarian Dirty Rice,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Spicy Remoulade Sauce,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Whoopie Pies,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bacon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buttermilk Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Home Fries,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Vegan Sausage w/ Peppers & Onions,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+French Onion Soup,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Bombay Potatoes,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Mandarin Basmati Rice,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Sauteed Mexican Street Corn,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Strawberry  Blondie,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Sugar Cookies,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Plant Forward Quesadillas,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1
+Fried Cornmeal Crusted Catfish,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Slow Cooked Barbeque Beef Brisket,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Creamy Corn With Leeks And Bacon,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+Hush Puppies,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0
+Vegetarian Dirty Rice,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+Spicy Remoulade Sauce,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Chocolate Whoopie Pies,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Bacon,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Buttermilk Pancakes,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Home Fries,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Chip Muffins,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Chicken Bella,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Tofu,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chickpea Rotini With Tomato and Mozzarella,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Muffuletta,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Chocolate Chip Muffins,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Grilled Chicken Bella,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Lemon Tofu,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1
+Chickpea Rotini With Tomato and Mozzarella,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Muffuletta,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
 Pancake Topping Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Noodle Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Italian Vegetables,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marinara Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mozzarella Sticks,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cherry White Chocolate Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jonathan Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crispy Dijon Scrod,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chicken Noodle Soup,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+Italian Vegetables,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Marinara Sauce,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Mozzarella Sticks,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0
+Cherry White Chocolate Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Jonathan Bar,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Crispy Dijon Scrod,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0
 Belgian Waffle Bar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Black Bean Burger,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lebanese Beef Kofta Meatballs,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crush and Fry Potato,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Honey Glazed Carrots,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Mujaddara,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Coconut Custard Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Country Style Hash Browns,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast Stix,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black Bean Burger,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0
+Lebanese Beef Kofta Meatballs,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+Crush and Fry Potato,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+Honey Glazed Carrots,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0
+Mujaddara,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Coconut Custard Pie,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Country Style Hash Browns,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+French Toast Stix,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cranberry Orange Bread,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Spinach Calzone,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Boneless Chinese BBQ Pork,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buffalo Wings,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Cranberry Orange Bread,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Spinach Calzone,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0
+Boneless Chinese BBQ Pork,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+Buffalo Wings,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Teriyaki Chicken Wings,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitney Clam Chowder,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baked Tater Tots,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Fresh Steamed Green beans,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Garlic Parmesan Butter,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Jasmine Rice,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Brownies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oatmeal Raisin Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Outback Chicken with Apple Smoked Bacon,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Pizza,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Macaroni & Cheese,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pepperoni Pizza,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Lentil Pasta w/ Roasted Vegetables,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cross Trax French Fries,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Calamari With Banana Peppers,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marinara Sauce,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Roasted Cauliflower,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Peach Bread Pudding,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Applewood Bacon,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Country Style Hash Browns,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teriyaki Chicken Wings,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Whitney Clam Chowder,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Baked Tater Tots,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0
+Fresh Steamed Green beans,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Garlic Parmesan Butter,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+Jasmine Rice,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Chocolate Brownies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Oatmeal Raisin Cookies,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Outback Chicken with Apple Smoked Bacon,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0
+Cheese Pizza,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0
+Macaroni & Cheese,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+Pepperoni Pizza,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Red Lentil Pasta w/ Roasted Vegetables,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+Cross Trax French Fries,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0
+Fried Calamari With Banana Peppers,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+Marinara Sauce,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Roasted Cauliflower,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Peach Bread Pudding,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Applewood Bacon,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Cage Free Boiled Eggs,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Country Style Hash Browns,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+French Toast,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Ravioli with Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Zesty Fried Chicken Tenders,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cream of Broccoli Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blueberry Muffin,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Double Chocolate Chip Cookie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Fajitas,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chimichurri Basted Scrod,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Plant-based Steak Fajita,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mexican Fiesta Rice,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Summer Salsa,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fruit of the Forest Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bacon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Hash Brown Patties,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scrambled Eggs,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,0,1,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Cheese Ravioli with Sauce,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+Zesty Fried Chicken Tenders,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Cream of Broccoli Soup,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Blueberry Muffin,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Double Chocolate Chip Cookie,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Chicken Fajitas,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Chimichurri Basted Scrod,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Plant-based Steak Fajita,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Mexican Fiesta Rice,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+Summer Salsa,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Fruit of the Forest Pie,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Bacon,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Fried Hash Brown Patties,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pina Colada Muffin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sweet & Sour Tofu,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Coconut Green Chili Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Curry Potato Enchilada,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Pina Colada Muffin,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Sweet & Sour Tofu,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0
+Coconut Green Chili Chicken,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Curry Potato Enchilada,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
 Nacho Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pasta Primavera,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegetarian Lentil Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Corn, Edamame and Cumin Saute",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Vegetable Samosas w/ Chutney,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-M & M Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Snickerdoodle Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-O'Brien Potatoes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pasta Primavera,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Vegetarian Lentil Soup,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+"Corn, Edamame and Cumin Saute",0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Vegetable Samosas w/ Chutney,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0
+M & M Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Snickerdoodle Cookies,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+O'Brien Potatoes,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pork Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blueberry Coffee Cake,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BBQ Tempeh & Peppers,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Grilled Mojito & Lime Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pork Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Blueberry Coffee Cake,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+BBQ Tempeh & Peppers,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0
+Grilled Mojito & Lime Chicken,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
 Curry Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pernil,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Minestrone Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Baked Plantains,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fresh Vegetable Saute,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Yellow Rice w/ Pinto Beans,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Streusel Brownies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ranger Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tamarind Glazed Salmon,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-General Tso's Chicken,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Korean BBQ Tofu,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Braised Baby Bok Choy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Japchae,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sticky Rice,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Delights,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bacon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buttermilk Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mini Potato Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pernil,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Minestrone Soup,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Baked Plantains,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Fresh Vegetable Saute,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Yellow Rice w/ Pinto Beans,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+Chocolate Streusel Brownies,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Ranger Cookies,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1
+Tamarind Glazed Salmon,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+General Tso's Chicken,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+Korean BBQ Tofu,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0
+Braised Baby Bok Choy,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0
+Japchae,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0
+Sticky Rice,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Lemon Delights,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Bacon,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Buttermilk Pancakes,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Mini Potato Pancakes,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Peach Crunch Cake,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Tortellini w/ Red Pesto & Cannellini,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beef & Andouille Burgers with Asiago Cheese,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Buffalo Mac n' Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NOT SO CRABBY Crab Cakes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Peach Crunch Cake,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,1,0
+Cheese Tortellini w/ Red Pesto & Cannellini,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0
+Beef & Andouille Burgers with Asiago Cheese,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Buffalo Mac n' Chicken,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+NOT SO CRABBY Crab Cakes,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0
 Stir Fry Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Potato & Leek Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BBQ Carrots,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Garlic Shoestring Fries,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Death by Chocolate Pudding,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Red ,White & Blue Cookies",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Creole Tofu,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Beef Stroganoff,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Potato & Leek Soup,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0
+BBQ Carrots,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Garlic Shoestring Fries,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Death by Chocolate Pudding,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+"Red ,White & Blue Cookies",0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Creole Tofu,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Beef Stroganoff,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
 Burger Bar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-West Indian Braised Pork Chop,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buttered Egg Noodles,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Old Bay Roasted Sweet Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sauteed Spinach With Garlic,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cinnamon Roll Cheesecake,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Breakfast Potatoes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast Stix,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Indian Braised Pork Chop,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Buttered Egg Noodles,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Old Bay Roasted Sweet Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Sauteed Spinach With Garlic,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Cinnamon Roll Cheesecake,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Breakfast Potatoes,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast Stix,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant-Based Breakfast Sausage,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sausage Patties,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Assorted Donuts,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Lentil Penne & Veggies in Wine Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beer Batter Fish,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Broccoli & Tofu with Garlic Sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Louisiana Chicken Wrap,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-Based Breakfast Sausage,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1
+Sausage Patties,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Assorted Donuts,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+Red Lentil Penne & Veggies in Wine Sauce,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+Beer Batter Fish,0,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Broccoli & Tofu with Garlic Sauce,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0
+Louisiana Chicken Wrap,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitney Clam Chowder,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Carrot and Snow Pea Stir Fry,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southern Style Fries,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oatmeal Raisin Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Raspberry Coconut Magic Bars,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheese Pizza,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chickpea Rotini With Cajun Cream Sauce,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Honey-Chipotle Crispy Chicken Bites,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pepperoni Pizza,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Curly Fries,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Just Garlic and Green Beans,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Meaty Penne,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Assorted Cupcakes,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buttermilk Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Country Style Hash Browns,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whitney Clam Chowder,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Carrot and Snow Pea Stir Fry,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Southern Style Fries,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+Oatmeal Raisin Cookies,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Raspberry Coconut Magic Bars,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Cheese Pizza,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0
+Chickpea Rotini With Cajun Cream Sauce,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Honey-Chipotle Crispy Chicken Bites,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Pepperoni Pizza,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Curly Fries,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0
+Just Garlic and Green Beans,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Meaty Penne,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Assorted Cupcakes,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Buttermilk Pancakes,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Country Style Hash Browns,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Turkey Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lemon Blueberry Bread,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Turkey Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Lemon Blueberry Bread,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
 Bread Boule Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Jambalaya,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Grilled Meatloaf Melt,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Spinach Pastitsio,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Italian Wedding Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buffalo Cauliflower,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Fried Tater Tots,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sauteed Vegetable Medley,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-S'mores Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sugar Cookies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Tikka Masala,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Grilled Swordfish with Citrus Butter,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pumpkin Spice Sweet Potato Curry,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Basmati Rice,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Naan Bread,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Peas,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegetable Samosas w/ Chutney,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cherry Pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mini Potato Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pork Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chicken Jambalaya,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Grilled Meatloaf Melt,0,1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+Spinach Pastitsio,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+Italian Wedding Soup,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0
+Buffalo Cauliflower,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0
+Fried Tater Tots,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Sauteed Vegetable Medley,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+S'mores Cookies,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+Sugar Cookies,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Chicken Tikka Masala,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+Grilled Swordfish with Citrus Butter,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0
+Pumpkin Spice Sweet Potato Curry,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+Basmati Rice,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+Naan Bread,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Peas,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Vegetable Samosas w/ Chutney,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0
+Cherry Pie,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+French Toast,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Mini Potato Pancakes,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Pork Sausage Links,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 Rustic French Toast Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Vegan French Toast,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Strawberry Banana Muffin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Curry Tofu,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-English Pub Fish,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Vegan French Toast,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+Strawberry Banana Muffin,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Curry Tofu,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1
+English Pub Fish,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0
 Omelet Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pacific Grove Artichoke & Turkey Panini,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sausage & Lentil Soup,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Asian Sauteed Spinach w/ Red Pepper,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Caribbean Sweet Potato Fries,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Coconut Risotto,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hoisin Noodles,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Raspberry Oat Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Red Velvet Cookie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mideastern Lentil Burgers,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grilled Pork Chops,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrod w/ Roasted Tomato & Fennel,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Chipotle Cheddar Mashed Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Cranberry Apricot Chutney,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Roasted Brussel Sprouts With Balsamic,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Peach & RaspberryTrifle,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buttermilk Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cage Free Boiled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Hash Brown Patties,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pacific Grove Artichoke & Turkey Panini,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Sausage & Lentil Soup,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Asian Sauteed Spinach w/ Red Pepper,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0
+Caribbean Sweet Potato Fries,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,1,1,0
+Coconut Risotto,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+Hoisin Noodles,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0
+Raspberry Oat Bar,0,1,0,0,1,1,1,1,0,1,0,0,0,1,0,0,1,0
+Red Velvet Cookie,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Mideastern Lentil Burgers,0,0,1,0,0,1,0,1,0,1,0,0,0,1,1,0,1,0
+Grilled Pork Chops,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Scrod w/ Roasted Tomato & Fennel,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Chipotle Cheddar Mashed Potatoes,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Cranberry Apricot Chutney,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Roasted Brussel Sprouts With Balsamic,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Peach & RaspberryTrifle,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Buttermilk Pancakes,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+Cage Free Boiled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Corned Beef Hash,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Fried Hash Brown Patties,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0
 Omelet Bar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plant Based Pancakes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scrambled Eggs with American Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cranberry Orange Bread,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Margarita Burger,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Island Jerk Chicken,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Sweet & Sour Shrimp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bacon Corn Chowder,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Baked Plantains,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Coconut Rice,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Corn With Lime Butter,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Plant Based Pancakes,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Scrambled Eggs,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0
+Scrambled Eggs with American Cheese,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0
+Cranberry Orange Bread,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Margarita Burger,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+Island Jerk Chicken,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0
+Sweet & Sour Shrimp,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0
+Bacon Corn Chowder,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+Baked Plantains,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Coconut Rice,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+Corn With Lime Butter,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
 Gyro Bar,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cherry Crisp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate Chip Cookie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fried Chicken,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Low Country Shrimp & Grits,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cherry Crisp,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0
+Chocolate Chip Cookie,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Fried Chicken,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0
+Low Country Shrimp & Grits,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
 Mac & Cheese Bar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sesame Tofu Steak,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cornbread,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mashed Potatoes,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Sauteed Sweet and Sour Kale,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chicken Gravy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chocolate mousse pie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sesame Tofu Steak,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0
+Cornbread,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,1,0
+Mashed Potatoes,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Sauteed Sweet and Sour Kale,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+Chicken Gravy,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+Chocolate mousse pie,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
