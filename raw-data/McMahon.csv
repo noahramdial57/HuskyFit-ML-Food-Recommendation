@@ -1,0 +1,988 @@
+Food Item, Dining Hall, Meal, Allergens, Dietary Restrictions, Date, Calories, Serving Size, Total Fat, Total Carbohydrates, Saturated Fat, Dietary Fiber , Trans Fat, Total Sugars, Cholesterol, Added Sugars, Sodium, Protein, Calcium, Iron, Vitamin D, Potassium
+Baked Ham,McMahon,Breakfast,,['Gluten Friendly'],2023-01-19,189,4 OZ,8.7g,5.8g,2.9g,0g,0g,5.8g,72.7mg,0g,1221.2mg,20.4g,mg,1mg,mcg,mg
+Blueberry Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-01-19,498,2 EACH,20.7g,61g,2.3g,1.2g,0g,19.2g,114.6mg,14.2g,453.1mg,13.1g,304.6mg,3.7mg,0.7mcg,227.1mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-19,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+O'Brien Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,127,4 OZ,4g,21g,1.3g,0.2g,0g,0.5g,0.1mg,0g,167.5mg,1.4g,2.1mg,0mg,0mcg,17.4mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-19,106,8 OZL,2.1g,19.1g,0.4g,0g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chocolate Chip Muffins,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,406,1 EACH,18.9g,53.7g,3.3g,0.5g,0g,35.2g,63.5mg,29.9g,228.8mg,4.7g,34.2mg,0.8mg,0.4mcg,81mg
+Sweet And Spicy Salmon With Creamy Corn And Asparagus,McMahon,Lunch,"Milk, Fish, Gluten",['Smart Check'],2023-01-19,309,1 PLATE,12g,19.8g,3.3g,1.8g,0g,4.2g,66.3mg,0g,676.8mg,28g,323.2mg,2.5mg,0mcg,271.7mg
+Braised Beef With Risotto and Brussel Sprouts,McMahon,Lunch,Milk,['Gluten Friendly'],2023-01-19,545,1 PLATE,27.1g,37.5g,12.1g,4.3g,0g,5.5g,106.9mg,0g,998.5mg,36.2g,458mg,3.4mg,0mcg,745.6mg
+Cavatappi,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Jerk Chicken With Rice And Peas,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-19,439,1 PLATE,12.2g,38.1g,1.9g,3.9g,0g,3.9g,164.1mg,0.4g,889.8mg,41.7g,216.2mg,4.8mg,0mcg,387.6mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Tofu With Black Bean Sauce,McMahon,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-19,332,1 PLATE,14.5g,38.2g,1.2g,1.5g,0g,5.1g,0mg,1.7g,493mg,13g,108.9mg,2.4mg,0mcg,276.8mg
+Chef's Choice Soup du Jour,McMahon,Lunch,Soybeans,[],2023-01-19,23,6 OZL,0g,3.4g,0g,0.4g,0g,2g,0mg,0g,310.3mg,0.9g,44.6mg,0mg,0mcg,100.5mg
+Island Jerk Chicken,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,240,1 EACH,7.9g,3.3g,1.7g,0.8g,0g,1.4g,164.1mg,0.4g,375mg,35.1g,49.3mg,2.1mg,0mcg,66.4mg
+Sauteed Mustard Greens,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,28,2 OZ,0.9g,4.2g,0g,1.6g,0g,1.1g,0mg,0g,69.7mg,2.1g,93.5mg,0.7mg,0mcg,132.6mg
+Yellow Rice with Pigeon Peas,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,118,3 OZ,2.2g,21.4g,0.2g,0.5g,0g,0.7g,0mg,0g,307.7mg,2.6g,20mg,1.3mg,0mcg,91.7mg
+Bourbon Brown Sugar Salmon,McMahon,Lunch,"Fish, Gluten","['Less Sodium', 'Smart Check']",2023-01-19,161,1 EACH,7g,0g,1g,0g,0g,0g,45.2mg,0g,332.4mg,22.1g,0mg,0mg,0mcg,0mg
+Creamy Corn With Leeks And Bacon,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-19,127,4 OZ,4.4g,16.6g,2.2g,0g,0g,2.7g,21.1mg,0g,262.8mg,4g,303mg,0.7mg,0mcg,101.3mg
+Grilled Asparagus,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,22,3 OZ,0.6g,3.3g,0.1g,1.7g,0g,1.6g,0mg,0g,86.1mg,1.9g,20.4mg,1.8mg,0mcg,171.2mg
+Tofu With Black Bean Sauce,McMahon,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-19,332,8 OZ,14.5g,38.2g,1.2g,1.5g,0g,5.1g,0mg,0g,493mg,13g,108.9mg,2.4mg,0mcg,276.8mg
+Parmesan Risotto,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,182,3 OZ,8.6g,19.2g,5.5g,0.6g,0g,0.7g,27mg,0g,469.7mg,5.8g,305.7mg,0.2mg,0mcg,9.3mg
+Roasted Brussel Sprouts With Balsamic,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,97,4 OZ,5.3g,11g,0.8g,4.1g,0g,3.7g,0mg,0g,72.3mg,3.6g,45.6mg,1.5mg,0mcg,419.9mg
+Shredded Beef Ragu,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-19,229,4 OZ,11.6g,3.7g,4.1g,0.4g,0g,1.8g,70.9mg,0g,318mg,25.8g,16.2mg,2mg,0mcg,418.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Greek Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2023-01-19,231,1 PLATE,9.6g,26.3g,4g,1.2g,0g,1.6g,18.7mg,0.5g,674.8mg,9g,68.2mg,1.7mg,0mcg,74.3mg
+Cherry White Chocolate Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,180,1 EACH,7g,27g,3.5g,0g,0g,16g,15mg,0g,115mg,2g,26mg,0.7mg,mcg,mg
+Jonathan Bar,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,344,1/35 HFPAN,14.6g,48.2g,8.6g,0g,0.4g,27.4g,49.7mg,27.1g,139.6mg,4g,6.9mg,1.3mg,0mcg,30.2mg
+Scrod With Spring Vegetables And Miso Dressing,McMahon,Dinner,"Milk, Fish, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-01-19,186,1 PLATE,7g,11.7g,1.2g,3.3g,0g,5.3g,46.8mg,0.7g,758.4mg,21g,64mg,2.6mg,0mcg,310.8mg
+"Seared Chicken, Tarragon Cream Sauce, Root Vegetable Hash",McMahon,Dinner,Milk,"['Gluten Friendly', 'Smart Check']",2023-01-19,186,1 PLATE,7.7g,11.6g,1.9g,1.9g,0g,2.7g,53.3mg,0.1g,432.9mg,19.1g,121.4mg,0.9mg,0mcg,292.3mg
+Cauliflower Fried Rice,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-01-19,230,1 PLATE,17.3g,14.7g,1.6g,3.5g,0g,4.4g,0mg,0g,719.1mg,7.8g,51.8mg,1.1mg,0mcg,361.8mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Root Beer Glazed Ham With Mac N Cheese,McMahon,Dinner,"Milk, Wheat, Soybeans",[],2023-01-19,441,1 PLATE,21.6g,30g,9.7g,3.4g,0g,12.5g,101.1mg,0g,1573.2mg,31.6g,284.3mg,2.3mg,1mcg,186.1mg
+Chef's Choice Soup du Jour,McMahon,Dinner,Soybeans,[],2023-01-19,23,6 OZL,0g,3.4g,0g,0.4g,0g,2g,0mg,0g,310.3mg,0.9g,44.6mg,0mg,0mcg,100.5mg
+Macaroni & Cheese,McMahon,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-19,325,6 OZ,18.4g,25.4g,10g,0.8g,0g,4.9g,42.4mg,0g,505.2mg,14.3g,367.7mg,1mg,1.6mcg,80.5mg
+Roasted Green Beans,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,33,3 OZ,0.5g,6.9g,0.1g,2.8g,0g,3.2g,0mg,0g,14.5mg,1.7g,38.5mg,0.6mg,0mcg,127.6mg
+Root Beer Glazed Ham,McMahon,Dinner,Milk,['Gluten Friendly'],2023-01-19,191,4 OZ,8.8g,6.2g,2.9g,0.1g,0g,6.1g,72.8mg,0g,1221.9mg,20.4g,0.8mg,1.1mg,0mcg,4.8mg
+Grilled Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,22,3 OZ,0.6g,3.3g,0.1g,1.7g,0g,1.6g,0mg,0g,86.1mg,1.9g,20.4mg,1.8mg,0mcg,171.2mg
+Miso Dressing,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium']",2023-01-19,48,1 OZL,3g,4g,0.4g,0g,0g,3.7g,0mg,2.8g,467.2mg,1g,3.4mg,0.2mg,0mcg,20.5mg
+Roasted Spaghetti Squash,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,63,4 OZ,4g,7.2g,0.6g,1.6g,0g,2.7g,0mg,0g,441.3mg,0.7g,24.2mg,0.4mg,0mcg,130.7mg
+Scrod With Miso Butter,McMahon,Dinner,"Milk, Fish, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,89,1 EACH,1.6g,0.2g,0.4g,0g,0g,0.1g,46.8mg,0g,118.7mg,18.1g,18.7mg,0.3mg,0mcg,4.5mg
+Cauliflower Fried Rice,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-01-19,225,6 OZL,17.3g,13.9g,1.6g,3.1g,0g,4.5g,0mg,0g,725.2mg,7.5g,51.8mg,1mg,0mcg,373.4mg
+Root Vegetable Hash,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,76,3 OZ,3.6g,10.7g,0.3g,1.7g,0g,2.5g,0mg,0.1g,200.7mg,1.4g,22mg,0.4mg,0mcg,287.1mg
+Seared Chicken Breast,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,91,1 EACH,2.7g,0.1g,0.6g,0g,0g,0g,48.3mg,0g,190mg,17.2g,0.3mg,0.4mg,0mcg,1.1mg
+Tarragon Cream Sauce,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-19,18,1 OZL,1.4g,0.8g,1g,0.2g,0g,0.2g,5mg,0g,42.1mg,0.5g,99.1mg,0mg,0mcg,4.1mg
+Broccoli,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,16,2 OZ,0.2g,2.9g,0g,1.3g,0g,0.8g,0mg,0g,15.3mg,1.7g,27.2mg,0.5mg,0mcg,184.3mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+General Tso's Chicken,McMahon,Dinner,"Eggs, Wheat, Soybeans, Gluten, Sesame",[],2023-01-19,364,6 OZ,19.7g,31.6g,2g,2.1g,0g,9.7g,36.8mg,7.3g,832.5mg,15.7g,15.5mg,1.6mg,0mcg,104.2mg
+General Tso's Tofu,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,194,4 OZ,11.8g,13.1g,1.1g,1g,0g,5.8g,0mg,0g,150.3mg,8.6g,88.1mg,1.5mg,0mcg,227.3mg
+Mini Vegetable Egg Rolls,McMahon,Dinner,"Eggs, Wheat, Soybeans, Sesame",['Vegetarian'],2023-01-19,150,4 EACH,5.4g,21.4g,1.1g,0g,0g,2.1g,5.4mg,1.1g,588.8mg,4.3g,27.8mg,1.5mg,0mcg,128.5mg
+White Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-19,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Coconut Custard Pie,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2023-01-19,338,1/8 PIE,17.5g,40g,6.3g,0g,0g,18.8g,87.5mg,15g,512.5mg,7.5g,103.8mg,1.3mg,0mcg,156.3mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-20,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Chorizo Sausage Patties,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,158,1 EACH,14.3g,1g,4.5g,0g,0.1g,0g,29.3mg,0g,363.4mg,6.1g,13.1mg,0.7mg,mcg,mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-20,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Fried Tater Tots,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-20,303,4 OZ,20.9g,26.3g,2.2g,2.8g,0g,0g,0mg,0g,497.9mg,2.8g,0mg,0.5mg,0mcg,318.1mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-20,106,8 OZL,2.1g,19.1g,0.4g,0g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cranberry Orange Bread,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,260,1/16 LOAF,10g,40.1g,4.5g,0.8g,0g,23.5g,44.9mg,0g,210.6mg,3g,16.1mg,1.1mg,0mcg,50.1mg
+Grilled Chicken With Chermoula And Couscous,McMahon,Lunch,Wheat,['Smart Check'],2023-01-20,397,1 PLATE,12.2g,46.3g,2.1g,3.5g,0g,9.4g,51.9mg,0g,386.7mg,24.2g,30.1mg,3.1mg,0.1mcg,278.6mg
+Bo Ssam,McMahon,Lunch,"Wheat, Soybeans",['Gluten Friendly'],2023-01-20,560,1 PLATE,29.8g,39.8g,10.3g,2.4g,0g,5.2g,102.6mg,2.6g,870.6mg,33.1g,60.3mg,2.3mg,0mcg,284.3mg
+Corn And Black Bean Quesadilla With Sweet Potato Salad,McMahon,Lunch,"Milk, Wheat, Soybeans",['Vegetarian'],2023-01-20,388,1 PLATE,15g,51.5g,5.6g,2.7g,0g,7.5g,18.6mg,3.1g,788.3mg,11.1g,301.7mg,2.8mg,0mcg,420.1mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Rotini,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,mg
+Teriyaki Swordfish With Miso Garlic Noodles,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame",[],2023-01-20,642,1 PLATE,13g,87.7g,2.4g,0.3g,0g,14.8g,75mg,0.3g,1330.7mg,39.4g,54.9mg,2.9mg,23.8mcg,724.2mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-01-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Pork Lettuce Wraps,McMahon,Lunch,"Wheat, Soybeans, Sesame",[],2023-01-20,413,2 EACH,29.4g,7.2g,10.3g,2.4g,0g,3.4g,102.6mg,1.8g,984.2mg,28.9g,38.4mg,2.3mg,0mcg,253.1mg
+Sticky Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,185,4 OZ,0.3g,41g,0g,0g,0g,0g,0mg,0g,2.5mg,3.4g,6.6mg,0.4mg,0mcg,44.9mg
+Couscous With Dates and Pumpkin Seeds,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,228,4 OZ,4.2g,38.2g,0.7g,1.1g,0g,6.6g,3.6mg,0g,107.1mg,6g,16.6mg,2.2mg,0.1mcg,143.1mg
+Grilled Chicken With Chermoula,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,132,1 EACH,7g,0.6g,1.2g,0.2g,0g,0g,48.3mg,0g,211.5mg,17.4g,7.8mg,0.7mg,0mcg,29.3mg
+Grilled Eggplant,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,37,2 OZ,1g,7.5g,0.2g,2.1g,0g,2.7g,0mg,0g,68.2mg,0.7g,5.6mg,0.2mg,0mcg,106.2mg
+Miso Garlic Noodles,McMahon,Lunch,"Wheat, Soybeans, Sesame",[],2023-01-20,441,6 OZ,5.5g,78.9g,0.8g,0.3g,0g,6.1g,0mg,2.2g,1083.6mg,16.5g,38mg,2.2mg,0mcg,250.9mg
+Teriyaki Swordfish,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-01-20,203,4 OZ,7.5g,9.3g,1.7g,0g,0g,9.2g,75mg,0.3g,260.2mg,22.8g,16.9mg,0.7mg,23.8mcg,475.9mg
+Corn And Black Bean Quesadilla,McMahon,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-20,288,1 EACH,12.3g,33.6g,5.4g,0.2g,0g,2.6g,18.6mg,2g,601.8mg,9.7g,274.1mg,2.2mg,0mcg,139mg
+Roasted Sweet Potato Salad With Chili Lime Dressing,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,134,4 OZ,3.6g,23.8g,0.3g,3.4g,0g,6.6g,0mg,1.5g,248.7mg,1.9g,36.9mg,0.8mg,0mcg,374.8mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Lunch,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-20,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Chocolate Brownies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,203,1/96 SHEET,8.8g,28.4g,2g,1g,0g,21.3g,14.2mg,19.2g,122.1mg,1.5g,12.4mg,1.7mg,0.1mcg,76.3mg
+Oatmeal Raisin Cookies,McMahon,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,140,1 EACH,4.5g,22g,1.5g,0g,0g,13g,0mg,8g,85mg,2g,9mg,0.7mg,0mcg,82mg
+Broiled Cod With Roasted Potato,McMahon,Dinner,"Fish, Wheat","['Less Sodium', 'Smart Check']",2023-01-20,278,1 PLATE,3.9g,38.8g,0.3g,5.6g,0g,4.3g,45mg,0.7g,224.6mg,25.9g,60.5mg,2.5mg,0mcg,807mg
+Bulgogi Mushroom Tacos With Sweet Potato Tots,McMahon,Dinner,"Wheat, Soybeans, Gluten, Sesame","['Vegetarian', 'Vegan']",2023-01-20,518,1 PLATE,22.6g,71.4g,2.5g,5.6g,0g,18.4g,0mg,2.5g,1001.4mg,9g,226mg,3.4mg,0mcg,512.5mg
+Char Siu Chicken with Crispy Rice Cakes,McMahon,Dinner,"Wheat, Soybeans, Sesame",[],2023-01-20,687,1 PLATE,12.7g,92.5g,2.2g,2.4g,0g,14.9g,170.9mg,7g,970.2mg,44.7g,80mg,4mg,0mcg,311.7mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Rotini,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,mg
+Slow Roasted Strip Loin With Corn And Potato Salad,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-20,642,1 PLATE,38.1g,30.4g,13.2g,2g,1.8g,4.3g,133.7mg,0g,520.7mg,39.4g,28.1mg,3.9mg,0mcg,377.5mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-01-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Corn With Pesto,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,86,3 OZ,1.7g,16g,0.3g,0.1g,0g,1g,0.9mg,0g,32.2mg,1.3g,12.2mg,0.1mg,0mcg,5.8mg
+Red Potato Salad,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,106,3 OZ,6.2g,12.8g,0.6g,1.7g,0g,1.5g,0mg,0g,81.2mg,2.5g,13.3mg,0.5mg,0mcg,356.4mg
+Slow Roasted Strip Loin,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,449,4 OZ,30.2g,1.6g,12.4g,0.1g,1.8g,1.8g,132.8mg,0g,407.3mg,35.6g,2.6mg,3.3mg,0mcg,15.3mg
+Fried Sweet Potato Tots,McMahon,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,272,4 OZ,15.9g,31.1g,0.8g,2.7g,0g,10.8g,0mg,0g,270mg,1.4g,27mg,0.5mg,0mcg,229.5mg
+Gochujang Ketchup,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,18,1 TSP,0.5g,3.3g,0.1g,0g,0g,2.2g,0mg,0.9g,141.4mg,0.2g,0mg,0mg,0mcg,mg
+Mushroom Bulgogi Tacos,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Vegetarian', 'Vegan']",2023-01-20,237,2 EACH,6.4g,38.7g,1.7g,2.9g,0g,6.5g,0mg,2g,660.7mg,7.5g,199mg,2.9mg,0mcg,283mg
+Carrot and Snow Pea Stir Fry,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,47,3 OZ,1.3g,6.9g,0.1g,2.3g,0g,4.1g,0mg,0g,112mg,2.1g,31.5mg,1.3mg,0mcg,227.7mg
+Char Siu Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-01-20,256,1 EACH,7.5g,6.3g,1.6g,0.1g,0g,4.7g,170.9mg,4g,501.5mg,36.3g,36.9mg,1.9mg,0mcg,6.8mg
+Crispy Rice Cake,McMahon,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,372,1 EACH,3.9g,76.1g,0.5g,0g,0g,2.8g,0mg,0g,216.7mg,5.9g,11.6mg,0.7mg,0mcg,77.2mg
+Kabayaki Sauce,McMahon,Dinner,Soybeans,[],2023-01-20,51,1 OZ,0g,12.7g,0g,0g,0g,12.7g,0mg,12.2g,560mg,1.1g,0mg,0.4mg,0mcg,mg
+Baked Scrod,McMahon,Dinner,"Fish, Wheat","['Less Sodium', 'Smart Check']",2023-01-20,113,1 EACH,1.8g,5.3g,0.1g,0.3g,0g,0g,45mg,0g,94.8mg,18.9g,19.2mg,0.4mg,0mcg,4.7mg
+Carrot Puree,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,14,1 OZ,0.1g,3.2g,0g,0g,0g,1.7g,0mg,0.7g,46.6mg,0.3g,10.6mg,0.1mg,0mcg,91.9mg
+Peas,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,69,3 OZ,0g,11.8g,0g,3.9g,0g,0g,0mg,0g,0mg,4.9g,13.7mg,1mg,0mcg,132.3mg
+Roasted Red Potato With French Herbs,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,65,2 OZ,1.3g,13.8g,0.1g,1.6g,0g,1.6g,0mg,0g,51.2mg,2.1g,13.3mg,0.8mg,0mcg,382.9mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chicken And Spinach With Horseradish Sauce Pizza,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-20,304,1 PLATE,13.9g,25.3g,5.2g,0.9g,0g,1.7g,46.5mg,0.5g,542.4mg,20g,212.4mg,1.9mg,0mcg,67.5mg
+Peach Bread Pudding,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,190,1/35 HFPAN,5.8g,25.7g,2.2g,0.4g,0g,17.3g,126.9mg,12.3g,167.1mg,8.2g,128.2mg,1.4mg,2.1mcg,98.2mg
+Bacon,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-21,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Chefs Omelet Du Jour,McMahon,Lunch,"Milk, Eggs, Soybeans",[],2023-01-21,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Chocolate Chip Pancakes,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-21,548,2 EACH,24.5g,66.6g,4.6g,0g,0g,24.7g,114.6mg,14.2g,453.1mg,14g,300.6mg,4mg,0.7mcg,250.4mg
+Hard Boiled Eggs,McMahon,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Lunch,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-21,106,8 OZL,2.1g,19.1g,0.4g,0g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,McMahon,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,McMahon,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Blueberry Muffin,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,277,1 EACH,12.4g,36.9g,1.3g,0.7g,0g,23.4g,47.6mg,22.5g,171.6mg,3g,25.1mg,0.5mg,0.3mcg,46.1mg
+Double Chocolate Chip Cookie,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,170,1 EACH,8g,23g,4.5g,0g,0g,15g,10mg,0g,140mg,2g,10mg,0.7mg,mcg,105mg
+Chipotle Buttermilk Chicken With Sweet Potato,McMahon,Dinner,Milk,"['Gluten Friendly', 'Smart Check']",2023-01-21,282,1 PLATE,7.1g,34.5g,3.5g,6.2g,0g,8.4g,60.8mg,0g,462.4mg,21.9g,85.8mg,3.1mg,0mcg,697.8mg
+Chicken Parmesan Over Penne,McMahon,Dinner,"Milk, Wheat",[],2023-01-21,630,1 PLATE,25.5g,69.3g,4.2g,5.8g,0g,16.8g,53.9mg,0g,1378.7mg,30.3g,133.9mg,4.5mg,0mcg,11.3mg
+Fried Calamari Over Greens,McMahon,Dinner,"Milk, Fish, Wheat, Soybeans, Gluten",[],2023-01-21,475,1 PLATE,30.9g,37.2g,3.7g,2.9g,0g,1.5g,177.2mg,0g,541.5mg,15.8g,89.5mg,2.2mg,0mcg,84.9mg
+Lentil Taco in a Hard Shell,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-01-21,301,1 PLATE,4.9g,47.1g,0.7g,12.7g,0g,4.8g,0mg,0.3g,647.3mg,12.6g,63.8mg,3.7mg,0mcg,229.3mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-01-21,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chipotle Buttermilk Chicken,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-21,94,1 EACH,2.2g,1.3g,0.5g,0g,0g,0.7g,48.6mg,0g,297.3mg,17.7g,20.4mg,0.4mg,0mcg,28.6mg
+Roasted Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,20,3 OZ,0.4g,3.4g,0.1g,1.7g,0g,1.5g,0mg,0g,38mg,1.9g,20.9mg,1.8mg,0mcg,170.1mg
+Whipped Sweet Potato,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,168,4 OZ,4.5g,29.8g,2.9g,4.4g,0g,6.2g,12.2mg,0g,127mg,2.3g,44.4mg,0.9mg,0mcg,499.2mg
+Fried Calamari Over Greens,McMahon,Dinner,"Milk, Fish, Wheat, Soybeans, Gluten",[],2023-01-21,475,1 EACH,30.9g,37.2g,3.7g,2.9g,0g,1.5g,177.2mg,0g,541.5mg,15.8g,89.5mg,2.2mg,0mcg,84.9mg
+Lentil Taco in a Hard Shell,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-21,301,2 EACH,4.9g,47.1g,0.7g,12.7g,0g,4.8g,0mg,0.3g,647.3mg,12.6g,63.8mg,3.7mg,0mcg,229.3mg
+Chicken Parm With Fresh Mozz,McMahon,Dinner,"Milk, Wheat",[],2023-01-21,327,1 EACH,17.9g,20.4g,3.8g,2g,0g,5g,53.9mg,0g,899.7mg,22.1g,93.9mg,1.5mg,0mcg,11.3mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,318,6 OZ,5.3g,55.3g,0.6g,2.7g,0g,2.7g,0mg,0g,0mg,9.4g,0mg,2.4mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Veggie Combo Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,212,1 PLATE,7.5g,26.4g,3.3g,1.8g,0g,2.8g,13.2mg,0.6g,391.7mg,9.4g,140.6mg,1.8mg,0mcg,91.9mg
+Fruit of the Forest Pie,McMahon,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,475,1/8 PIE,27.5g,55g,11.3g,2.5g,0g,22.5g,0mg,0g,412.5mg,3.8g,50mg,1.8mg,0mcg,mg
+Bacon,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-22,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Belgian Waffle,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-22,165,1 EACH,5g,26g,1.5g,1g,0g,5g,25mg,0g,400mg,4g,10mg,1.4mg,0mcg,mg
+Chefs Omelet Du Jour,McMahon,Lunch,"Milk, Eggs, Soybeans",[],2023-01-22,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Home Fries,McMahon,Lunch,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,194,4 OZ,11.2g,22.4g,0.8g,0g,0g,0g,0mg,0g,57.5mg,1.4g,0mg,0mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Lunch,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-22,106,8 OZL,2.1g,19.1g,0.4g,0g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,McMahon,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,McMahon,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Beef Gravy,McMahon,Lunch,"Wheat, Soybeans",['Less Sodium'],2023-01-22,42,2 OZL,2.8g,3g,0.9g,0g,0g,0.4g,0mg,0g,149.5mg,0.8g,23.8mg,0.2mg,0mcg,68.4mg
+Mashed Potatoes,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,132,4 OZ,5.2g,17.5g,3.3g,0g,0g,2.3g,15.4mg,0g,278.2mg,3.1g,91.5mg,0.3mg,1mcg,249.5mg
+Roast Strip Loin,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-22,449,4 OZ,30.3g,0.9g,12.5g,0.3g,1.8g,1.8g,133.6mg,0g,491.4mg,35.7g,5.7mg,3.4mg,0mcg,16.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Gemelli,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Assorted Strudel Bites,McMahon,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,79,1 EACH,4.4g,9.1g,2.2g,0.2g,0g,4.3g,0mg,0g,44.1mg,0.6g,4mg,0.3mg,mcg,mg
+S'mores Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-01-22,190,1 EACH,9g,25g,4.5g,0g,0g,13g,10mg,13g,200.2mg,1g,10.1mg,1.3mg,0mcg,30mg
+Red Lentil Pasta With Sun Dried Tomato Pesto,McMahon,Dinner,Milk,"['Gluten Friendly', 'Smart Check', 'Vegetarian']",2023-01-22,685,1 PLATE,22.9g,92.5g,4.9g,7.5g,0g,6.9g,10.1mg,0g,757.6mg,31.8g,149.3mg,8.7mg,0.6mcg,1636.7mg
+Chicken With White Beans And Broccoli,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-22,254,1 PLATE,9.1g,19.2g,2.8g,5.7g,0g,1.9g,56.1mg,0g,592mg,24.2g,100.5mg,2.2mg,0mcg,514.4mg
+Gemelli,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Miso Roasted Beef,McMahon,Dinner,"Wheat, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-22,586,1 PLATE,32.3g,27.2g,12.5g,2.2g,1.8g,6.3g,132.8mg,0.4g,574.5mg,40.1g,30.4mg,4.3mg,0mcg,220.2mg
+Tacos De Carne Asada,McMahon,Dinner,"Wheat, Soybeans",[],2023-01-22,647,1 PLATE,35.5g,34g,14g,0.5g,1.8g,5.7g,132.8mg,2g,955.8mg,40.2g,125.6mg,5.4mg,0mcg,224.7mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-01-22,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Brown Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,96,3 OZ,0.8g,20.3g,0g,1.1g,0g,0g,0mg,0g,2.4mg,2.3g,1.8mg,0.2mg,0mcg,0mg
+Miso Basted Beef,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-22,449,4 OZ,30.3g,0.6g,12.4g,0g,1.8g,2.2g,132.8mg,0g,290mg,35.8g,2.1mg,3.3mg,0mcg,12mg
+Tare Roasted Vegetables,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,40,3 OZ,1.2g,6.2g,0.1g,1.1g,0g,4.2g,0mg,0.8g,283.1mg,2g,26.5mg,0.8mg,0mcg,208.1mg
+Tacos De Carne Asada,McMahon,Dinner,"Wheat, Soybeans",[],2023-01-22,647,2 EACH,35.5g,34g,14g,0.5g,1.8g,5.7g,132.8mg,2g,955.8mg,40.2g,125.6mg,5.4mg,0mcg,224.7mg
+Chicken With White Wine And Olives,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-22,126,1 EACH,5.7g,1.8g,0.9g,0.1g,0g,0.1g,48.3mg,0g,368.6mg,17.5g,12.2mg,0.5mg,0mcg,21.4mg
+Parmesan Roasted Broccoli,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,30,4 OZL,1.2g,3.5g,0.4g,1.6g,0g,1g,1.7mg,0g,71.3mg,2.7g,49.3mg,0.6mg,0mcg,222mg
+White Beans With Garlic And Herbs,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,98,3 OZ,2.2g,13.9g,1.4g,4g,0g,0.8g,6.1mg,0g,152mg,4g,39mg,1.2mg,0mcg,271mg
+Red Lentil Pasta With Sun Dried Tomato Pesto,McMahon,Dinner,Milk,"['Gluten Friendly', 'Vegetarian']",2023-01-22,685,10 OZ,22.9g,92.5g,4.9g,7.5g,0g,6.9g,10.1mg,0g,757.6mg,31.8g,149.3mg,8.7mg,0.6mcg,1636.7mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Curly Fries,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-22,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Fried Plant Based Chicken Cutlet,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,230,1 EACH,14g,20g,1.5g,0g,0g,2g,0mg,1g,320mg,9g,30mg,1.3mg,0mcg,190mg
+Grilled Chicken Breast,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-22,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-22,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Confetti Cake,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,203,1/35 HFSHT,8.7g,30g,3.4g,0g,0g,17.1g,0mg,16.8g,250.2mg,1.4g,14.8mg,0.6mg,0mcg,28.4mg
+Breakfast Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-23,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+French Toast Stix,McMahon,Breakfast,"Wheat, Soybeans, Gluten",['Vegetarian'],2023-01-23,540,5 EACH,34.3g,54.7g,2.9g,1.3g,0g,12.7g,0mg,12.7g,572.3mg,6.4g,25.4mg,3.2mg,0mcg,63.6mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-23,106,8 OZL,2.1g,19.1g,0.4g,0g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Pork Sausage Links,McMahon,Breakfast,,['Gluten Friendly'],2023-01-23,202,2 EACH,19.2g,0g,7.1g,0g,0g,0g,35.3mg,0g,433.4mg,6g,26.2mg,0.4mg,mcg,mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Banana Bread,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,200,1/16 LOAF,5.2g,34.3g,3g,0.5g,0g,16.8g,36.3mg,14.2g,450mg,3.9g,38.5mg,1.2mg,0.1mcg,109.2mg
+Buffaque Chicken Tender With Kale And Carrot Hummus,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Smart Check']",2023-01-23,257,1 PLATE,8.4g,22.5g,1.3g,2.7g,0g,8g,54.7mg,1.3g,614.8mg,27g,144.6mg,2.3mg,0mcg,544.1mg
+Chicken Teriyaki Dumplings With Szechuan  Edamame,McMahon,Lunch,"Milk, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-01-23,421,1 PLATE,8.2g,64g,1.2g,4g,0g,3.5g,3.8mg,0g,413.6mg,20.1g,75.1mg,2.5mg,0mcg,454.8mg
+Cavatappi,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Grilled Polenta With Roasted Vegetables And Harissa,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,463,1 PLATE,35.3g,31.4g,7.2g,3.6g,0g,7.6g,15.9mg,0g,583.8mg,9.8g,223.9mg,2mg,1mcg,434.8mg
+Japanese Chicken Curry,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans",[],2023-01-23,350,1 PLATE,11.6g,41.8g,5.5g,1.8g,0g,8.4g,154.5mg,3.2g,907.3mg,18.6g,66.9mg,3.6mg,0mcg,256.5mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-01-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Buffaque Chicken Tender,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-23,104,1 EACH,1.4g,2.5g,0.4g,0g,0g,2.4g,54.7mg,0.7g,211.9mg,21.9g,0mg,0.6mg,0mcg,0.5mg
+Carrot Hummus,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,85,3 OZ,4.8g,9.1g,0.6g,1.2g,0g,2.9g,0mg,0.6g,147.8mg,1.9g,23.6mg,0.8mg,0mcg,177.1mg
+Sauteed Kale,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,71,3 OZ,2.2g,11.1g,0.3g,2.7g,0g,2.8g,0mg,0g,255.2mg,3.5g,118.1mg,1.2mg,0mcg,370.1mg
+Grilled Polenta Cake,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,119,1 EACH,4g,16.5g,1.5g,0g,0g,2.4g,8mg,0g,169.7mg,4.6g,119.2mg,0.5mg,1mcg,0mg
+Harissa Roasted Vegetables,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,126,5 OZ,8.6g,12.2g,1.2g,2.9g,0g,4.7g,0mg,0g,210.6mg,2g,31.6mg,1.2mg,0mcg,338.8mg
+Kale Pesto,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,197,2 TBL,21.2g,2.4g,3.5g,0.7g,0g,0.4g,2.8mg,0g,123.6mg,2g,58.1mg,0.3mg,0mcg,96mg
+Chicken Teriyaki Potstickers,McMahon,Lunch,"Wheat, Soybeans, Sesame",['Less Sodium'],2023-01-23,118,3 EACH,2.4g,16.5g,0.4g,0g,0g,1.2g,0mg,0g,269.3mg,7.4g,17mg,0.2mg,0mcg,0.2mg
+Edamame With Miso Butter,McMahon,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,157,4 OZ,7.4g,8.6g,1.2g,5.3g,0g,3.1g,5mg,0g,189.1mg,12.4g,68.7mg,2.5mg,0mcg,546.3mg
+Sticky Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,185,4 OZ,0.3g,41g,0g,0g,0g,0g,0mg,0g,2.5mg,3.4g,6.6mg,0.4mg,0mcg,44.9mg
+Japanese Chicken Curry,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans",[],2023-01-23,259,6 OZL,11.6g,21.4g,5.5g,1.8g,0g,8.4g,154.5mg,3.2g,904.9mg,16.4g,47.3mg,2.5mg,0mcg,212.5mg
+White Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Lunch,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-23,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Chocolate Chip Cookie,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,170,1 EACH,8g,23g,4g,1g,0g,15g,10mg,0g,130mg,2g,0mg,2mg,mcg,70mg
+Lemon Bars,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,238,1/35 HFSHT,6.2g,40.5g,2.6g,0g,0g,28.7g,41.8mg,0g,142.9mg,1.7g,0.5mg,0.6mg,0mcg,33.4mg
+Rice Noodle In Ginger Garlic Broth,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-23,264,1 PLATE,6.8g,39.6g,0.6g,1.9g,0g,6.4g,0mg,3.1g,730.8mg,11.8g,114.4mg,2.3mg,0mcg,276.9mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Porchetta,McMahon,Dinner,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-23,357,1 PLATE,16.1g,28.4g,5g,5.4g,1.4g,5g,88.3mg,0g,491.3mg,29.1g,160.6mg,3.3mg,0.1mcg,943.5mg
+Sausage And Kale Pasta Saute,McMahon,Dinner,"Milk, Wheat",[],2023-01-23,470,1 PLATE,21.4g,45g,12.2g,2.9g,0g,2.6g,83.2mg,0g,808.3mg,20.9g,1003.9mg,3.2mg,0mcg,258.2mg
+Teriyaki Glazed Beef with Edamame Hummus,McMahon,Dinner,"Soybeans, Sesame",['Gluten Friendly'],2023-01-23,757,1 PLATE,55.3g,17.9g,15.7g,3.8g,1.8g,15.2g,132.8mg,0g,422.3mg,41.7g,39.8mg,4.6mg,0mcg,328.4mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-01-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Braised Winter Greens,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,97,4 OZ,3.6g,13.3g,1.1g,5.1g,0g,3.8g,3.6mg,0g,188mg,7g,244mg,2mg,0mcg,686.3mg
+Pork Alla Porchetta,McMahon,Dinner,Eggs,"['Gluten Friendly', 'Less Sodium']",2023-01-23,224,3 OZ,13.4g,1.8g,4.3g,0.5g,1.4g,0.8g,86.5mg,0g,350.8mg,22.5g,19.4mg,1.5mg,0.1mcg,46.5mg
+Roasted Red Potato With Rosemary,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,63,3 OZ,0.6g,15g,0.1g,1.8g,0g,1.7g,0mg,0g,34.9mg,2.3g,14.4mg,0.6mg,0mcg,415.4mg
+Cauliflower Stir Fry,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,55,3 OZ,3.8g,4.7g,0.6g,2.1g,0g,2.4g,0mg,0g,89.2mg,1.8g,15.7mg,0.4mg,0mcg,146.7mg
+Edamame Hummus,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,219,2 OZ,21.3g,3g,2.7g,1.8g,0g,0.9g,0mg,0g,49.3mg,4.1g,24.1mg,0.9mg,0mcg,181.6mg
+Teriyaki Glazed Beef,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-23,482,4 OZ,30.1g,10.2g,12.4g,0g,1.8g,12g,132.8mg,0g,283.8mg,35.8g,0.1mg,3.3mg,0mcg,0mg
+Rice Noodle In Ginger Garlic Broth,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-23,264,1 BOWL,6.8g,39.6g,0.6g,1.9g,0g,6.4g,0mg,3.1g,730.8mg,11.8g,114.4mg,2.3mg,0mcg,276.9mg
+Sausage And Kale Pasta Saute,McMahon,Dinner,"Milk, Wheat",[],2023-01-23,470,10 OZ,21.4g,45g,12.2g,2.9g,0g,2.6g,83.2mg,0g,808.3mg,20.9g,1003.9mg,3.2mg,0mcg,258.2mg
+Burger Bar,McMahon,Dinner,,[],2023-01-23,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Curly Fries,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-23,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Cheeseburger Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",[],2023-01-23,362,1 PLATE,19g,27.3g,9.1g,0.8g,0.4g,4.3g,63.3mg,0.5g,1113.9mg,21.4g,199.3mg,2.5mg,0mcg,96.8mg
+Apple Pie,McMahon,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,495,1/8 PIE,28.5g,58.5g,12g,3g,0g,28.5g,0mg,0g,465mg,3g,0mg,1.6mg,0mcg,mg
+Bacon,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-24,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Buttermilk Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-01-24,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-24,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+O'Brien Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,127,4 OZ,4g,21g,1.3g,0.2g,0g,0.5g,0.1mg,0g,167.5mg,1.4g,2.1mg,0mg,0mcg,17.4mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-24,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Pina Colada Muffin,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,341,1 EACH,16.4g,44.2g,3.5g,0.8g,0g,28.4g,55.8mg,23.2g,212.8mg,3.6g,28.5mg,0.5mg,0.3mcg,55.2mg
+Beef Kaldereta,McMahon,Lunch,,"['Gluten Friendly', 'Smart Check']",2023-01-24,312,1 PLATE,5.5g,45g,1.5g,1.6g,0g,5.8g,44mg,0g,662.6mg,19.8g,66mg,3.8mg,0.1mcg,672.2mg
+Chipotle Buttermilk Chicken With Tabouleh,McMahon,Lunch,"Milk, Wheat, Gluten",[],2023-01-24,361,1 PLATE,21.8g,23.6g,2.8g,0.8g,0g,3.1g,48.6mg,0g,811.3mg,22.4g,49.8mg,1.8mg,0mcg,216.9mg
+Cobb Salad,McMahon,Lunch,"Milk, Eggs, Soybeans",['Gluten Friendly'],2023-01-24,333,1 PLATE,21.6g,6.6g,7.9g,1.8g,0g,3.2g,176.7mg,0g,765mg,30.5g,167.6mg,1.9mg,0mcg,443.3mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Samosas With Eggplant Pepper Spread,McMahon,Lunch,"Milk, Wheat, Gluten",['Vegetarian'],2023-01-24,596,1 PLATE,35.6g,62g,1.6g,4.9g,0g,2.2g,0.1mg,0g,1082.1mg,8.6g,17.3mg,3.6mg,0mcg,77.2mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-01-24,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chipotle Buttermilk Chicken,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-24,94,1 EACH,2.2g,1.3g,0.5g,0g,0g,0.7g,48.6mg,0g,297.3mg,17.7g,20.4mg,0.4mg,0mcg,28.6mg
+Fried Curried Chickpeas,McMahon,Lunch,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,158,2 OZ,11.8g,11.8g,0.8g,0.4g,0g,1.7g,0mg,0g,409.1mg,3.4g,25.7mg,1mg,0mcg,129mg
+Tabouleh,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,141,3 OZ,10.2g,12.3g,1.4g,0.4g,0g,1.2g,0mg,0g,232.1mg,2.2g,12.4mg,0.7mg,0mcg,92.9mg
+Avocado Ranch Dressing,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,265,2 OZ,27.9g,2.3g,2.8g,0g,0g,1g,0.2mg,0g,262.7mg,0.9g,17.3mg,0.2mg,0mcg,109.6mg
+Cobb Salad,McMahon,Lunch,"Milk, Eggs",['Gluten Friendly'],2023-01-24,184,1 BOWL,12.8g,5g,6.4g,1.8g,0g,2.6g,128.3mg,0g,504.4mg,13.1g,163.8mg,1.4mg,0mcg,415.9mg
+Grilled Italian Chicken,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-24,100,1 EACH,3.6g,0.5g,0.8g,0g,0g,0.3g,48.3mg,0g,183.4mg,17.2g,0mg,0.4mg,0mcg,mg
+Beef Kaldereta,McMahon,Lunch,,"['Gluten Friendly', 'Smart Check']",2023-01-24,190,6 OZL,5.5g,17.8g,1.5g,1.6g,0g,5.8g,44mg,0g,659.4mg,16.9g,40mg,2.4mg,0.1mcg,613.6mg
+White Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Ajvar,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,42,2 OZ,2.1g,5.2g,0.3g,0.6g,0g,1.9g,0mg,0g,126.2mg,0.4g,6.8mg,0.5mg,0mcg,39.4mg
+Mint Chutney,McMahon,Lunch,Milk,"['Gluten Friendly', 'Vegetarian']",2023-01-24,10,1 OZL,0.2g,1.5g,0.1g,0.6g,0g,0.6g,0.3mg,0g,312mg,0.5g,20.9mg,0.3mg,0.1mcg,75.7mg
+Pea and Potato Samosa,McMahon,Lunch,"Wheat, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,549,4 EACH,33.4g,56g,1.2g,4g,0g,0g,0mg,0g,800mg,8g,0mg,2.9mg,0mcg,mg
+BBQ Chicken Pizza,McMahon,Lunch,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-24,316,1 PLATE,15g,24.7g,6.6g,0.9g,0g,1.6g,53mg,0.5g,521mg,19.7g,203.9mg,1.8mg,0mcg,49.9mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+M & M Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,160,1 EACH,7g,24g,3.5g,1g,0g,15g,10mg,0g,140mg,2g,0mg,0.7mg,0mcg,35mg
+Snickerdoodle Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,171,1 EACH,7.2g,25.4g,4.1g,0.1g,0g,14.9g,15.4mg,1.6g,143.8mg,2.1g,4mg,0.8mg,0mcg,36.9mg
+Yakitori Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-01-24,233,1 PLATE,3.5g,29.6g,0.7g,2.4g,0g,6.1g,48.3mg,1.6g,427.5mg,21.7g,53.5mg,2.8mg,0mcg,294.8mg
+Adobo Cod With Parsnip & Peas,McMahon,Dinner,"Milk, Fish",['Gluten Friendly'],2023-01-24,322,1 PLATE,13.5g,27.1g,7.6g,7.7g,0g,9.5g,77.3mg,0g,652.2mg,24g,54.8mg,1.6mg,0mcg,308.7mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Pork Loin Wrapped In Bacon,McMahon,Dinner,"Milk, Soybeans",['Gluten Friendly'],2023-01-24,387,1 PLATE,20g,19.3g,8.1g,3.4g,0g,4.1g,107.7mg,0g,913.1mg,33.7g,59.9mg,3.7mg,0.3mcg,555.7mg
+Shakshuka With Naan,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, Sesame",['Vegetarian'],2023-01-24,282,1 PLATE,13.8g,24.9g,4.1g,1.9g,0g,7.2g,226.1mg,0.5g,935.5mg,11.8g,125.5mg,2mg,0mcg,84.3mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-01-24,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Bacon Wrapped Pork Loin,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-24,247,4 OZ,13.6g,0.1g,4.8g,0g,0g,0g,93.2mg,0g,212mg,28.6g,0.4mg,1.3mg,0mcg,1.3mg
+Mushroom Gravy,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-24,10,1 OZL,0.3g,1.5g,0g,0.1g,0g,0.6g,0.7mg,0g,467.3mg,0.8g,4mg,0.1mg,0.1mcg,18.6mg
+Roasted Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,20,3 OZ,0.4g,3.4g,0.1g,1.7g,0g,1.5g,0mg,0g,38mg,1.9g,20.9mg,1.8mg,0mcg,170.1mg
+Roasted Garlic Mashed Potatoes,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,110,3 OZ,5.8g,14.4g,3.3g,1.6g,0g,2g,13.8mg,0g,195.8mg,2.5g,34.6mg,0.6mg,0.2mcg,365.7mg
+Carrot and Snow Pea Stir Fry,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,47,3 OZ,1.3g,6.9g,0.1g,2.3g,0g,4.1g,0mg,0g,112mg,2.1g,31.5mg,1.3mg,0mcg,227.7mg
+Pickled Cucumber,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,7,1 OZ,0g,1.8g,0g,0.1g,0g,1.4g,0mg,1.2g,79.1mg,0.1g,2.6mg,0mg,0mcg,23.2mg
+White Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Yakitori Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-01-24,89,1 EACH,2.1g,0.6g,0.5g,0g,0g,0.5g,48.3mg,0.5g,234mg,17.4g,0mg,0.4mg,0mcg,mg
+Grilled Naan With Olive Oil And Za'atar,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian']",2023-01-24,81,2 PIECES,2.4g,11.5g,0.3g,0g,0g,0.5g,2.5mg,0.5g,221.7mg,2g,21.5mg,0.5mg,0mcg,24.5mg
+Shakshuka,McMahon,Dinner,"Milk, Eggs","['Gluten Friendly', 'Vegetarian']",2023-01-24,201,1 EACH,11.4g,13.4g,3.8g,1.9g,0g,6.7g,223.6mg,0g,713.8mg,9.8g,104mg,1.5mg,0mcg,59.8mg
+Adobo Cod,McMahon,Dinner,"Milk, Fish","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-24,98,1 EACH,2.7g,0g,1.2g,0g,0g,0g,50mg,0g,232mg,18g,18mg,0.3mg,0mcg,0mg
+Parsnip Puree,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,142,4 OZ,8.6g,15.6g,5.4g,3.9g,0g,3.7g,22.8mg,0g,291.2mg,1.2g,36.4mg,0.5mg,0mcg,307.1mg
+Peas with Lemon Butter and Mint,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,110,4 OZ,2.9g,15.4g,1.4g,5.1g,0g,7.7g,6.1mg,0g,172mg,6.4g,0.6mg,0.9mg,0mcg,2mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Taco Tuesday,McMahon,Dinner,,[],2023-01-24,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-24,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Midnight Choc Cake w/ Chocolate Frosting,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,308,1/35 HFSHT,15.2g,37.9g,8.8g,1g,0.2g,25.6g,15.9mg,0g,329.6mg,2.7g,17.1mg,1.6mg,0mcg,81.6mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-25,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-25,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-25,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-25,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Sausage Patties,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-25,253,2 EACH,24.3g,0g,9.1g,0g,0g,0g,40.5mg,0g,546.8mg,8.1g,0mg,0.4mg,mcg,mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Blueberry Coffee Cake,McMahon,Breakfast,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,248,1/35 HFSHT,7.1g,42g,2.2g,0.6g,0g,20.3g,0mg,19.6g,175.4mg,3.2g,19.2mg,0.9mg,0mcg,40.6mg
+Inihaw Na Manok,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Smart Check']",2023-01-25,223,1 PLATE,3g,30.1g,0.7g,1.3g,0g,8.3g,48.3mg,2.6g,325mg,20.3g,40.5mg,1.8mg,0mcg,209.4mg
+Gemelli,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Indian Bar,McMahon,Lunch,,[],2023-01-25,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Chicken With North African Spice Paste,McMahon,Lunch,,['Gluten Friendly'],2023-01-25,339,1 PLATE,21.1g,16.9g,2.2g,4.1g,0g,2.1g,48.3mg,0g,803.9mg,21.9g,70.7mg,3.1mg,0mcg,341.5mg
+Yakisoba,McMahon,Lunch,"Fish, Wheat, Soybeans",[],2023-01-25,387,1 PLATE,6.9g,71g,0.7g,2.7g,0g,8.3g,1mg,2.8g,1472.1mg,11.4g,120.4mg,4.1mg,0mcg,117.3mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-01-25,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chicken With North African Spice Paste,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-25,108,1 EACH,4.1g,1.2g,0.8g,0.5g,0g,0g,48.3mg,0g,213.9mg,17.4g,8.8mg,0.7mg,0mcg,21.9mg
+Pigeon Peas,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,60,3 OZ,0.8g,10.6g,0.1g,2.9g,0g,0.4g,0mg,0g,294mg,2.9g,17.6mg,0.8mg,0mcg,19.6mg
+Swiss Chard Salad,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,129,3 OZ,12.1g,3.8g,1g,0.6g,0g,1.3g,0mg,0g,222mg,1.2g,33.2mg,1.2mg,0mcg,225mg
+Garlic Fried Rice (Sinangag),McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,129,4 OZ,0.9g,27g,0.1g,0.1g,0g,0.1g,0mg,0g,94.3mg,3g,31.8mg,1.5mg,0mcg,74.4mg
+Inihaw Na Manok Marinade,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-25,91,1 EACH,2.2g,1.2g,0.5g,0g,0g,1g,48.3mg,1g,184.5mg,17.3g,0.8mg,0.4mg,0mcg,1.8mg
+Mango And Daikon Salad,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,14,1 OZ,0.1g,3.5g,0g,0.5g,0g,2.9g,0mg,0.6g,27.9mg,0.3g,6.3mg,0.1mg,0mcg,60.7mg
+Yakisoba,McMahon,Lunch,"Fish, Wheat, Soybeans",[],2023-01-25,387,8 OZ,6.9g,70.9g,0.7g,2.7g,0g,8.3g,1mg,2.8g,1470.1mg,11.3g,117.1mg,4.1mg,0mcg,109.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Spicy Kale With Ricotta And Peppadew Peppers,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,251,1 PLATE,11.7g,27.4g,3.8g,1.3g,0g,3.7g,15.6mg,1.6g,283.2mg,9.2g,168.8mg,2mg,0mcg,83.3mg
+Chocolate Streusel Brownies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,227,1/96 SHEET,10.1g,31.5g,2.9g,1.1g,0g,23.2g,18.5mg,18.5g,151.9mg,1.9g,13.9mg,1.9mg,0.1mcg,89.9mg
+Ranger Cookies,McMahon,Lunch,"Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,180,1 EACH,9g,24g,5g,0g,0g,10g,0mg,0g,125mg,2g,26mg,0.4mg,mcg,0mg
+Green Curry Vegetable,McMahon,Dinner,"Soybeans, Sesame, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-25,250,1 PLATE,5.4g,45.5g,3g,2.5g,0g,5g,0mg,0.6g,366.4mg,6.9g,53.5mg,1.7mg,0.1mcg,423.2mg
+Dijon Chicken With Olive Oil Crushed Potato,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-25,407,1 PLATE,16.8g,24.8g,2.9g,4.7g,0g,2.7g,164.1mg,0g,393.6mg,41.2g,144.6mg,5.1mg,0mcg,1052.7mg
+Gemelli,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Puerto Rican Roast Pork With Rice And Beans,McMahon,Dinner,Gluten,[],2023-01-25,690,1 PLATE,39.7g,52.6g,11.3g,1.1g,0g,22.2g,102.6mg,0g,1465.6mg,32.1g,36.4mg,3.5mg,0mcg,525.4mg
+Tostones with Chipotle Sour Cream and Pico,McMahon,Dinner,"Milk, Gluten",['Vegetarian'],2023-01-25,596,1 PLATE,43.9g,49g,8g,2.9g,0g,19.4g,18mg,0g,882.4mg,6.4g,66.9mg,1.9mg,0mcg,945.6mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-01-25,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Fried Plantains,McMahon,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,294,3 EACH,15.4g,38.8g,1.6g,1.5g,0g,32.8g,0mg,0g,0mg,0.7g,5.2mg,0.4mg,0mcg,552.1mg
+Pernil,McMahon,Dinner,,['Gluten Friendly'],2023-01-25,372,4 OZ,29.3g,0.5g,10.3g,0.1g,0g,0g,102.6mg,0g,1165.4mg,27.9g,3.6mg,1.6mg,0mcg,6.1mg
+Rice And Beans,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,183,6 OZ,0.1g,39.4g,0g,0.1g,0g,0.5g,0mg,0g,450.3mg,5.5g,44mg,2.3mg,0mcg,226.8mg
+Black Bean Hummus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,212,2 OZ,19.4g,7.6g,2.7g,0.1g,0g,0.8g,0mg,0g,191mg,2.4g,19mg,0.8mg,0mcg,170.7mg
+Chipotle Sour Cream,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,28,1 TBL,2.3g,1g,1.6g,0g,0g,0.5g,9mg,0g,32.9mg,0.5g,14.1mg,0mg,0mcg,21.1mg
+Fresh Salsa,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,6,1 OZ,0.1g,1.4g,0g,0.1g,0g,1g,0mg,0g,29.7mg,0.3g,3.6mg,0.1mg,0mcg,67.7mg
+Tostones,McMahon,Dinner,Gluten,"['Vegetarian', 'Vegan']",2023-01-25,209,3 PIECES,10.2g,32.7g,0.8g,2.4g,0g,15.4g,0mg,0g,470.7mg,1.3g,3.1mg,0.6mg,0mcg,512mg
+Green Curry Sauce,McMahon,Dinner,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,79,4 OZL,6.5g,3.9g,5.5g,0.9g,0g,1.9g,0mg,0.6g,503.7mg,1.7g,27mg,1mg,0mcg,217.2mg
+Green Curry Vegetable,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,50,4 OZ,1g,9g,0.1g,2g,0g,4g,0mg,0.3g,109mg,2.4g,27.8mg,0.8mg,0.1mcg,291.7mg
+Rice Noodles With Sesame And Cilantro,McMahon,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,161,4 OZ,1.1g,34.5g,0.2g,0.1g,0g,0g,0mg,0g,5.5mg,3.6g,12.2mg,0.4mg,0mcg,22.9mg
+Dijon Chicken,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-25,229,1 EACH,8g,0.1g,1.7g,0.4g,0g,0g,164.1mg,0g,214.1mg,35.4g,34.1mg,1.8mg,0mcg,1.5mg
+Olive Oil Crushed Potato,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,149,4 OZ,8g,20.3g,1.1g,2.4g,0g,2.3g,0mg,0g,75mg,3.1g,19.4mg,0.9mg,0mcg,561.2mg
+Sauteed Spinach With Garlic,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,29,3 OZ,0.8g,4.3g,0.1g,2g,0g,0.4g,0mg,0g,104.5mg,2.7g,91.1mg,2.4mg,0mcg,490mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Nacho Bar,McMahon,Dinner,,[],2023-01-25,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Philly Steak Pizza,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-01-25,313,1 PLATE,15.6g,25.2g,7.4g,0.8g,0g,1.2g,43.4mg,0.5g,731.3mg,17.5g,362.4mg,2mg,0.1mcg,45.7mg
+Lemon Delights,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-25,238,1 EACH,10.5g,34.6g,7g,0g,0g,22.2g,15.4mg,6.9g,161.2mg,2.1g,0mg,0.7mg,0mcg,35.9mg
+Breakfast Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-06,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+French Toast Stix,McMahon,Breakfast,"Wheat, Soybeans, Gluten",['Vegetarian'],2023-02-06,540,5 EACH,34.3g,54.7g,2.9g,1.3g,0g,12.7g,0mg,12.7g,572.3mg,6.4g,25.4mg,3.2mg,0mcg,63.6mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-06,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Pork Sausage Links,McMahon,Breakfast,,['Gluten Friendly'],2023-02-06,202,2 EACH,19.2g,0g,7.1g,0g,0g,0g,35.3mg,0g,433.4mg,6g,26.2mg,0.4mg,mcg,mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chocolate Chip Bread,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,255,1/16 LOAF,10.8g,38g,5.2g,0.7g,0g,23.1g,39.9mg,0g,187.2mg,3.1g,13.9mg,1.2mg,0mcg,61.2mg
+UConn Homemade Granola,McMahon,Breakfast,"Gluten, Coconut, The UConn bakery uses coconut (a tree nut).","['Contains Nuts', 'Less Sodium', 'Vegetarian']",2023-02-06,450,4 OZ,15.1g,73.5g,5.3g,2.4g,0g,47.4g,0mg,20.7g,136.1mg,8.4g,30.3mg,2.4mg,0mcg,301mg
+Korean Pork Loin With Miso Basted Scallion And Thai Rice,McMahon,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-06,349,1 PLATE,12.3g,27.6g,4.2g,1.7g,0g,2.1g,87.9mg,0.4g,166mg,30.2g,48.2mg,2.3mg,0mcg,184.1mg
+Beer Battered Cod Po' Boy,McMahon,Lunch,"Fish, Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).",[],2023-02-06,1021,1 PLATE,65.2g,96.1g,6.8g,3g,0g,8.1g,26.2mg,0g,2356.5mg,23.8g,38.2mg,4.4mg,0.8mcg,870.9mg
+Buffalo Cauliflower with Carrot Salad,McMahon,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Vegetarian']",2023-02-06,147,1 PLATE,8.3g,15.2g,2.2g,4.8g,0g,6.3g,6.2mg,0.4g,683mg,6.4g,127.3mg,1.2mg,0mcg,812.8mg
+Cavatappi,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Chicken With Spinach And Celery Root,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-06,316,1 PLATE,10.9g,13.7g,3.5g,3.5g,0g,2.3g,171.7mg,0.5g,514mg,38.4g,159.1mg,4.6mg,0mcg,730.9mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-06,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Korean Pork Loin,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-02-06,225,4 OZ,11.7g,0.5g,4.1g,0.1g,0g,0.4g,87.9mg,0.2g,108.4mg,27g,1.3mg,1.3mg,0mcg,10.7mg
+Miso Basted Scallions,McMahon,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,34,3 OZ,0.5g,7.1g,0.1g,2.4g,0g,2.5g,0mg,0.3g,80.8mg,1.8g,65.7mg,1.4mg,0mcg,252.4mg
+Thai Yellow Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,136,4 OZ,0.3g,29.9g,0g,0.1g,0g,0.1g,0mg,0g,5mg,2.6g,4.3mg,0.1mg,0mcg,6.8mg
+Cod Po'Boy,McMahon,Lunch,"Fish, Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).",[],2023-02-06,619,1 EACH,33.2g,62.1g,3.3g,3g,0g,6g,26.2mg,0g,1218.8mg,21.6g,39.5mg,4.4mg,0.8mcg,326.6mg
+Fried Yukon Gold Chips,McMahon,Lunch,"Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,332,2 OZ,27.1g,24.5g,2.6g,0g,0g,1.6g,0mg,0g,832.8mg,1.6g,0mg,0mg,mcg,408.2mg
+Celery Root Puree,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,61,3 OZ,3g,7.8g,1.8g,1.5g,0g,1.4g,7.6mg,0g,147.5mg,1.3g,37.9mg,0.6mg,0mcg,255.2mg
+Sauteed Spinach With Garlic,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,37,4 OZ,1g,5.5g,0.1g,2.5g,0g,0.5g,0mg,0g,132.8mg,3.4g,115.5mg,3mg,0mcg,620.9mg
+Smokehouse Chicken,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-06,227,1 EACH,7.1g,1.8g,1.6g,0.1g,0g,0.5g,164.1mg,0.5g,266.9mg,34.6g,34.6mg,1.7mg,0mcg,10mg
+Buffalo Cauliflower,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-06,84,5 OZ,3.7g,11.3g,0.6g,4.6g,0g,4.3g,0mg,0g,520.1mg,4.3g,50.7mg,1mg,0mcg,676.9mg
+Carrot And Arugula Salad,McMahon,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Vegetarian']",2023-02-06,63,2 OZ,4.6g,3.9g,1.6g,0.2g,0g,2g,6.2mg,0.4g,162.9mg,2g,76.6mg,0.2mg,0mcg,135.9mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Lunch,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-06,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Cherry White Chocolate Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,180,1 EACH,7g,27g,3.5g,0g,0g,16g,15mg,0g,115mg,2g,26mg,0.7mg,mcg,mg
+Lemon Shortbread Bars,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,198,1/35 HFPAN,8.2g,29.7g,5g,0g,0g,17.2g,13.9mg,13.1g,234.7mg,1.4g,13.8mg,0.6mg,0mcg,27.6mg
+Teriyaki Chicken With Sesame Cabbage Salad,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-02-06,527,1 PLATE,12.7g,56.1g,2.1g,1.4g,0g,9g,170.9mg,7g,663.5mg,41.5g,67.7mg,2.9mg,0mcg,144.7mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Chicken Paprikash,McMahon,Dinner,"Milk, Wheat",['Less Sodium'],2023-02-06,345,1 PLATE,12g,28.8g,3g,0.9g,0g,3.5g,115.7mg,0g,381.8mg,26g,77.7mg,2.6mg,0mcg,102.7mg
+French Onion Grilled Cheese With Roasted Root Salad,McMahon,Dinner,"Milk, Wheat, Soybeans",['Vegetarian'],2023-02-06,585,1 PLATE,29.4g,58.6g,15.2g,3.6g,0g,11.3g,70.9mg,3.2g,816.3mg,24.1g,642.9mg,2.8mg,0mcg,416.9mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Pierogies And Kielbasa,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans",[],2023-02-06,562,1 PLATE,36.2g,42.4g,13g,1.1g,0g,5.3g,66.8mg,0g,1786.9mg,14.5g,100.3mg,2.4mg,0mcg,346.9mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-06,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chicken Paprikash,McMahon,Dinner,"Milk, Wheat",['Less Sodium'],2023-02-06,254,6 OZ,12g,8.4g,3g,0.9g,0g,3.5g,115.7mg,0g,379.3mg,23.9g,58.2mg,1.6mg,0mcg,58.7mg
+White Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+French Onion Grilled Cheese,McMahon,Dinner,"Milk, Wheat, Soybeans",['Vegetarian'],2023-02-06,500,1 EACH,27.5g,42.7g,14.9g,2g,0g,4g,70.9mg,0g,631.2mg,22.8g,599mg,2.3mg,0mcg,71.6mg
+Roasted Root Salad With Horseradish Honey Mustard,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,86,3 OZ,1.9g,15.9g,0.3g,1.6g,0g,7.3g,0mg,3.2g,185.1mg,1.3g,44mg,0.5mg,0mcg,345.3mg
+Sesame Cabbage Salad,McMahon,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,95,3 OZ,7.6g,5.7g,0.6g,2.1g,0g,3.3g,0mg,1g,17.8mg,1.5g,39.3mg,0.6mg,0mcg,133.7mg
+Sushi Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,103,2 OZ,0.1g,22.9g,0g,0g,0g,0.3g,0mg,0.3g,44.2mg,1.9g,3.6mg,0.2mg,0mcg,24.7mg
+Teriyaki Chicken,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check']",2023-02-06,258,1 EACH,7.3g,6.6g,1.6g,0g,0g,6.1g,170.9mg,5.7g,563.1mg,36.7g,34.3mg,2.1mg,0mcg,6.1mg
+Fried Cabbage,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,29,3 OZ,0.4g,6.2g,0g,1.1g,0g,2.9g,0mg,0g,68.3mg,1.1g,34.8mg,0.2mg,0mcg,158.7mg
+Kielbasa,McMahon,Dinner,,['Gluten Friendly'],2023-02-06,306,3 OZ,27.5g,4.6g,9.2g,0g,0g,1.5g,45.9mg,0g,1132.2mg,7.7g,39.8mg,0.6mg,mcg,mg
+Potato & Cheese Pierogi,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans",['Vegetarian'],2023-02-06,205,3 EACH,6.3g,31.4g,3.1g,0g,0g,0.7g,17.6mg,0g,505.5mg,5.2g,22.8mg,1.7mg,0mcg,188.2mg
+Burger Bar,McMahon,Dinner,,[],2023-02-06,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Curly Fries,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-06,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chicken Broccoli Alfredo Pizza,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-06,283,1 PLATE,11.2g,25g,5.5g,1g,0g,2g,50.4mg,0.5g,566.7mg,20.9g,311.8mg,1.8mg,0.1mcg,60.7mg
+Blueberry Pie,McMahon,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Vegetarian', 'Vegan']",2023-02-06,500,1/8 PIE,27.5g,62.5g,11.3g,2.5g,0g,30g,0mg,0g,437.5mg,3.8g,0mg,1.8mg,mcg,mg
+Bacon,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-07,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Buttermilk Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-02-07,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-07,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+O'Brien Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,127,4 OZ,4g,21g,1.3g,0.2g,0g,0.5g,0.1mg,0g,167.5mg,1.4g,2.1mg,0mg,0mcg,17.4mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-07,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cinnamon Coffee Cake,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,246,1/35 HFSHT,11.5g,31.1g,2.1g,0.3g,0g,16.1g,34.7mg,15.7g,162.9mg,3.3g,24mg,0.6mg,0.2mcg,43.4mg
+Tamarind Glazed Salmon With Bok Choy & Wild Rice,McMahon,Lunch,"Fish, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-02-07,416,1 PLATE,8.4g,54.8g,1.2g,2g,0g,10g,45.2mg,6g,568mg,28.6g,133mg,3mg,0mcg,214.5mg
+Cachapas,McMahon,Lunch,Milk,"['Gluten Friendly', 'Vegetarian']",2023-02-07,339,1 PLATE,17.1g,38.7g,4.2g,0.5g,0g,6.1g,7.6mg,3.6g,516.1mg,7g,117mg,0.7mg,0mcg,196.5mg
+Lemon Pepper Chicken With Kale And Parsnip,McMahon,Lunch,Milk,['Gluten Friendly'],2023-02-07,755,1 PLATE,56g,23.8g,16.7g,5.9g,0g,5.9g,137.7mg,0g,744.4mg,39.8g,154.5mg,2.4mg,0mcg,611.3mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Penne With Broccoli Rabe and Pork Sausage,McMahon,Lunch,"Milk, Wheat",['Less Sodium'],2023-02-07,328,1 PLATE,16.7g,30.6g,4.4g,2.2g,1.8g,2g,28.8mg,0g,435.9mg,13.3g,117.1mg,2.2mg,0mcg,128.3mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-07,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Lemon Rosemary Chicken,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-07,282,1 PORT,22.1g,0.6g,6.6g,0.2g,0g,0g,67.6mg,0g,115.4mg,19.8g,7.1mg,0.5mg,0mcg,8.3mg
+Parsnip Puree,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,142,4 OZ,8.6g,15.6g,5.4g,3.9g,0g,3.7g,22.8mg,0g,291.2mg,1.2g,36.4mg,0.5mg,0mcg,307.1mg
+Sauteed Kale,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,71,3 OZ,2.2g,11.1g,0.3g,2.7g,0g,2.8g,0mg,0g,255.2mg,3.5g,118.1mg,1.2mg,0mcg,370.1mg
+Cachapas,McMahon,Lunch,Milk,"['Gluten Friendly', 'Vegetarian']",2023-02-07,339,1 EACH,17.1g,38.7g,4.2g,0.5g,0g,6.1g,7.6mg,3.6g,516.1mg,7g,117mg,0.7mg,0mcg,196.5mg
+Bok Choy And Carrot Stir Fry,McMahon,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,45,3 OZ,1.4g,7.4g,0.2g,2g,0g,4.6g,0mg,0g,156.9mg,1.8g,96.8mg,0.9mg,0mcg,113.3mg
+Tamarind Glazed Salmon,McMahon,Lunch,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-07,171,1 EACH,7g,2.8g,1g,0g,0g,2.8g,45.2mg,2.5g,76mg,22.1g,0.5mg,0mg,0mcg,0mg
+White and Wild Rice Blend,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,142,3 OZ,0g,31.5g,0g,0g,0g,0.1g,0mg,0g,240.1mg,3.5g,26.4mg,1.5mg,0mcg,75.8mg
+Penne With Broccoli Rabe and Pork Sausage,McMahon,Lunch,"Milk, Wheat",['Less Sodium'],2023-02-07,328,6 OZ,16.7g,30.6g,4.4g,2.2g,1.8g,2g,28.8mg,0g,435.9mg,13.3g,117.1mg,2.2mg,0mcg,128.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Prosciutto And Tomato With Fresh Mozzarella Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",[],2023-02-07,266,1 PLATE,11.7g,23.7g,5.6g,1.3g,0g,1.1g,28.3mg,0.5g,561mg,13.3g,156.4mg,1.8mg,0mcg,90.3mg
+Cocoa Krispie Bar,McMahon,Lunch,"Milk, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Contains Nuts', 'Less Sodium']",2023-02-07,152,1/36 PAN,5.7g,23.5g,3.7g,0g,0g,13.4g,13.9mg,9.2g,79.5mg,1g,0.8mg,0.8mg,0mcg,18.9mg
+Red Velvet Cookie,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,190,1 EACH,9g,26g,4.5g,1g,0g,16g,15mg,0g,95mg,2g,20mg,1.4mg,mcg,mg
+Grilled Chicken Salad With Sweet Onion Dressing,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-07,261,1 PLATE,13g,20.7g,2g,2.4g,0g,13.6g,48.3mg,10.1g,344.8mg,20.2g,25.5mg,1.2mg,0mcg,212.7mg
+Chicken Tikka Masala,McMahon,Dinner,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium']",2023-02-07,370,1 PLATE,14g,39.4g,8g,0.3g,0g,2.8g,96.3mg,0.9g,269.7mg,17.4g,540.4mg,1mg,0mcg,159.3mg
+Japchae,McMahon,Dinner,"Soybeans, Sesame",['Gluten Friendly'],2023-02-07,637,1 PLATE,13g,114.4g,3.1g,1.1g,0g,7g,32.4mg,4.8g,1129.2mg,17.8g,21.7mg,2.6mg,0mcg,152.3mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Tandoori Vegetable Kebabs,McMahon,Dinner,"Milk, Wheat, Soybeans, Gluten, Sesame",['Vegetarian'],2023-02-07,586,1 PLATE,31.4g,67.9g,4.5g,3.4g,0g,9.8g,0.4mg,0g,919.8mg,13.4g,165.7mg,3.6mg,0.1mcg,479.1mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-07,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Fried Curried Chickpeas,McMahon,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,158,2 OZ,11.8g,11.8g,0.8g,0.4g,0g,1.7g,0mg,0g,409.1mg,3.4g,25.7mg,1mg,0mcg,129mg
+Grilled Greek Pitas,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,274,1 EACH,9.5g,40g,1.7g,0g,0g,3g,0mg,0g,370mg,8g,104mg,1.5mg,mcg,mg
+Harissa Roasted Vegetables,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,126,5 OZ,8.6g,12.2g,1.2g,2.9g,0g,4.7g,0mg,0g,210.6mg,2g,31.6mg,1.2mg,0mcg,338.8mg
+Nonfat Plain Yogurt,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,33,2 OZ,0.8g,3.7g,0.5g,0g,0g,3.7g,3.3mg,0g,38.4mg,2.3g,90.1mg,0mg,1mcg,121.1mg
+Tabouleh,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,141,3 OZ,10.2g,12.3g,1.4g,0.4g,0g,1.2g,0mg,0g,232.1mg,2.2g,12.4mg,0.7mg,0mcg,92.9mg
+Chicken With North African Spice Paste,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-07,108,1 EACH,4.1g,1.2g,0.8g,0.5g,0g,0g,48.3mg,0g,213.9mg,17.4g,8.8mg,0.7mg,0mcg,21.9mg
+Grilled Corn Salsa,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,30,2 TBL,0.7g,6g,0.1g,0.7g,0g,2.2g,0mg,0.3g,56mg,1g,1.3mg,0.2mg,0mcg,84mg
+Lettuce Mix,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,8,2 OZ,0.1g,1.7g,0g,0.6g,0g,1g,0mg,0g,5.7mg,0.5g,10.2mg,0.2mg,0mcg,79.9mg
+Sweet Onion Dressing,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,58,1 TBSP,4g,5.9g,0.6g,0.3g,0g,5.1g,0mg,4.9g,34.6mg,0.7g,2.6mg,0mg,0mcg,13.4mg
+Japchae,McMahon,Dinner,"Soybeans, Sesame",['Gluten Friendly'],2023-02-07,319,6 OZ,6.5g,57.2g,1.5g,0.6g,0g,3.5g,16.2mg,2.4g,564.6mg,8.9g,10.9mg,1.3mg,0mcg,76.1mg
+Basmati Rice,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Chicken Tikka Masala,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-07,191,4 OZ,11.5g,4.5g,7.2g,0.3g,0g,2.8g,96.3mg,0.9g,245.9mg,14.5g,538.3mg,1mg,0mcg,159.3mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Taco Tuesday,McMahon,Dinner,,[],2023-02-07,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-07,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Humming Bird Cake,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,228,1/35 HFPAN,9.5g,32.4g,3g,0.8g,0.2g,16.6g,22.4mg,14g,188.8mg,3g,14.5mg,0.9mg,0.1mcg,80.7mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-08,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-08,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-08,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-08,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Sausage Patties,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-08,253,2 EACH,24.3g,0g,9.1g,0g,0g,0g,40.5mg,0g,546.8mg,8.1g,0mg,0.4mg,mcg,mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Apple Turnover,McMahon,Breakfast,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,220,1 EACH,13g,24g,6.5g,0.5g,0g,10.2g,0mg,0g,105.1mg,2g,10mg,0.5mg,0mcg,0mg
+Chicken Ssam With Pickled Vegetables and Sushi Rice,McMahon,Lunch,"Wheat, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-02-08,308,1 PLATE,5.1g,41.4g,0.9g,1.7g,0g,4.3g,87.3mg,3.1g,618.8mg,23.1g,37.3mg,2.1mg,0mcg,286.5mg
+Churrasco Style Beef,McMahon,Lunch,,['Gluten Friendly'],2023-02-08,644,1 PLATE,41.1g,26.3g,13.9g,4g,1.8g,6.6g,132.8mg,0g,529.7mg,39.9g,57.3mg,4.9mg,0mcg,838.9mg
+Clam Cakes With Horseradish Slaw,McMahon,Lunch,"Milk, Wheat, Soybeans, Gluten",[],2023-02-08,619,1 PLATE,44.4g,45.9g,4.5g,2.4g,0g,4.2g,5.7mg,0.4g,1301.9mg,10.9g,196.3mg,2.4mg,0.1mcg,249.3mg
+Gemelli,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Pasta Bar,McMahon,Lunch,,[],2023-02-08,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-08,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Churrasco Style Beef,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-08,530,4 OZ,39g,1.9g,13.6g,0.3g,1.8g,1.9g,132.8mg,0g,166.2mg,35.9g,23.3mg,3.7mg,0mcg,65.8mg
+Roasted Garlic Potatoes,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,4 OZ,1.4g,20g,0.2g,2.3g,0g,2.3g,0mg,0g,239.4mg,3.1g,19mg,0.9mg,0mcg,553.5mg
+Roasted Tomato,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,13,1 EACH,0.4g,2.3g,0.1g,0.7g,0g,1.5g,0mg,0g,73.2mg,0.5g,6.1mg,0.2mg,0mcg,135.5mg
+Salsa Verde,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,11,1 OZ,0.2g,2.1g,0g,0.6g,0g,1g,0mg,0g,51mg,0.4g,9mg,0.3mg,0mcg,84.1mg
+Clam Cakes,McMahon,Lunch,"Milk, Wheat, Gluten",[],2023-02-08,326,3 EACH,14.6g,40.2g,1.3g,0g,0g,1.2g,5.7mg,0g,932.1mg,8.7g,161.8mg,2mg,0.1mcg,111.4mg
+Horseradish Coleslaw,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,152,4 OZ,13.3g,7g,1.2g,3.2g,0g,3.8g,0mg,0.5g,161.6mg,2.8g,42.5mg,0.5mg,0mcg,175mg
+Lemon & Malt Vinegar Aioli,McMahon,Lunch,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,1 TBL,9.9g,0.2g,1.1g,0g,0g,0g,0mg,0g,124.3mg,0g,1.3mg,0mg,0mcg,3.4mg
+Chicken Ssam,McMahon,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-02-08,147,1 EACH,4.8g,5.4g,0.9g,1.6g,0g,2.4g,87.3mg,1.5g,473.3mg,20.1g,29.4mg,1.7mg,0mcg,226.3mg
+Pickled Cucumber,McMahon,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-08,7,1 OZ,0g,1.8g,0g,0.1g,0g,1.4g,0mg,1.2g,79.1mg,0.1g,2.6mg,0mg,0mcg,23.2mg
+Sushi Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,103,2 OZ,0.1g,22.9g,0g,0g,0g,0.3g,0mg,0.3g,44.2mg,1.9g,3.6mg,0.2mg,0mcg,24.7mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Spinach Mushroom and Bacon Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",[],2023-02-08,261,1 PLATE,11.6g,25.2g,5.7g,1.1g,0g,2.1g,36.5mg,0.5g,636.4mg,14.8g,219.8mg,1.6mg,0mcg,96.4mg
+Strawberry  Blondie,McMahon,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,240,1/35 HFSHT,11.1g,32.6g,6.7g,0.4g,0g,20.8g,53.7mg,19.6g,22mg,2.5g,11.5mg,0.9mg,0.2mcg,35.1mg
+Sugar Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,164,1 EACH,7.2g,23.6g,4.1g,0g,0g,13.4g,15.4mg,0g,143.8mg,2.1g,0mg,0.7mg,mcg,35.9mg
+Vegetable Gyoza,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Smart Check', 'Vegetarian', 'Vegan']",2023-02-08,145,1 PLATE,2.6g,26.2g,0.2g,3g,0g,5.4g,0mg,0.6g,573mg,4.7g,42.2mg,1.6mg,0mcg,102.7mg
+BBQ Chicken With Sweet Potato Hash,McMahon,Dinner,Milk,['Gluten Friendly'],2023-02-08,651,1 PLATE,39.5g,34.4g,13.6g,5.1g,0g,13.9g,130.8mg,0g,705.6mg,39.1g,61.2mg,3.2mg,0mcg,548.3mg
+Birria Ramen,McMahon,Dinner,"Eggs, Wheat, Soybeans",[],2023-02-08,607,1 PLATE,23.9g,64.4g,8.8g,1.2g,0g,6g,162.7mg,1.7g,736.8mg,31.6g,96.4mg,4.1mg,0mcg,567.9mg
+Gemelli,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Okonomiyaki,McMahon,Dinner,"Eggs, Fish, Wheat, Soybeans",['Less Sodium'],2023-02-08,186,1 EACH,10g,15.2g,2.2g,0.2g,0g,1.8g,69.6mg,0.3g,403.3mg,6.9g,39mg,1.1mg,0.3mcg,78.1mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-08,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+BBQ Chicken,McMahon,Dinner,,['Gluten Friendly'],2023-02-08,294,1 PORT,19.8g,8g,6.2g,0g,0g,7.4g,67.6mg,0g,472.8mg,19.8g,0mg,0.4mg,0mcg,0mg
+Roasted Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,20,3 OZ,0.4g,3.4g,0.1g,1.7g,0g,1.5g,0mg,0g,38mg,1.9g,20.9mg,1.8mg,0mcg,170.1mg
+Sweet Potato Hash,McMahon,Dinner,Milk,"['Gluten Friendly', 'Vegetarian']",2023-02-08,133,4 OZ,3.8g,23g,2.4g,3.4g,0g,4.9g,10.1mg,0g,137.6mg,2g,40.2mg,0.7mg,0mcg,378.3mg
+Okonomiyaki,McMahon,Dinner,"Eggs, Fish, Wheat, Soybeans",['Less Sodium'],2023-02-08,186,1 EACH,10g,15.2g,2.2g,0.2g,0g,1.8g,69.6mg,0.3g,403.3mg,6.9g,39mg,1.1mg,0.3mcg,78.1mg
+Gyoza Sauce,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-08,41,1 OZL,2.3g,4.3g,0.3g,0.1g,0g,3.8g,0mg,3.1g,653.7mg,1.4g,2.5mg,0.5mg,0mcg,9.1mg
+Snowpeas and Horseradish,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,38,3 OZ,0.2g,6.4g,0g,2.4g,0g,3.4g,0mg,0g,83.1mg,2.8g,35.9mg,1.7mg,0mcg,204.5mg
+Vegetable Potsticker,McMahon,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,118,3 EACH,2g,22.2g,0.1g,1.8g,0g,3g,0mg,0g,401.3mg,3g,24mg,0.6mg,mcg,mg
+Birria Ramen,McMahon,Dinner,"Eggs, Wheat, Soybeans",[],2023-02-08,607,1 EACH,23.9g,64.4g,8.8g,1.2g,0g,6g,162.7mg,1.7g,736.8mg,31.6g,96.4mg,4.1mg,0mcg,567.9mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Waffle Fry Bar,McMahon,Dinner,,[],2023-02-08,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,0.2mg,0g,0.1mg,0mg,0mcg,0mg
+Buffalo Chicken With Gorgonzola,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-08,327,1 PLATE,15.9g,24.5g,6.6g,0.8g,0g,1.5g,53mg,0.5g,694.3mg,21.5g,264.5mg,1.8mg,0mcg,35.3mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chocolate Whoopie Pies,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,344,1 EACH,12g,55.5g,3.6g,1.3g,2.2g,38.2g,21.6mg,15.2g,490.7mg,3.6g,23.2mg,2.2mg,0mcg,111mg
+Baked Ham,McMahon,Breakfast,,['Gluten Friendly'],2023-02-09,189,4 OZ,8.7g,5.8g,2.9g,0g,0g,5.8g,72.7mg,0g,1221.2mg,20.4g,mg,1mg,mcg,mg
+Blueberry Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-02-09,498,2 EACH,20.7g,61g,2.3g,1.2g,0g,19.2g,114.6mg,14.2g,453.1mg,13.1g,304.6mg,3.7mg,0.7mcg,227.1mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-09,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+O'Brien Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,127,4 OZ,4g,21g,1.3g,0.2g,0g,0.5g,0.1mg,0g,167.5mg,1.4g,2.1mg,0mg,0mcg,17.4mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-09,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chocolate Chip Muffins,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,317,1 EACH,16.2g,38.2g,2.8g,0.4g,0g,22.4g,54.4mg,17.9g,196.1mg,4g,29.3mg,0.7mg,0.3mcg,69.4mg
+Sweet And Spicy Salmon With Creamy Corn And Asparagus,McMahon,Lunch,"Milk, Fish, Gluten",['Smart Check'],2023-02-09,309,1 PLATE,12g,19.8g,3.3g,1.8g,0g,4.2g,66.3mg,0g,676.8mg,28g,323.2mg,2.5mg,0mcg,271.7mg
+Braised Beef With Risotto and Brussel Sprouts,McMahon,Lunch,Milk,['Gluten Friendly'],2023-02-09,545,1 PLATE,27.1g,37.5g,12.1g,4.3g,0g,5.5g,106.9mg,0g,998.5mg,36.2g,458mg,3.4mg,0mcg,745.6mg
+Cavatappi,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Jerk Chicken With Rice And Peas,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-02-09,439,1 PLATE,12.2g,38.1g,1.9g,3.9g,0g,3.9g,164.1mg,0.4g,889.8mg,41.7g,216.2mg,4.8mg,0mcg,387.6mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Tofu With Black Bean Sauce,McMahon,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-09,332,1 PLATE,14.5g,38.2g,1.2g,1.5g,0g,5.1g,0mg,1.7g,493mg,13g,108.9mg,2.4mg,0mcg,276.8mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-09,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Island Jerk Chicken,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,240,1 EACH,7.9g,3.3g,1.7g,0.8g,0g,1.4g,164.1mg,0.4g,375mg,35.1g,49.3mg,2.1mg,0mcg,66.4mg
+Sauteed Mustard Greens,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,28,2 OZ,0.9g,4.2g,0g,1.6g,0g,1.1g,0mg,0g,69.7mg,2.1g,93.5mg,0.7mg,0mcg,132.6mg
+Yellow Rice with Pigeon Peas,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,118,3 OZ,2.2g,21.4g,0.2g,0.5g,0g,0.7g,0mg,0g,307.7mg,2.6g,20mg,1.3mg,0mcg,91.7mg
+Bourbon Brown Sugar Salmon,McMahon,Lunch,"Fish, Gluten","['Less Sodium', 'Smart Check']",2023-02-09,161,1 EACH,7g,0g,1g,0g,0g,0g,45.2mg,0g,332.4mg,22.1g,0mg,0mg,0mcg,0mg
+Creamy Corn With Leeks And Bacon,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-09,127,4 OZ,4.4g,16.6g,2.2g,0g,0g,2.7g,21.1mg,0g,262.8mg,4g,303mg,0.7mg,0mcg,101.3mg
+Grilled Asparagus,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,22,3 OZ,0.6g,3.3g,0.1g,1.7g,0g,1.6g,0mg,0g,86.1mg,1.9g,20.4mg,1.8mg,0mcg,171.2mg
+Tofu With Black Bean Sauce,McMahon,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-09,332,8 OZ,14.5g,38.2g,1.2g,1.5g,0g,5.1g,0mg,0g,493mg,13g,108.9mg,2.4mg,0mcg,276.8mg
+Parmesan Risotto,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,182,3 OZ,8.6g,19.2g,5.5g,0.6g,0g,0.7g,27mg,0g,469.7mg,5.8g,305.7mg,0.2mg,0mcg,9.3mg
+Roasted Brussel Sprouts With Balsamic,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,97,4 OZ,5.3g,11g,0.8g,4.1g,0g,3.7g,0mg,0g,72.3mg,3.6g,45.6mg,1.5mg,0mcg,419.9mg
+Shredded Beef Ragu,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-09,229,4 OZ,11.6g,3.7g,4.1g,0.4g,0g,1.8g,70.9mg,0g,318mg,25.8g,16.2mg,2mg,0mcg,418.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Greek Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2023-02-09,231,1 PLATE,9.6g,26.3g,4g,1.2g,0g,1.6g,18.7mg,0.5g,674.8mg,9g,68.2mg,1.7mg,0mcg,74.3mg
+Cherry White Chocolate Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,180,1 EACH,7g,27g,3.5g,0g,0g,16g,15mg,0g,115mg,2g,26mg,0.7mg,mcg,mg
+Jonathan Bar,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,344,1/35 HFPAN,14.6g,48.2g,8.6g,0g,0.4g,27.4g,49.7mg,27.1g,139.6mg,4g,6.9mg,1.3mg,0mcg,30.2mg
+Scrod With Spring Vegetables And Miso Dressing,McMahon,Dinner,"Milk, Fish, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-02-09,186,1 PLATE,7g,11.7g,1.2g,3.3g,0g,5.3g,46.8mg,0.7g,758.4mg,21g,64mg,2.6mg,0mcg,310.8mg
+"Seared Chicken, Tarragon Cream Sauce, Root Vegetable Hash",McMahon,Dinner,Milk,"['Gluten Friendly', 'Smart Check']",2023-02-09,186,1 PLATE,7.7g,11.6g,1.9g,1.9g,0g,2.7g,53.3mg,0.1g,432.9mg,19.1g,121.4mg,0.9mg,0mcg,292.3mg
+Cauliflower Fried Rice,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-09,230,1 PLATE,17.3g,14.7g,1.6g,3.5g,0g,4.4g,0mg,0g,719.1mg,7.8g,51.8mg,1.1mg,0mcg,361.8mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Root Beer Glazed Ham With Mac N Cheese,McMahon,Dinner,"Milk, Wheat, Soybeans",[],2023-02-09,441,1 PLATE,21.6g,30g,9.7g,3.4g,0g,12.5g,101.1mg,0g,1573.2mg,31.6g,284.3mg,2.3mg,1mcg,186.1mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-09,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Macaroni & Cheese,McMahon,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-09,325,6 OZ,18.4g,25.4g,10g,0.8g,0g,4.9g,42.4mg,0g,505.2mg,14.3g,367.7mg,1mg,1.6mcg,80.5mg
+Roasted Green Beans,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,33,3 OZ,0.5g,6.9g,0.1g,2.8g,0g,3.2g,0mg,0g,14.5mg,1.7g,38.5mg,0.6mg,0mcg,127.6mg
+Root Beer Glazed Ham,McMahon,Dinner,Milk,['Gluten Friendly'],2023-02-09,191,4 OZ,8.8g,6.2g,2.9g,0.1g,0g,6.1g,72.8mg,0g,1221.9mg,20.4g,0.8mg,1.1mg,0mcg,4.8mg
+Grilled Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,22,3 OZ,0.6g,3.3g,0.1g,1.7g,0g,1.6g,0mg,0g,86.1mg,1.9g,20.4mg,1.8mg,0mcg,171.2mg
+Miso Dressing,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium']",2023-02-09,48,1 OZL,3g,4g,0.4g,0g,0g,3.7g,0mg,2.8g,467.2mg,1g,3.4mg,0.2mg,0mcg,20.5mg
+Roasted Spaghetti Squash,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,63,4 OZ,4g,7.2g,0.6g,1.6g,0g,2.7g,0mg,0g,441.3mg,0.7g,24.2mg,0.4mg,0mcg,130.7mg
+Scrod With Miso Butter,McMahon,Dinner,"Milk, Fish, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,89,1 EACH,1.6g,0.2g,0.4g,0g,0g,0.1g,46.8mg,0g,118.7mg,18.1g,18.7mg,0.3mg,0mcg,4.5mg
+Cauliflower Fried Rice,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-09,225,6 OZL,17.3g,13.9g,1.6g,3.1g,0g,4.5g,0mg,0g,725.2mg,7.5g,51.8mg,1mg,0mcg,373.4mg
+Root Vegetable Hash,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,76,3 OZ,3.6g,10.7g,0.3g,1.7g,0g,2.5g,0mg,0.1g,200.7mg,1.4g,22mg,0.4mg,0mcg,287.1mg
+Seared Chicken Breast,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,91,1 EACH,2.7g,0.1g,0.6g,0g,0g,0g,48.3mg,0g,190mg,17.2g,0.3mg,0.4mg,0mcg,1.1mg
+Tarragon Cream Sauce,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-09,18,1 OZL,1.4g,0.8g,1g,0.2g,0g,0.2g,5mg,0g,42.1mg,0.5g,99.1mg,0mg,0mcg,4.1mg
+Broccoli,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,16,2 OZ,0.2g,2.9g,0g,1.3g,0g,0.8g,0mg,0g,15.3mg,1.7g,27.2mg,0.5mg,0mcg,184.3mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+General Tso's Chicken,McMahon,Dinner,"Eggs, Wheat, Soybeans, Gluten, Sesame",[],2023-02-09,364,6 OZ,19.7g,31.6g,2g,2.1g,0g,9.7g,36.8mg,7.3g,832.5mg,15.7g,15.5mg,1.6mg,0mcg,104.2mg
+General Tso's Tofu,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,194,4 OZ,11.8g,13.1g,1.1g,1g,0g,5.8g,0mg,0g,150.3mg,8.6g,88.1mg,1.5mg,0mcg,227.3mg
+Mini Vegetable Egg Rolls,McMahon,Dinner,"Eggs, Wheat, Soybeans, Sesame",['Vegetarian'],2023-02-09,150,4 EACH,5.4g,21.4g,1.1g,0g,0g,2.1g,5.4mg,1.1g,588.8mg,4.3g,27.8mg,1.5mg,0mcg,128.5mg
+White Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-09,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Coconut Custard Pie,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2023-02-09,338,1/8 PIE,17.5g,40g,6.3g,0g,0g,18.8g,87.5mg,15g,512.5mg,7.5g,103.8mg,1.3mg,0mcg,156.3mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2/10/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Chorizo Sausage Patties,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,158,1 EACH,14.3g,1g,4.5g,0g,0.1g,0g,29.3mg,0g,363.4mg,6.1g,13.1mg,0.7mg,mcg,mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2/10/2023,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Fried Tater Tots,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,303,4 OZ,20.9g,26.3g,2.2g,2.8g,0g,0g,0mg,0g,497.9mg,2.8g,0mg,0.5mg,0mcg,318.1mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cranberry Orange Bread,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,260,1/16 LOAF,10g,40.1g,4.5g,0.8g,0g,23.5g,44.9mg,0g,210.6mg,3g,16.1mg,1.1mg,0mcg,50.1mg
+Grilled Chicken With Chermoula And Couscous,McMahon,Lunch,Wheat,['Smart Check'],2/10/2023,397,1 PLATE,12.2g,46.3g,2.1g,3.5g,0g,9.4g,51.9mg,0g,386.7mg,24.2g,30.1mg,3.1mg,0.1mcg,278.6mg
+Bo Ssam,McMahon,Lunch,"Wheat, Soybeans",['Gluten Friendly'],2/10/2023,560,1 PLATE,29.8g,39.8g,10.3g,2.4g,0g,5.2g,102.6mg,2.6g,870.6mg,33.1g,60.3mg,2.3mg,0mcg,284.3mg
+Corn And Black Bean Quesadilla With Sweet Potato Salad,McMahon,Lunch,"Milk, Wheat, Soybeans",['Vegetarian'],2/10/2023,388,1 PLATE,15g,51.5g,5.6g,2.7g,0g,7.5g,18.6mg,3.1g,788.3mg,11.1g,301.7mg,2.8mg,0mcg,420.1mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Rotini,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,mg
+Teriyaki Swordfish With Miso Garlic Noodles,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame",[],2/10/2023,642,1 PLATE,13g,87.7g,2.4g,0.3g,0g,14.8g,75mg,0.3g,1330.7mg,39.4g,54.9mg,2.9mg,23.8mcg,724.2mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Pork Lettuce Wraps,McMahon,Lunch,"Wheat, Soybeans, Sesame",[],2/10/2023,413,2 EACH,29.4g,7.2g,10.3g,2.4g,0g,3.4g,102.6mg,1.8g,984.2mg,28.9g,38.4mg,2.3mg,0mcg,253.1mg
+Sticky Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,185,4 OZ,0.3g,41g,0g,0g,0g,0g,0mg,0g,2.5mg,3.4g,6.6mg,0.4mg,0mcg,44.9mg
+Couscous With Dates and Pumpkin Seeds,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,228,4 OZ,4.2g,38.2g,0.7g,1.1g,0g,6.6g,3.6mg,0g,107.1mg,6g,16.6mg,2.2mg,0.1mcg,143.1mg
+Grilled Chicken With Chermoula,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,132,1 EACH,7g,0.6g,1.2g,0.2g,0g,0g,48.3mg,0g,211.5mg,17.4g,7.8mg,0.7mg,0mcg,29.3mg
+Grilled Eggplant,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,37,2 OZ,1g,7.5g,0.2g,2.1g,0g,2.7g,0mg,0g,68.2mg,0.7g,5.6mg,0.2mg,0mcg,106.2mg
+Miso Garlic Noodles,McMahon,Lunch,"Wheat, Soybeans, Sesame",[],2/10/2023,441,6 OZ,5.5g,78.9g,0.8g,0.3g,0g,6.1g,0mg,2.2g,1083.6mg,16.5g,38mg,2.2mg,0mcg,250.9mg
+Teriyaki Swordfish,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2/10/2023,203,4 OZ,7.5g,9.3g,1.7g,0g,0g,9.2g,75mg,0.3g,260.2mg,22.8g,16.9mg,0.7mg,23.8mcg,475.9mg
+Corn And Black Bean Quesadilla,McMahon,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/10/2023,288,1 EACH,12.3g,33.6g,5.4g,0.2g,0g,2.6g,18.6mg,2g,601.8mg,9.7g,274.1mg,2.2mg,0mcg,139mg
+Roasted Sweet Potato Salad With Chili Lime Dressing,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,134,4 OZ,3.6g,23.8g,0.3g,3.4g,0g,6.6g,0mg,1.5g,248.7mg,1.9g,36.9mg,0.8mg,0mcg,374.8mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Lunch,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2/10/2023,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Chocolate Brownies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,203,1/96 SHEET,8.8g,28.4g,2g,1g,0g,21.3g,14.2mg,19.2g,122.1mg,1.5g,12.4mg,1.7mg,0.1mcg,76.3mg
+Oatmeal Raisin Cookies,McMahon,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,140,1 EACH,4.5g,22g,1.5g,0g,0g,13g,0mg,8g,85mg,2g,9mg,0.7mg,0mcg,82mg
+Broiled Cod With Roasted Potato,McMahon,Dinner,"Fish, Wheat","['Less Sodium', 'Smart Check']",2/10/2023,278,1 PLATE,3.9g,38.8g,0.3g,5.6g,0g,4.3g,45mg,0.7g,224.6mg,25.9g,60.5mg,2.5mg,0mcg,807mg
+Bulgogi Mushroom Tacos With Sweet Potato Tots,McMahon,Dinner,"Wheat, Soybeans, Gluten, Sesame","['Vegetarian', 'Vegan']",2/10/2023,518,1 PLATE,22.6g,71.4g,2.5g,5.6g,0g,18.4g,0mg,2.5g,1001.4mg,9g,226mg,3.4mg,0mcg,512.5mg
+Char Siu Chicken with Crispy Rice Cakes,McMahon,Dinner,"Wheat, Soybeans, Sesame",[],2/10/2023,687,1 PLATE,12.7g,92.5g,2.2g,2.4g,0g,14.9g,170.9mg,7g,970.2mg,44.7g,80mg,4mg,0mcg,311.7mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Rotini,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,mg
+Slow Roasted Strip Loin With Corn And Potato Salad,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2/10/2023,642,1 PLATE,38.1g,30.4g,13.2g,2g,1.8g,4.3g,133.7mg,0g,520.7mg,39.4g,28.1mg,3.9mg,0mcg,377.5mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Corn With Pesto,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,86,3 OZ,1.7g,16g,0.3g,0.1g,0g,1g,0.9mg,0g,32.2mg,1.3g,12.2mg,0.1mg,0mcg,5.8mg
+Red Potato Salad,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,106,3 OZ,6.2g,12.8g,0.6g,1.7g,0g,1.5g,0mg,0g,81.2mg,2.5g,13.3mg,0.5mg,0mcg,356.4mg
+Slow Roasted Strip Loin,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,449,4 OZ,30.2g,1.6g,12.4g,0.1g,1.8g,1.8g,132.8mg,0g,407.3mg,35.6g,2.6mg,3.3mg,0mcg,15.3mg
+Fried Sweet Potato Tots,McMahon,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,272,4 OZ,15.9g,31.1g,0.8g,2.7g,0g,10.8g,0mg,0g,270mg,1.4g,27mg,0.5mg,0mcg,229.5mg
+Gochujang Ketchup,McMahon,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,18,1 TSP,0.5g,3.3g,0.1g,0g,0g,2.2g,0mg,0.9g,141.4mg,0.2g,0mg,0mg,0mcg,mg
+Mushroom Bulgogi Tacos,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Vegetarian', 'Vegan']",2/10/2023,237,2 EACH,6.4g,38.7g,1.7g,2.9g,0g,6.5g,0mg,2g,660.7mg,7.5g,199mg,2.9mg,0mcg,283mg
+Carrot and Snow Pea Stir Fry,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,47,3 OZ,1.3g,6.9g,0.1g,2.3g,0g,4.1g,0mg,0g,112mg,2.1g,31.5mg,1.3mg,0mcg,227.7mg
+Char Siu Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2/10/2023,256,1 EACH,7.5g,6.3g,1.6g,0.1g,0g,4.7g,170.9mg,4g,501.5mg,36.3g,36.9mg,1.9mg,0mcg,6.8mg
+Crispy Rice Cake,McMahon,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,372,1 EACH,3.9g,76.1g,0.5g,0g,0g,2.8g,0mg,0g,216.7mg,5.9g,11.6mg,0.7mg,0mcg,77.2mg
+Kabayaki Sauce,McMahon,Dinner,Soybeans,[],2/10/2023,51,1 OZ,0g,12.7g,0g,0g,0g,12.7g,0mg,12.2g,560mg,1.1g,0mg,0.4mg,0mcg,mg
+Baked Scrod,McMahon,Dinner,"Fish, Wheat","['Less Sodium', 'Smart Check']",2/10/2023,113,1 EACH,1.8g,5.3g,0.1g,0.3g,0g,0g,45mg,0g,94.8mg,18.9g,19.2mg,0.4mg,0mcg,4.7mg
+Carrot Puree,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,14,1 OZ,0.1g,3.2g,0g,0g,0g,1.7g,0mg,0.7g,46.6mg,0.3g,10.6mg,0.1mg,0mcg,91.9mg
+Peas,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,69,3 OZ,0g,11.8g,0g,3.9g,0g,0g,0mg,0g,0mg,4.9g,13.7mg,1mg,0mcg,132.3mg
+Roasted Red Potato With French Herbs,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,65,2 OZ,1.3g,13.8g,0.1g,1.6g,0g,1.6g,0mg,0g,51.2mg,2.1g,13.3mg,0.8mg,0mcg,382.9mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chicken And Spinach With Horseradish Sauce Pizza,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2/10/2023,304,1 PLATE,13.9g,25.3g,5.2g,0.9g,0g,1.7g,46.5mg,0.5g,542.4mg,20g,212.4mg,1.9mg,0mcg,67.5mg
+Peach Bread Pudding,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,190,1/35 HFPAN,5.8g,25.7g,2.2g,0.4g,0g,17.3g,126.9mg,12.3g,167.1mg,8.2g,128.2mg,1.4mg,2.1mcg,98.2mg
+Bacon,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-11,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Chefs Omelet Du Jour,McMahon,Lunch,"Milk, Eggs, Soybeans",[],2023-02-11,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Chocolate Chip Pancakes,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-11,548,2 EACH,24.5g,66.6g,4.6g,0g,0g,24.7g,114.6mg,14.2g,453.1mg,14g,300.6mg,4mg,0.7mcg,250.4mg
+Hard Boiled Eggs,McMahon,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Lunch,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-11,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,McMahon,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,McMahon,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Blueberry Muffin,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,277,1 EACH,12.4g,36.9g,1.3g,0.7g,0g,23.4g,47.6mg,22.5g,171.6mg,3g,25.1mg,0.5mg,0.3mcg,46.1mg
+Double Chocolate Chip Cookie,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,170,1 EACH,8g,23g,4.5g,0g,0g,15g,10mg,0g,140mg,2g,10mg,0.7mg,mcg,105mg
+Chipotle Buttermilk Chicken With Sweet Potato,McMahon,Dinner,Milk,"['Gluten Friendly', 'Smart Check']",2023-02-11,282,1 PLATE,7.1g,34.5g,3.5g,6.2g,0g,8.4g,60.8mg,0g,462.4mg,21.9g,85.8mg,3.1mg,0mcg,697.8mg
+Chicken Parmesan Over Penne,McMahon,Dinner,"Milk, Wheat",[],2023-02-11,630,1 PLATE,25.5g,69.3g,4.2g,5.8g,0g,16.8g,53.9mg,0g,1378.7mg,30.3g,133.9mg,4.5mg,0mcg,11.3mg
+Fried Calamari Over Greens,McMahon,Dinner,"Milk, Fish, Wheat, Soybeans, Gluten",[],2023-02-11,475,1 PLATE,30.9g,37.2g,3.7g,2.9g,0g,1.5g,177.2mg,0g,541.5mg,15.8g,89.5mg,2.2mg,0mcg,84.9mg
+Lentil Taco in a Hard Shell,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-11,301,1 PLATE,4.9g,47.1g,0.7g,12.7g,0g,4.8g,0mg,0.3g,647.3mg,12.6g,63.8mg,3.7mg,0mcg,229.3mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-11,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chipotle Buttermilk Chicken,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-11,94,1 EACH,2.2g,1.3g,0.5g,0g,0g,0.7g,48.6mg,0g,297.3mg,17.7g,20.4mg,0.4mg,0mcg,28.6mg
+Roasted Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,20,3 OZ,0.4g,3.4g,0.1g,1.7g,0g,1.5g,0mg,0g,38mg,1.9g,20.9mg,1.8mg,0mcg,170.1mg
+Whipped Sweet Potato,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,168,4 OZ,4.5g,29.8g,2.9g,4.4g,0g,6.2g,12.2mg,0g,127mg,2.3g,44.4mg,0.9mg,0mcg,499.2mg
+Fried Calamari Over Greens,McMahon,Dinner,"Milk, Fish, Wheat, Soybeans, Gluten",[],2023-02-11,475,1 EACH,30.9g,37.2g,3.7g,2.9g,0g,1.5g,177.2mg,0g,541.5mg,15.8g,89.5mg,2.2mg,0mcg,84.9mg
+Lentil Taco in a Hard Shell,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-11,301,2 EACH,4.9g,47.1g,0.7g,12.7g,0g,4.8g,0mg,0.3g,647.3mg,12.6g,63.8mg,3.7mg,0mcg,229.3mg
+Chicken Parm With Fresh Mozz,McMahon,Dinner,"Milk, Wheat",[],2023-02-11,327,1 EACH,17.9g,20.4g,3.8g,2g,0g,5g,53.9mg,0g,899.7mg,22.1g,93.9mg,1.5mg,0mcg,11.3mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,318,6 OZ,5.3g,55.3g,0.6g,2.7g,0g,2.7g,0mg,0g,0mg,9.4g,0mg,2.4mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Veggie Combo Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,212,1 PLATE,7.5g,26.4g,3.3g,1.8g,0g,2.8g,13.2mg,0.6g,391.7mg,9.4g,140.6mg,1.8mg,0mcg,91.9mg
+Fruit of the Forest Pie,McMahon,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,475,1/8 PIE,27.5g,55g,11.3g,2.5g,0g,22.5g,0mg,0g,412.5mg,3.8g,50mg,1.8mg,0mcg,mg
+Bacon,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Buttermilk Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2/10/2023,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2/10/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+O'Brien Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,127,4 OZ,4g,21g,1.3g,0.2g,0g,0.5g,0.1mg,0g,167.5mg,1.4g,2.1mg,0mg,0mcg,17.4mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Pina Colada Muffin,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,341,1 EACH,16.4g,44.2g,3.5g,0.8g,0g,28.4g,55.8mg,23.2g,212.8mg,3.6g,28.5mg,0.5mg,0.3mcg,55.2mg
+Beef Kaldereta,McMahon,Lunch,,"['Gluten Friendly', 'Smart Check']",2/10/2023,312,1 PLATE,5.5g,45g,1.5g,1.6g,0g,5.8g,44mg,0g,662.6mg,19.8g,66mg,3.8mg,0.1mcg,672.2mg
+Chipotle Buttermilk Chicken With Tabouleh,McMahon,Lunch,"Milk, Wheat, Gluten",[],2/10/2023,361,1 PLATE,21.8g,23.6g,2.8g,0.8g,0g,3.1g,48.6mg,0g,811.3mg,22.4g,49.8mg,1.8mg,0mcg,216.9mg
+Cobb Salad,McMahon,Lunch,"Milk, Eggs, Soybeans",['Gluten Friendly'],2/10/2023,333,1 PLATE,21.6g,6.6g,7.9g,1.8g,0g,3.2g,176.7mg,0g,765mg,30.5g,167.6mg,1.9mg,0mcg,443.3mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Samosas With Eggplant Pepper Spread,McMahon,Lunch,"Milk, Wheat, Gluten",['Vegetarian'],2/10/2023,596,1 PLATE,35.6g,62g,1.6g,4.9g,0g,2.2g,0.1mg,0g,1082.1mg,8.6g,17.3mg,3.6mg,0mcg,77.2mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chipotle Buttermilk Chicken,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,94,1 EACH,2.2g,1.3g,0.5g,0g,0g,0.7g,48.6mg,0g,297.3mg,17.7g,20.4mg,0.4mg,0mcg,28.6mg
+Fried Curried Chickpeas,McMahon,Lunch,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,158,2 OZ,11.8g,11.8g,0.8g,0.4g,0g,1.7g,0mg,0g,409.1mg,3.4g,25.7mg,1mg,0mcg,129mg
+Tabouleh,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,141,3 OZ,10.2g,12.3g,1.4g,0.4g,0g,1.2g,0mg,0g,232.1mg,2.2g,12.4mg,0.7mg,0mcg,92.9mg
+Avocado Ranch Dressing,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,265,2 OZ,27.9g,2.3g,2.8g,0g,0g,1g,0.2mg,0g,262.7mg,0.9g,17.3mg,0.2mg,0mcg,109.6mg
+Cobb Salad,McMahon,Lunch,"Milk, Eggs",['Gluten Friendly'],2/10/2023,184,1 BOWL,12.8g,5g,6.4g,1.8g,0g,2.6g,128.3mg,0g,504.4mg,13.1g,163.8mg,1.4mg,0mcg,415.9mg
+Grilled Italian Chicken,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,100,1 EACH,3.6g,0.5g,0.8g,0g,0g,0.3g,48.3mg,0g,183.4mg,17.2g,0mg,0.4mg,0mcg,mg
+Beef Kaldereta,McMahon,Lunch,,"['Gluten Friendly', 'Smart Check']",2/10/2023,190,6 OZL,5.5g,17.8g,1.5g,1.6g,0g,5.8g,44mg,0g,659.4mg,16.9g,40mg,2.4mg,0.1mcg,613.6mg
+White Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Ajvar,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,42,2 OZ,2.1g,5.2g,0.3g,0.6g,0g,1.9g,0mg,0g,126.2mg,0.4g,6.8mg,0.5mg,0mcg,39.4mg
+Mint Chutney,McMahon,Lunch,Milk,"['Gluten Friendly', 'Vegetarian']",2/10/2023,10,1 OZL,0.2g,1.5g,0.1g,0.6g,0g,0.6g,0.3mg,0g,312mg,0.5g,20.9mg,0.3mg,0.1mcg,75.7mg
+Pea and Potato Samosa,McMahon,Lunch,"Wheat, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,549,4 EACH,33.4g,56g,1.2g,4g,0g,0g,0mg,0g,800mg,8g,0mg,2.9mg,0mcg,mg
+BBQ Chicken Pizza,McMahon,Lunch,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2/10/2023,316,1 PLATE,15g,24.7g,6.6g,0.9g,0g,1.6g,53mg,0.5g,521mg,19.7g,203.9mg,1.8mg,0mcg,49.9mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+M & M Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,160,1 EACH,7g,24g,3.5g,1g,0g,15g,10mg,0g,140mg,2g,0mg,0.7mg,0mcg,35mg
+Yakitori Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2/10/2023,233,1 PLATE,3.5g,29.6g,0.7g,2.4g,0g,6.1g,48.3mg,1.6g,427.5mg,21.7g,53.5mg,2.8mg,0mcg,294.8mg
+Adobo Cod With Parsnip & Peas,McMahon,Dinner,"Milk, Fish",['Gluten Friendly'],2/10/2023,322,1 PLATE,13.5g,27.1g,7.6g,7.7g,0g,9.5g,77.3mg,0g,652.2mg,24g,54.8mg,1.6mg,0mcg,308.7mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Pork Loin Wrapped In Bacon,McMahon,Dinner,"Milk, Soybeans",['Gluten Friendly'],2/10/2023,387,1 PLATE,20g,19.3g,8.1g,3.4g,0g,4.1g,107.7mg,0g,913.1mg,33.7g,59.9mg,3.7mg,0.3mcg,555.7mg
+Shakshuka With Naan,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, Sesame",['Vegetarian'],2/10/2023,282,1 PLATE,13.8g,24.9g,4.1g,1.9g,0g,7.2g,226.1mg,0.5g,935.5mg,11.8g,125.5mg,2mg,0mcg,84.3mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Bacon Wrapped Pork Loin,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,247,4 OZ,13.6g,0.1g,4.8g,0g,0g,0g,93.2mg,0g,212mg,28.6g,0.4mg,1.3mg,0mcg,1.3mg
+Mushroom Gravy,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2/10/2023,10,1 OZL,0.3g,1.5g,0g,0.1g,0g,0.6g,0.7mg,0g,467.3mg,0.8g,4mg,0.1mg,0.1mcg,18.6mg
+Roasted Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,20,3 OZ,0.4g,3.4g,0.1g,1.7g,0g,1.5g,0mg,0g,38mg,1.9g,20.9mg,1.8mg,0mcg,170.1mg
+Roasted Garlic Mashed Potatoes,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,110,3 OZ,5.8g,14.4g,3.3g,1.6g,0g,2g,13.8mg,0g,195.8mg,2.5g,34.6mg,0.6mg,0.2mcg,365.7mg
+Carrot and Snow Pea Stir Fry,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,47,3 OZ,1.3g,6.9g,0.1g,2.3g,0g,4.1g,0mg,0g,112mg,2.1g,31.5mg,1.3mg,0mcg,227.7mg
+Pickled Cucumber,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,7,1 OZ,0g,1.8g,0g,0.1g,0g,1.4g,0mg,1.2g,79.1mg,0.1g,2.6mg,0mg,0mcg,23.2mg
+White Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Yakitori Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2/10/2023,89,1 EACH,2.1g,0.6g,0.5g,0g,0g,0.5g,48.3mg,0.5g,234mg,17.4g,0mg,0.4mg,0mcg,mg
+Grilled Naan With Olive Oil And Za'atar,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian']",2/10/2023,81,2 PIECES,2.4g,11.5g,0.3g,0g,0g,0.5g,2.5mg,0.5g,221.7mg,2g,21.5mg,0.5mg,0mcg,24.5mg
+Shakshuka,McMahon,Dinner,"Milk, Eggs","['Gluten Friendly', 'Vegetarian']",2/10/2023,201,1 EACH,11.4g,13.4g,3.8g,1.9g,0g,6.7g,223.6mg,0g,713.8mg,9.8g,104mg,1.5mg,0mcg,59.8mg
+Adobo Cod,McMahon,Dinner,"Milk, Fish","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,98,1 EACH,2.7g,0g,1.2g,0g,0g,0g,50mg,0g,232mg,18g,18mg,0.3mg,0mcg,0mg
+Parsnip Puree,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,142,4 OZ,8.6g,15.6g,5.4g,3.9g,0g,3.7g,22.8mg,0g,291.2mg,1.2g,36.4mg,0.5mg,0mcg,307.1mg
+Peas with Lemon Butter and Mint,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,110,4 OZ,2.9g,15.4g,1.4g,5.1g,0g,7.7g,6.1mg,0g,172mg,6.4g,0.6mg,0.9mg,0mcg,2mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Taco Tuesday,McMahon,Dinner,,[],2/10/2023,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2/10/2023,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-15,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-15,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-15,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-15,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Sausage Patties,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-15,253,2 EACH,24.3g,0g,9.1g,0g,0g,0g,40.5mg,0g,546.8mg,8.1g,0mg,0.4mg,mcg,mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Blueberry Coffee Cake,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,380,1/35 HFSHT,17.6g,48.6g,3g,1.2g,0g,25.7g,58mg,24g,256mg,4.6g,42.9mg,0.9mg,0.3mcg,76.2mg
+Inihaw Na Manok,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Smart Check']",2023-02-15,223,1 PLATE,3g,30.1g,0.7g,1.3g,0g,8.3g,48.3mg,2.6g,325mg,20.3g,40.5mg,1.8mg,0mcg,209.4mg
+Gemelli,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Indian Bar,McMahon,Lunch,,[],2023-02-15,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Chicken With North African Spice Paste,McMahon,Lunch,,['Gluten Friendly'],2023-02-15,339,1 PLATE,21.1g,16.9g,2.2g,4.1g,0g,2.1g,48.3mg,0g,803.9mg,21.9g,70.7mg,3.1mg,0mcg,341.5mg
+Yakisoba,McMahon,Lunch,"Fish, Wheat, Soybeans",[],2023-02-15,387,1 PLATE,6.9g,71g,0.7g,2.7g,0g,8.3g,1mg,2.8g,1472.1mg,11.4g,120.4mg,4.1mg,0mcg,117.3mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-15,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Chicken With North African Spice Paste,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-15,108,1 EACH,4.1g,1.2g,0.8g,0.5g,0g,0g,48.3mg,0g,213.9mg,17.4g,8.8mg,0.7mg,0mcg,21.9mg
+Pigeon Peas,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,60,3 OZ,0.8g,10.6g,0.1g,2.9g,0g,0.4g,0mg,0g,294mg,2.9g,17.6mg,0.8mg,0mcg,19.6mg
+Swiss Chard Salad,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,129,3 OZ,12.1g,3.8g,1g,0.6g,0g,1.3g,0mg,0g,222mg,1.2g,33.2mg,1.2mg,0mcg,225mg
+Garlic Fried Rice (Sinangag),McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,129,4 OZ,0.9g,27g,0.1g,0.1g,0g,0.1g,0mg,0g,94.3mg,3g,31.8mg,1.5mg,0mcg,74.4mg
+Inihaw Na Manok Marinade,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-15,91,1 EACH,2.2g,1.2g,0.5g,0g,0g,1g,48.3mg,1g,184.5mg,17.3g,0.8mg,0.4mg,0mcg,1.8mg
+Mango And Daikon Salad,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,14,1 OZ,0.1g,3.5g,0g,0.5g,0g,2.9g,0mg,0.6g,27.9mg,0.3g,6.3mg,0.1mg,0mcg,60.7mg
+Yakisoba,McMahon,Lunch,"Fish, Wheat, Soybeans",[],2023-02-15,387,8 OZ,6.9g,70.9g,0.7g,2.7g,0g,8.3g,1mg,2.8g,1470.1mg,11.3g,117.1mg,4.1mg,0mcg,109.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Spicy Kale With Ricotta And Peppadew Peppers,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,251,1 PLATE,11.7g,27.4g,3.8g,1.3g,0g,3.7g,15.6mg,1.6g,283.2mg,9.2g,168.8mg,2mg,0mcg,83.3mg
+Chocolate Streusel Brownies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,227,1/96 SHEET,10.1g,31.5g,2.9g,1.1g,0g,23.2g,18.5mg,18.5g,151.9mg,1.9g,13.9mg,1.9mg,0.1mcg,89.9mg
+Ranger Cookies,McMahon,Lunch,"Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,180,1 EACH,9g,24g,5g,0g,0g,10g,0mg,0g,125mg,2g,26mg,0.4mg,mcg,0mg
+Green Curry Vegetable,McMahon,Dinner,"Soybeans, Sesame, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-15,250,1 PLATE,5.4g,45.5g,3g,2.5g,0g,5g,0mg,0.6g,366.4mg,6.9g,53.5mg,1.7mg,0.1mcg,423.2mg
+Dijon Chicken With Olive Oil Crushed Potato,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-15,407,1 PLATE,16.8g,24.8g,2.9g,4.7g,0g,2.7g,164.1mg,0g,393.6mg,41.2g,144.6mg,5.1mg,0mcg,1052.7mg
+Gemelli,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Puerto Rican Roast Pork With Rice And Beans,McMahon,Dinner,Gluten,[],2023-02-15,690,1 PLATE,39.7g,52.6g,11.3g,1.1g,0g,22.2g,102.6mg,0g,1465.6mg,32.1g,36.4mg,3.5mg,0mcg,525.4mg
+Tostones with Chipotle Sour Cream and Pico,McMahon,Dinner,"Milk, Gluten",['Vegetarian'],2023-02-15,596,1 PLATE,43.9g,49g,8g,2.9g,0g,19.4g,18mg,0g,882.4mg,6.4g,66.9mg,1.9mg,0mcg,945.6mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-15,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Fried Plantains,McMahon,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,294,3 EACH,15.4g,38.8g,1.6g,1.5g,0g,32.8g,0mg,0g,0mg,0.7g,5.2mg,0.4mg,0mcg,552.1mg
+Pernil,McMahon,Dinner,,['Gluten Friendly'],2023-02-15,372,4 OZ,29.3g,0.5g,10.3g,0.1g,0g,0g,102.6mg,0g,1165.4mg,27.9g,3.6mg,1.6mg,0mcg,6.1mg
+Rice And Beans,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,183,6 OZ,0.1g,39.4g,0g,0.1g,0g,0.5g,0mg,0g,450.3mg,5.5g,44mg,2.3mg,0mcg,226.8mg
+Black Bean Hummus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,212,2 OZ,19.4g,7.6g,2.7g,0.1g,0g,0.8g,0mg,0g,191mg,2.4g,19mg,0.8mg,0mcg,170.7mg
+Chipotle Sour Cream,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,28,1 TBL,2.3g,1g,1.6g,0g,0g,0.5g,9mg,0g,32.9mg,0.5g,14.1mg,0mg,0mcg,21.1mg
+Fresh Salsa,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,6,1 OZ,0.1g,1.4g,0g,0.1g,0g,1g,0mg,0g,29.7mg,0.3g,3.6mg,0.1mg,0mcg,67.7mg
+Tostones,McMahon,Dinner,Gluten,"['Vegetarian', 'Vegan']",2023-02-15,209,3 PIECES,10.2g,32.7g,0.8g,2.4g,0g,15.4g,0mg,0g,470.7mg,1.3g,3.1mg,0.6mg,0mcg,512mg
+Green Curry Sauce,McMahon,Dinner,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,79,4 OZL,6.5g,3.9g,5.5g,0.9g,0g,1.9g,0mg,0.6g,503.7mg,1.7g,27mg,1mg,0mcg,217.2mg
+Green Curry Vegetable,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,50,4 OZ,1g,9g,0.1g,2g,0g,4g,0mg,0.3g,109mg,2.4g,27.8mg,0.8mg,0.1mcg,291.7mg
+Rice Noodles With Sesame And Cilantro,McMahon,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,161,4 OZ,1.1g,34.5g,0.2g,0.1g,0g,0g,0mg,0g,5.5mg,3.6g,12.2mg,0.4mg,0mcg,22.9mg
+Dijon Chicken,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-15,229,1 EACH,8g,0.1g,1.7g,0.4g,0g,0g,164.1mg,0g,214.1mg,35.4g,34.1mg,1.8mg,0mcg,1.5mg
+Olive Oil Crushed Potato,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,149,4 OZ,8g,20.3g,1.1g,2.4g,0g,2.3g,0mg,0g,75mg,3.1g,19.4mg,0.9mg,0mcg,561.2mg
+Sauteed Spinach With Garlic,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,29,3 OZ,0.8g,4.3g,0.1g,2g,0g,0.4g,0mg,0g,104.5mg,2.7g,91.1mg,2.4mg,0mcg,490mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Nacho Bar,McMahon,Dinner,,[],2023-02-15,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Philly Steak Pizza,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-15,313,1 PLATE,15.6g,25.2g,7.4g,0.8g,0g,1.2g,43.4mg,0.5g,731.3mg,17.5g,362.4mg,2mg,0.1mcg,45.7mg
+Lemon Delights,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-15,238,1 EACH,10.5g,34.6g,7g,0g,0g,22.2g,15.4mg,6.9g,161.2mg,2.1g,0mg,0.7mg,0mcg,35.9mg
+Blueberry Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2/16/2023,498,2 EACH,20.7g,61g,2.3g,1.2g,0g,19.2g,114.6mg,14.2g,453.1mg,13.1g,304.6mg,3.7mg,0.7mcg,227.1mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2/16/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+O'Brien Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,127,4 OZ,4g,21g,1.3g,0.2g,0g,0.5g,0.1mg,0g,167.5mg,1.4g,2.1mg,0mg,0mcg,17.4mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/16/2023,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Turkey Sausage Links,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2/16/2023,153,2 EACH,12g,0g,3.8g,0g,0g,0g,65.7mg,0g,470.7mg,10.9g,0mg,0.8mg,0mcg,mg
+Peach Crunch Cake,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,473,1/35 HFSHT,27.6g,49.8g,6.7g,0.7g,0g,34.1g,53.3mg,26.9g,187mg,5.3g,70.8mg,0.5mg,0.2mcg,140.1mg
+Seared Chicken With Harissa Vinaigrette,McMahon,Lunch,Wheat,['Smart Check'],2/16/2023,336,1 PLATE,13.4g,30.3g,2g,3g,0g,2.5g,50.8mg,0.2g,693.8mg,23.8g,64mg,2.6mg,0.1mcg,402.1mg
+Breaded Eggplant Napoleon,McMahon,Lunch,"Wheat, Gluten","['Vegetarian', 'Vegan']",2/16/2023,243,1 PLATE,10.6g,34.3g,1g,2.5g,0g,14.5g,0mg,2.5g,753.6mg,3.9g,64.3mg,1.1mg,0.4mcg,413.8mg
+Meatball Sandwich,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2/16/2023,497,1 PLATE,32.9g,18g,16g,1.6g,1g,6.3g,133.1mg,0g,690.8mg,32.4g,301.8mg,3.6mg,0.2mcg,66.7mg
+Shrimp And Grits With Chorizo and Lime,McMahon,Lunch,"Milk, Fish, Crustacean Shellfish",['Gluten Friendly'],2/16/2023,220,1 PLATE,9.9g,17.1g,5.4g,1.5g,0g,0.9g,89.9mg,0g,737mg,15g,127mg,1.1mg,0mcg,86.8mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2/16/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Couscous with Garlic,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,86,3 OZ,0.2g,16.6g,0g,0g,0g,0g,1.8mg,0g,285.7mg,2.6g,6.8mg,0.9mg,0.1mcg,43.4mg
+Fresh Steamed Broccoli,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,36,3 OZ,0.4g,7.1g,0g,2.8g,0g,1.8g,0mg,0g,35.1mg,3g,50mg,0.8mg,0mcg,335.9mg
+Harissa Vinaigrette,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,188,1 OZL,20.1g,2.2g,2.8g,0.3g,0g,1.4g,0mg,0.3g,175.6mg,0.2g,9.2mg,0.3mg,0mcg,14.2mg
+Seared Chicken Breast,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/16/2023,91,1 EACH,2.7g,0.1g,0.6g,0g,0g,0g,48.3mg,0g,190mg,17.2g,0.3mg,0.4mg,0mcg,1.1mg
+Balsamic Gastrique,McMahon,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2/16/2023,41,1/2 OZL,0g,8.9g,0g,0g,0g,8.9g,0mg,2.5g,0mg,0g,0mg,0mg,mcg,mg
+Bruschetta,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,42,4 OZ,2.5g,4.8g,0.3g,0.1g,0g,3g,0mg,0g,230mg,1.1g,15.7mg,0.4mg,0mcg,277.7mg
+Vegan Breaded Eggplant,McMahon,Lunch,"Wheat, Gluten","['Vegetarian', 'Vegan']",2/16/2023,160,3 OZ,8.1g,20.6g,0.6g,2.4g,0g,2.7g,0mg,0g,523.6mg,2.8g,48.6mg,0.7mg,0.4mcg,136mg
+Bangin' Cheddar Grits,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,139,4 OZL,6.8g,14.9g,4.3g,1g,0g,0g,20.3mg,0g,305.8mg,4.7g,93.4mg,0.7mg,0mcg,1mg
+Shrimp And Chorizo Stir Fry With Poblano,McMahon,Lunch,"Fish, Crustacean Shellfish","['Gluten Friendly', 'Less Sodium']",2/16/2023,82,3 OZ,3.1g,2.2g,1.2g,0.4g,0g,0.9g,69.7mg,0g,431.2mg,10.3g,33.7mg,0.3mg,0mcg,85.7mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Meatballs,McMahon,Lunch,"Milk, Eggs, Wheat",['Less Sodium'],2/16/2023,350,1 EACH,22.8g,12g,11g,0.6g,1g,1.3g,107.8mg,0g,334.8mg,24.3g,79.3mg,2.9mg,0.2mcg,66.7mg
+Parmesan,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,20,1 TBSP,1.5g,0g,1g,0g,0g,0g,5mg,0g,65.5mg,2g,49.4mg,0mg,mcg,mg
+Spaghetti,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Ruben Pizza,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2/16/2023,291,1 PLATE,14.1g,24.3g,6g,0.9g,0g,1.8g,36.4mg,0.5g,531.2mg,13.7g,240.3mg,1.7mg,0mcg,39mg
+Death by Chocolate Pudding,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,317,1/35 PAN,12.9g,46.8g,7.6g,0.6g,0.1g,33.5g,12.7mg,11.5g,345.2mg,3.9g,85.7mg,1.5mg,1mcg,64.8mg
+"Red ,White & Blue Cookies",McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,160,1 EACH,7g,24g,3g,0g,0g,15g,10mg,0g,130mg,1g,8mg,1mg,mcg,35mg
+Salmon A La Nage,McMahon,Dinner,"Milk, Fish","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/16/2023,307,1 PLATE,12.6g,19.6g,3.1g,1.6g,0g,1.8g,54.3mg,0.4g,473.6mg,25.1g,148.4mg,0.6mg,0mcg,152.8mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Fried Chicken & Potato Salad,McMahon,Dinner,"Milk, Eggs, Wheat, Gluten",['Less Sodium'],2/16/2023,847,1 PLATE,67.7g,23.7g,13.7g,2.5g,0g,2.2g,130.4mg,0g,290.2mg,40.2g,31.3mg,2.1mg,0.1mcg,503.3mg
+Fried Polenta With Whitebean Ragout,McMahon,Dinner,"Milk, Gluten",[],2/16/2023,278,1 PLATE,13.2g,31.7g,2.5g,4.1g,0g,6.1g,10mg,0g,566.3mg,9.1g,196.4mg,1.4mg,1.2mcg,16.8mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Ropa Vieja,McMahon,Dinner,Gluten,['Less Sodium'],2/16/2023,570,1 PLATE,28.7g,58.1g,8.4g,2.5g,0g,26.3g,73.8mg,0g,773.8mg,19.2g,83.7mg,3.5mg,0mcg,813.4mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2/16/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Fried Plantains,McMahon,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,294,3 EACH,15.4g,38.8g,1.6g,1.5g,0g,32.8g,0mg,0g,0mg,0.7g,5.2mg,0.4mg,0mcg,552.1mg
+Ropa Vieja,McMahon,Dinner,,['Gluten Friendly'],2/16/2023,282,6 OZ,18.4g,11.9g,7.3g,1.5g,0g,4.4g,73.8mg,0g,771.4mg,16.6g,60.7mg,2.1mg,0mcg,401.4mg
+White Rice,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Fried Chicken,McMahon,Dinner,"Milk, Eggs, Wheat, Gluten",['Less Sodium'],2/16/2023,501,1 PORT,43.9g,6.6g,8g,0.2g,0g,0.1g,77.3mg,0g,124.8mg,21.3g,13.6mg,1.1mg,0.1mcg,28.1mg
+Red Potato Salad,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,106,3 OZ,6.2g,12.8g,0.6g,1.7g,0g,1.5g,0mg,0g,81.2mg,2.5g,13.3mg,0.5mg,0mcg,356.4mg
+Fried Polenta Cakes,McMahon,Dinner,"Milk, Gluten","['Less Sodium', 'Vegetarian']",2/16/2023,187,1 EACH,12.2g,15.6g,2.5g,0g,0g,2.8g,10mg,0g,170.6mg,5.1g,144.3mg,0.4mg,1.2mcg,0.6mg
+White Bean Ragout,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,69,3 OZ,0.8g,12g,0.1g,3g,0g,2.5g,0mg,0g,296.8mg,3g,39mg,0.7mg,0mcg,12.1mg
+Nage,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2/16/2023,72,4 OZL,5.2g,3.9g,3.8g,0.5g,0g,1g,18.2mg,0g,403.7mg,1g,267.7mg,0.4mg,0mcg,40mg
+"Potato, Peas And Carrots",McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,109,4 OZ,2.9g,17.7g,0.2g,1.3g,0g,1.3g,0mg,0.4g,207.4mg,2.6g,14.1mg,0.4mg,0mcg,131.6mg
+Seared Salmon,McMahon,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/16/2023,162,1 EACH,7.1g,0g,1g,0g,0g,0g,45.2mg,0g,64.3mg,22.1g,0.4mg,0mg,0mcg,1.2mg
+Alfredo Sauce,McMahon,Dinner,"Milk, Wheat","['Less Sodium', 'Vegetarian']",2/16/2023,325,4 OZL,27.2g,3.7g,17.3g,0g,0g,4.7g,88.8mg,0g,507.4mg,13g,1384.5mg,0.1mg,0.8mcg,4.7mg
+Buttery Garlic Bread,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,121,1 SLICE,5.3g,14.9g,3.1g,0.4g,0g,0.1g,12.7mg,0g,169.6mg,2.9g,4.1mg,1mg,0mcg,31.9mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne Pasta,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Roasted Chicken,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2/16/2023,81,2 OZ,1.7g,0.7g,0.3g,0g,0g,0g,40.5mg,0g,216mg,14.9g,17.6mg,0.5mg,mcg,mg
+Roasted Veggie Chicken Strips,McMahon,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,102,2 OZ,2.7g,2.3g,0.3g,0g,0g,0.6g,0mg,0g,268.8mg,15.9g,29.7mg,2.1mg,0mcg,0.6mg
+Steamed Broccoli,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2/16/2023,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Cinnamon Roll Cheesecake,McMahon,Dinner,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,246,1/20 CAKE,16.5g,23.7g,10.8g,0.1g,0g,20.2g,75mg,18.8g,141.5mg,3.8g,98.9mg,0.3mg,0.1mcg,12.1mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-17,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Chorizo Sausage Patties,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-17,158,1 EACH,14.3g,1g,4.5g,0g,0.1g,0g,29.3mg,0g,363.4mg,6.1g,13.1mg,0.7mg,mcg,mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-17,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Fried Tater Tots,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-17,303,4 OZ,20.9g,26.3g,2.2g,2.8g,0g,0g,0mg,0g,497.9mg,2.8g,0mg,0.5mg,0mcg,318.1mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-17,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Assorted Donuts,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-17,432,1 EACH,24.2g,49.4g,10.6g,0.1g,0g,18g,10mg,0g,488.9mg,6.6g,8.7mg,2.1mg,0mcg,mg
+Ginger Chicken Meatball Noodle Bowl,McMahon,Lunch,"Wheat, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-02-17,310,1 PLATE,6g,40.4g,1g,3.2g,0g,7.2g,88.9mg,2g,737.1mg,25.7g,66.5mg,3.4mg,0mcg,315.2mg
+Fish & Chips,McMahon,Lunch,"Milk, Fish, Wheat, Soybeans, Gluten",[],2023-02-17,274,1 PLATE,9g,28.6g,0.9g,0.5g,0g,1.5g,45mg,0g,627.2mg,21.4g,142.5mg,1mg,0mcg,190.8mg
+Kale Okonomiyaki,McMahon,Lunch,"Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-17,226,1 PLATE,13.3g,18.8g,2.7g,1.7g,0g,2.7g,69mg,0.3g,360.8mg,7.5g,54mg,2.2mg,0.4mcg,139.3mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Meatloaf With Cheddar Garlic Mashed,McMahon,Lunch,"Milk, Eggs, Wheat",[],2023-02-17,571,1 PLATE,34.7g,37.3g,17.1g,3.9g,1g,10.2g,178.8mg,0g,969mg,29.9g,135.3mg,4.3mg,0.7mcg,490.7mg
+Rotini,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-17,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Cheddar Garlic Mashed Potato,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,118,3 OZ,6.5g,13.3g,4.2g,1.5g,0g,2.1g,19.2mg,0g,239.5mg,3.8g,72.4mg,0.5mg,0.3mcg,350.7mg
+Meatloaf,McMahon,Lunch,"Eggs, Wheat",[],2023-02-17,384,4 OZ,24.6g,16g,10.8g,0.5g,1g,5.9g,151.2mg,0g,583.2mg,24.2g,33.3mg,3.2mg,0.4mcg,36.7mg
+Mushroom Gravy,McMahon,Lunch,"Milk, Wheat",['Less Sodium'],2023-02-17,47,2 OZL,3.3g,3.4g,2g,0.1g,0g,0.1g,8.4mg,0g,136.7mg,0.9g,4mg,0.2mg,0mcg,18.2mg
+Roasted Green Beans,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,33,3 OZ,0.5g,6.9g,0.1g,2.8g,0g,3.2g,0mg,0g,14.5mg,1.7g,38.5mg,0.6mg,0mcg,127.6mg
+Battered Cod,McMahon,Lunch,"Milk, Fish, Wheat",['Less Sodium'],2023-02-17,176,1 EACH,1.4g,20.1g,0.2g,0g,0g,1g,45mg,0g,367mg,20.8g,132.5mg,0.8mg,0mcg,60.7mg
+Straight Cut French Fries,McMahon,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-17,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Carrot and Snow Pea Stir Fry,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,47,3 OZ,1.3g,6.9g,0.1g,2.3g,0g,4.1g,0mg,0g,112mg,2.1g,31.5mg,1.3mg,0mcg,227.7mg
+Ginger Chicken Meatballs,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-17,127,2 EACH,4.5g,2.2g,0.9g,0.2g,0g,0.4g,88.9mg,0g,380.4mg,20.4g,5.4mg,1.6mg,0mcg,39.6mg
+Pho Broth,McMahon,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,20,4 OZL,0.1g,4.8g,0g,0.6g,0g,2.2g,0mg,1.7g,210mg,0.5g,18.9mg,0.3mg,0mcg,34.8mg
+Rice Noodles,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,150,4 OZ,0g,34.4g,0g,0g,0g,0g,0mg,0g,4.4mg,3.5g,10.6mg,0.4mg,0mcg,10.6mg
+Kale And Brussel Sprout Okonomiyaki,McMahon,Lunch,"Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-17,226,1 EACH,13.3g,18.8g,2.7g,1.7g,0g,2.7g,69mg,0.3g,360.8mg,7.5g,54mg,2.2mg,0.4mcg,139.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-17,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Lunch,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-17,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Oatmeal Raisin Cookies,McMahon,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,140,1 EACH,4.5g,22g,1.5g,0g,0g,13g,0mg,8g,85mg,2g,9mg,0.7mg,0mcg,82mg
+Raspberry Coconut Magic Bars,McMahon,Lunch,"Milk, Wheat, Soybeans, Coconut","['Less Sodium', 'Vegetarian']",2023-02-17,271,1/35 HFPAN,9g,44.8g,7.1g,1.5g,0g,34.7g,5.8mg,14.8g,128.7mg,2.7g,61.3mg,0.4mg,0mcg,88.6mg
+Roasted Chicken With Asparagus And Potato,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-17,222,1 PLATE,6.2g,23.9g,0.9g,4.2g,0g,4.2g,50.9mg,0g,566.1mg,23g,43.6mg,3.1mg,0mcg,735.8mg
+Harissa Roasted Swordfish With Linguini,McMahon,Dinner,"Fish, Wheat",['Less Sodium'],2023-02-17,589,1 PLATE,28.7g,50.1g,4.5g,2.8g,0g,6.7g,75mg,0g,278.9mg,32.5g,79.8mg,4.4mg,23.8mcg,1091mg
+Japanese Soba Noodles In Sweet Soy Broth,McMahon,Dinner,"Wheat, Soybeans","['Vegetarian', 'Vegan']",2023-02-17,190,1 PLATE,1.6g,35.2g,0.2g,0.3g,0g,4.9g,0mg,3.1g,952.1mg,8.1g,32mg,1.5mg,0mcg,136.9mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Rotini,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,mg
+Texas Style Beef,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-17,580,1 PLATE,35.9g,17.7g,15.7g,2g,1.8g,5.2g,148mg,0g,915.7mg,40.1g,86.1mg,4.2mg,0mcg,197.8mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-17,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Asparagus With Prosciutto,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-17,32,3 OZ,1.3g,3.3g,0.2g,1.7g,0g,1.6g,2.5mg,0g,61.4mg,2.6g,20.2mg,1.8mg,0mcg,170.4mg
+Crushed Red Potatoes,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,97,4 OZ,2.6g,19.1g,0.2g,2.3g,0g,2.2g,0mg,0g,259.3mg,2.9g,18.9mg,0.8mg,0mcg,528.4mg
+Roasted Sofrito Chicken,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-17,93,1 EACH,2.2g,1.5g,0.5g,0.3g,0g,0.4g,48.3mg,0g,245.4mg,17.5g,4.4mg,0.5mg,0mcg,37mg
+Bangin' Cheddar Grits,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,139,4 OZL,6.8g,14.9g,4.3g,1g,0g,0g,20.3mg,0g,305.8mg,4.7g,93.4mg,0.7mg,0mcg,1mg
+Grilled Vegetables,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,35,4 OZ,0.7g,6.9g,0.1g,1.5g,0g,4.5g,0mg,0g,131.3mg,1.4g,19mg,0.4mg,0mcg,248.9mg
+Texas Style Beef,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-17,449,4 OZ,30.2g,1.3g,12.4g,0.1g,1.8g,1.8g,132.8mg,0g,587.8mg,35.5g,1.8mg,3.4mg,0mcg,10.4mg
+Soba Noodles In Sweet Soy Broth,McMahon,Dinner,"Wheat, Soybeans","['Vegetarian', 'Vegan']",2023-02-17,190,1 BOWL,1.6g,35.2g,0.2g,0.3g,0g,4.9g,0mg,3.1g,952.1mg,8.1g,32mg,1.5mg,0mcg,136.9mg
+Harissa Swordfish,McMahon,Dinner,Fish,"['Gluten Friendly', 'Less Sodium']",2023-02-17,186,4 OZ,9.2g,0.9g,1.9g,0.2g,0g,0.2g,75mg,0g,111.3mg,22.7g,21.1mg,0.8mg,23.8mcg,501.5mg
+Linguini With Sun Dried Tomato Pesto,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,404,6 OZ,19.5g,49.2g,2.6g,2.6g,0g,6.4g,0mg,0g,168mg,9.8g,58.8mg,3.7mg,0mcg,590mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-17,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Prosciutto With Fresh Mozzarella Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-17,271,1 PLATE,12.7g,24.4g,5.5g,0.8g,0g,2.3g,26.5mg,0.9g,499mg,12.4g,137.3mg,1.5mg,0mcg,67.5mg
+Assorted Cupcakes,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-17,298,1 EA,13.7g,40.7g,7.2g,0.6g,0.1g,26.8g,10.3mg,11.9g,322mg,2.3g,17.1mg,1.3mg,0mcg,64.4mg
+Bacon,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-20,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Buttermilk Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-02-20,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-20,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Tater Tots,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-20,303,4 OZ,20.9g,26.3g,2.2g,2.8g,0g,0g,0mg,0g,497.9mg,2.8g,0mg,0.5mg,0mcg,318.1mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-20,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Lemon Blueberry Bread,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-20,265,1/16 loaf,10.2g,40.7g,4.4g,1.2g,0g,22.9g,39.9mg,1.7g,215.4mg,3g,17.5mg,1.2mg,0mcg,50.6mg
+Grilled Teriyaki Salmon With Red Cabbage And Pineapple Slaw,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame",['Smart Check'],2023-02-20,364,1 PLATE,8.1g,45.5g,1.1g,0.7g,0g,13.2g,45.2mg,0.4g,386.5mg,26.1g,43.1mg,1.9mg,0mcg,137.6mg
+Sweet Soy Glazed Tofu,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-20,283,1 PLATE,7.3g,37.8g,0.7g,4.4g,0g,3.1g,0mg,1.5g,354.9mg,17.7g,194.6mg,3.2mg,0.2mcg,321.6mg
+Cavatappi,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Coconut Curry Noodle Bowl,McMahon,Lunch,"Fish, Crustacean Shellfish, Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts']",2023-02-20,340,1 PLATE,11.4g,48.2g,9.8g,0.5g,0g,5g,55.7mg,3g,430.7mg,10.5g,47.6mg,1.3mg,0mcg,303.9mg
+Lemon Pepper Chicken With Spinach Artichoke Caserole,McMahon,Lunch,"Milk, Wheat, Soybeans, Sesame",[],2023-02-20,477,1 PLATE,18.2g,26.9g,6.6g,0.8g,0g,4.5g,189.6mg,0g,709.1mg,44.5g,738.6mg,3mg,0.5mcg,69.7mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Grilled Garlic Flatbread,McMahon,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,117,2 QTR,2.5g,20g,0.5g,0g,0g,1.5g,0mg,0g,185.2mg,4g,52mg,0.7mg,0mcg,0.1mg
+Grilled Lemon Pepper Chicken,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-20,235,1 EACH,7.9g,0.5g,1.7g,0.2g,0g,0g,170.9mg,0g,219mg,35.8g,37.4mg,1.8mg,0mcg,10.2mg
+Spinach Artichoke Casserole,McMahon,Lunch,"Milk, Wheat","['Less Sodium', 'Vegetarian']",2023-02-20,129,4 OZ,7.8g,6.1g,4.2g,0.5g,0g,2.9g,24.6mg,0g,300.8mg,5.9g,627.6mg,0.5mg,0.5mcg,57.3mg
+Garlic Fried Rice (Sinangag),McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,129,4 OZ,0.9g,27g,0.1g,0.1g,0g,0.1g,0mg,0g,94.3mg,3g,31.8mg,1.5mg,0mcg,74.4mg
+Grilled Teriyaki Salmon,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-02-20,207,1 EACH,7g,12g,1g,0g,0g,12g,45.2mg,0.4g,269.2mg,22.5g,0.1mg,0.1mg,0mcg,0mg
+Red Cabbage And Pineapple Slaw,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,15,1 OZ,0.1g,3.7g,0g,0.5g,0g,1.1g,0mg,0g,13.6mg,0.3g,8mg,0.2mg,0mcg,55.8mg
+Coconut Curry Noodle Bowl,McMahon,Lunch,"Fish, Crustacean Shellfish, Soybeans, Coconut","['Gluten Friendly', 'Less Sodium', 'Contains Nuts']",2023-02-20,340,1 BOWL,11.4g,48.2g,9.8g,0.5g,0g,5g,55.7mg,3g,430.7mg,10.5g,47.6mg,1.3mg,0mcg,303.9mg
+Brown Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,96,3 OZ,0.8g,20.3g,0g,1.1g,0g,0g,0mg,0g,2.4mg,2.3g,1.8mg,0.2mg,0mcg,0mg
+Marinated Tofu,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-20,122,1 EACH,5.8g,4.6g,0.7g,0g,0g,1.8g,0mg,1.5g,266.1mg,11.8g,105.5mg,2mg,0mcg,161.8mg
+Roasted Bok Choy and Shitake,McMahon,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,33,4 OZ,0.4g,6.1g,0g,2.9g,0g,1.3g,0mg,0g,85.6mg,2.9g,86.7mg,0.9mg,0.2mcg,159.7mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-20,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Lunch,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-20,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+S'mores Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-20,190,1 EACH,9g,25g,4.5g,0g,0g,13g,10mg,13g,200.2mg,1g,10.1mg,1.3mg,0mcg,30mg
+Sugar Cookies,McMahon,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-20,164,1 EACH,7.2g,23.6g,4.1g,0g,0g,13.4g,15.4mg,0g,143.8mg,2.1g,0mg,0.7mg,mcg,35.9mg
+Pumpkin Spice Sweet Potato Curry With Basmati Rice,McMahon,Dinner,"Soybeans, Coconut","['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-20,357,1 PLATE,12.6g,52.7g,4.1g,3.1g,0g,5g,0mg,0g,373.4mg,8.1g,39.4mg,2mg,0mcg,369.9mg
+Sole A La Grenobloise,McMahon,Dinner,"Milk, Fish, Wheat","['Less Sodium', 'Smart Check']",2023-02-20,176,1 PLATE,6.1g,9.7g,1.6g,3.4g,0g,4.2g,51.1mg,0.5g,421.2mg,22.1g,77.4mg,2.6mg,0.3mcg,292.4mg
+Bun Ga Nuong (Grilled Chicken & Rice Vermicelli Salad),McMahon,Dinner,"Fish, Soybeans",['Gluten Friendly'],2023-02-20,307,1 PLATE,8.4g,40.7g,1.4g,0.3g,0g,5.2g,48.3mg,4.5g,748.3mg,18.2g,27.9mg,0.9mg,0mcg,71.6mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Chicken With Dijon Vinaigrette,McMahon,Dinner,Milk,['Gluten Friendly'],2023-02-20,399,1 PLATE,16.5g,21.3g,5.8g,7.3g,0g,7.7g,181.2mg,0g,586.4mg,42.9g,91.2mg,2.8mg,0mcg,480.8mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Parsnip Puree,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,142,4 OZ,8.6g,15.6g,5.4g,3.9g,0g,3.7g,22.8mg,0g,291.2mg,1.2g,36.4mg,0.5mg,0mcg,307.1mg
+Poached Carrots And Leeks,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,47,4 OZ,0.2g,11.1g,0g,2.2g,0g,6.4g,0mg,0g,41.1mg,1.2g,35.1mg,0.8mg,0mcg,314.3mg
+Roasted Chicken Thigh With Dijon Vinaigrette,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-20,266,1 EACH,10.1g,1.3g,1.8g,2.7g,0g,0.2g,170.9mg,0g,344mg,42.6g,38.9mg,1.9mg,0mcg,14.7mg
+Grilled Chicken (Ga Nuong),McMahon,Dinner,"Fish, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-20,90,1 EACH,2.3g,0.5g,0.6g,0g,0g,0.3g,48.3mg,0.2g,234.6mg,17.3g,1.1mg,0.4mg,0mcg,3.8mg
+Rice Noodle Salad,McMahon,Dinner,Fish,['Gluten Friendly'],2023-02-20,217,6 OZ,6.1g,40.2g,0.8g,0.3g,0g,4.8g,0mg,4.3g,513.4mg,0.8g,26.4mg,0.4mg,0mcg,66.8mg
+Basmati Rice,McMahon,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Pumpkin Spice Sweet Potato Curry,McMahon,Dinner,Coconut,"['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,121,4 OZL,5.5g,16.5g,2g,2.1g,0g,4.7g,0mg,0g,314.7mg,2.4g,37mg,1.1mg,0mcg,369.9mg
+Roasted Chipotle Pepitas,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,45,1 TBL,1.8g,5.1g,0.4g,1.7g,0g,0g,0mg,0g,35mg,1.7g,5.7mg,0.3mg,0mcg,87.8mg
+Cauliflower Puree,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,37,4 OZ,0.8g,5.9g,0.3g,2.2g,0g,3.5g,1.6mg,0.6g,210.6mg,2.5g,48mg,0.3mg,0.4mcg,146.8mg
+Roasted Asparagus,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,20,3 OZ,0.4g,3.4g,0.1g,1.7g,0g,1.5g,0mg,0g,38mg,1.9g,20.9mg,1.8mg,0mcg,170.1mg
+Scrod A La Grenobloise,McMahon,Dinner,"Milk, Fish, Wheat","['Less Sodium', 'Smart Check']",2023-02-20,129,1 EACH,5.1g,1.9g,1.3g,0.1g,0g,0g,50mg,0g,225.2mg,18.4g,20.4mg,0.5mg,0mcg,12.3mg
+Burger Bar,McMahon,Dinner,,[],2023-02-20,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-20,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Curly Fries,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-20,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-20,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Macaroni & Cheese,McMahon,Dinner,"Milk, Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-20,298,1 PLATE,16.3g,23.5g,10.4g,0.8g,0g,4.7g,51.2mg,0g,475.2mg,14.2g,360.6mg,0.9mg,1.6mcg,71.9mg
+Cherry Pie,McMahon,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,388,1/8 PIE,17.5g,55g,7.5g,2.5g,0g,18.8g,0mg,0g,400mg,3.8g,0mg,1.8mg,0mcg,mg
+Blueberry Pancakes,McMahon,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2/22/2023,498,2 EACH,20.7g,61g,2.3g,1.2g,0g,19.2g,114.6mg,14.2g,453.1mg,13.1g,304.6mg,3.7mg,0.7mcg,227.1mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2/22/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,McMahon,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/22/2023,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Pork Sausage Links,McMahon,Breakfast,,['Gluten Friendly'],2/22/2023,202,2 EACH,19.2g,0g,7.1g,0g,0g,0g,35.3mg,0g,433.4mg,6g,26.2mg,0.4mg,mcg,mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Strawberry Banana Muffin,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,333,1 EACH,15.4g,42.8g,1.6g,0.4g,0g,26.4g,59.4mg,25.2g,214.2mg,3.8g,29.7mg,0.5mg,0.3mcg,50.3mg
+Seared Salmon With Spring Vegetables And Celery Root Puree,McMahon,Lunch,"Milk, Fish","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,263,1 PLATE,10.4g,16g,2.9g,3.8g,0g,4.7g,52.8mg,0g,273.6mg,24.9g,62.1mg,1.2mg,0mcg,479.9mg
+Char Siu Pork Taco,McMahon,Lunch,"Wheat, Soybeans, Sesame",[],2/22/2023,959,1 PLATE,37.2g,114.8g,7.2g,5.3g,0g,29.3g,87.9mg,26.2g,832.2mg,41g,119.8mg,3mg,0mcg,386.6mg
+Everything Bagel Chicken With Cranberry Bacon Dressing,McMahon,Lunch,"Milk, Sesame",['Gluten Friendly'],2/22/2023,526,1 PLATE,28.1g,25.6g,8.1g,6.4g,0g,10.2g,193.1mg,2.8g,922.4mg,42.9g,212.3mg,3.5mg,0mcg,487.5mg
+Falafel Bar,McMahon,Lunch,,[],2/22/2023,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Gemelli,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2/22/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Cranberry Bacon Dressing,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,148,1 OZL,12.7g,6.4g,2.4g,0.7g,0g,5.8g,11.9mg,2.8g,227.9mg,4.2g,0.7mg,0.1mg,0mcg,39.5mg
+Everything Bagel Chicken,McMahon,Lunch,Sesame,"['Gluten Friendly', 'Less Sodium']",2/22/2023,230,1 EACH,7.6g,1.3g,1.6g,0.3g,0g,0g,164.1mg,0g,371.6mg,34.7g,44mg,1.9mg,0mcg,18.8mg
+Parsnip Puree,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,106,3 OZ,6.5g,11.7g,4g,2.9g,0g,2.8g,17.1mg,0g,218.4mg,0.9g,27.3mg,0.4mg,0mcg,230.4mg
+Sauteed Mustard Greens,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,42,3 OZ,1.3g,6.3g,0.1g,2.4g,0g,1.6g,0mg,0g,104.5mg,3.1g,140.3mg,1.1mg,0mcg,198.9mg
+Char Siu Pork Taco,McMahon,Lunch,"Wheat, Soybeans, Sesame",[],2/22/2023,872,2 EACH,32.6g,104.1g,6.6g,4g,0g,21.1g,87.9mg,20.3g,613.7mg,39.2g,65.9mg,2.4mg,0mcg,204.6mg
+Spicy Kale Slaw,McMahon,Lunch,"Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,87,2 OZ,4.6g,10.7g,0.7g,1.3g,0g,8.2g,0mg,6g,218.6mg,1.8g,54mg,0.6mg,0mcg,182mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Mushroom And Caramelized Onion Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2/22/2023,265,1 PLATE,12.1g,27.2g,5.1g,1.7g,0g,2.6g,22.5mg,0.7g,512.6mg,12.2g,224.9mg,1.9mg,0mcg,90.2mg
+Raspberry Oat Bar,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,316,1/35 HFPAN,12.4g,48.4g,7.2g,0.5g,0g,25.6g,22.6mg,13.1g,238mg,3.1g,21.3mg,1.1mg,0mcg,76.4mg
+Red Velvet Cookie,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,190,1 EACH,9g,26g,4.5g,1g,0g,16g,15mg,0g,95mg,2g,20mg,1.4mg,mcg,mg
+Butternut Farro Risotto,McMahon,Dinner,"Milk, Wheat","['Less Sodium', 'Smart Check', 'Vegetarian']",2/22/2023,327,1 PLATE,5.9g,59.1g,2.1g,3.5g,0g,10.7g,9mg,1.3g,350.8mg,11.3g,131.8mg,3.3mg,0mcg,626.5mg
+Beef Marinated In Red Wine With Purple Potato,McMahon,Dinner,Milk,['Gluten Friendly'],2/22/2023,726,1 PLATE,47.7g,25.1g,18.5g,4.6g,1.8g,4.2g,156mg,0g,1073.8mg,41.7g,28.7mg,4.9mg,0mcg,176.1mg
+Char Siew Chicken Over Ginger Scallion Noodles,McMahon,Dinner,"Wheat, Soybeans, Sesame",[],2/22/2023,524,1 PLATE,12.5g,54.2g,2.2g,1.2g,0g,6.8g,170.9mg,4.8g,807.3mg,46.5g,81.3mg,3.4mg,0mcg,43.7mg
+Gemelli,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Kashmiri Chicken With Peas And Butternut Squash,McMahon,Dinner,Milk,['Gluten Friendly'],2/22/2023,290,1 PLATE,12.3g,24.3g,5.6g,5.5g,0g,5.9g,69.3mg,0g,548.9mg,23.2g,58.8mg,1.9mg,0.1mcg,384.9mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2/22/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef With Red Wine,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,517,4 OZ,37.1g,0.8g,12.9g,0.6g,1.8g,2g,132.8mg,0g,222.3mg,36.8g,3mg,3.2mg,0mcg,6.9mg
+Butter Crushed Purple Potato,McMahon,Dinner,Milk,"['Gluten Friendly', 'Vegetarian']",2/22/2023,166,4 OZ,8.5g,19.1g,5.4g,1.3g,0g,0g,23.1mg,0g,763.5mg,2.5g,1.3mg,0.9mg,0mcg,0mg
+Cauliflower Roasted With Mustard and Cumin,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,33,3 OZ,1.6g,3.9g,0.1g,2.1g,0g,1.6g,0mg,0g,66mg,1.7g,18.3mg,0.6mg,0mcg,126.9mg
+Butternut Squash Puree,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2/22/2023,119,4 OZ,7.9g,12.4g,3.9g,1.5g,0g,0g,16.2mg,0g,265.7mg,1.1g,50.8mg,0.7mg,0mcg,372.6mg
+Kashmiri Style Chicken,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,89,1 EACH,2.2g,0.4g,0.6g,0.1g,0g,0.2g,48.5mg,0g,154.2mg,17.4g,7.6mg,0.5mg,0.1mcg,10.9mg
+Peas with Lemon Butter and Mint,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,110,4 OZ,2.9g,15.4g,1.4g,5.1g,0g,7.7g,6.1mg,0g,172mg,6.4g,0.6mg,0.9mg,0mcg,2mg
+Char Siu Chicken,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2/22/2023,256,1 EACH,7.5g,6.3g,1.6g,0.1g,0g,4.7g,170.9mg,4g,501.5mg,36.3g,36.9mg,1.9mg,0mcg,6.8mg
+Ginger Scallion Noodles,McMahon,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,268,4 OZ,4.9g,47.9g,0.6g,1.2g,0g,2.1g,0mg,0.8g,305.8mg,10.1g,44.4mg,1.5mg,0mcg,36.8mg
+Balsamic Gastrique,McMahon,Dinner,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2/22/2023,41,1/2 OZL,0g,8.9g,0g,0g,0g,8.9g,0mg,2.5g,0mg,0g,0mg,0mg,mcg,mg
+Farro With Butternut And Sage,McMahon,Dinner,Wheat,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,273,6 OZ,3.2g,54.7g,0.3g,3.5g,0g,6.3g,0mg,0g,278.9mg,9.5g,71.8mg,3.3mg,0mcg,626.5mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Tatcho Bar,McMahon,Dinner,,[],2/22/2023,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Not So Hawaiian Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",[],2/22/2023,369,1 PLATE,21.5g,29.5g,8.6g,1.1g,0g,5.3g,47.8mg,2.5g,737.3mg,15.2g,202.9mg,2.2mg,0mcg,100.5mg
+Peach & RaspberryTrifle,McMahon,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,136,1/70 HFPAN,5.6g,20.7g,3.4g,0g,0g,13.7g,0mg,11.8g,122.2mg,0.8g,9.2mg,0.3mg,0mcg,37.6mg
+Bacon,McMahon,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-23,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,McMahon,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Chefs Omelet Du Jour,McMahon,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-23,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+French Toast,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-23,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,McMahon,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-23,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Scrambled Eggs,McMahon,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cranberry Orange Bread,McMahon,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,260,1/16 LOAF,10g,40.1g,4.5g,0.8g,0g,23.5g,44.9mg,0g,210.6mg,3g,16.1mg,1.1mg,0mcg,50.1mg
+Yakitori Salmon With Edamame And Miso Butter,McMahon,Lunch,"Milk, Fish, Wheat, Soybeans, Sesame","['Gluten Friendly', 'Smart Check']",2023-02-23,515,1 PLATE,15.1g,54.6g,2g,4g,0g,5.1g,48.9mg,2.7g,633.5mg,35.4g,59.2mg,2.4mg,0mcg,460.7mg
+Cavatappi,McMahon,Lunch,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Cornmeal Crusted Chicken,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, Gluten",[],2023-02-23,420,1 PLATE,23.1g,20.1g,5.4g,1.5g,0g,4.8g,136.2mg,0g,980.7mg,34.4g,119.1mg,2.3mg,0.3mcg,306.3mg
+Maple And Chili Pork Loin With Spinach And Sweet Potato,McMahon,Lunch,Milk,['Gluten Friendly'],2023-02-23,465,1 PLATE,21.3g,32.1g,9.8g,6.3g,0g,6g,105.4mg,0.2g,680.1mg,36.5g,248.8mg,5.1mg,0mcg,1053.7mg
+Marinara Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Red Lentil Penne Puttanesca,McMahon,Lunch,Milk,"['Gluten Friendly', 'Vegetarian']",2023-02-23,561,1 PLATE,9.6g,89.3g,2.1g,8g,0g,6.4g,5mg,0g,1236.5mg,28.5g,140.7mg,6.5mg,0.6mcg,821.3mg
+Chef's Choice Soup du Jour,McMahon,Lunch,,[],2023-02-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Mashed Sweet Potato With Cotija,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,200,4 OZ,8.4g,25.7g,5.5g,3.8g,0g,5.2g,17.2mg,0g,290.7mg,6.1g,133mg,0.8mg,0mcg,429.8mg
+Roasted Maple Chili Pork Loin,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-23,228,4 OZ,11.9g,0.9g,4.2g,0g,0g,0.2g,88.2mg,0.1g,257.5mg,27.1g,0mg,1.3mg,0mcg,2.2mg
+Sauteed Spinach With Garlic,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,37,4 OZ,1g,5.5g,0.1g,2.5g,0g,0.5g,0mg,0g,132.8mg,3.4g,115.5mg,3mg,0mcg,620.9mg
+Buffalo Bleu Cheese Dressing,McMahon,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Vegetarian']",2023-02-23,260,2 OZL,25.4g,1g,7.7g,0g,0g,0.6g,32.2mg,0g,598.2mg,5.2g,173.7mg,0mg,0mcg,24.5mg
+Grilled Vegetables,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,27,3 OZ,0.5g,5.2g,0.1g,1.1g,0g,3.4g,0mg,0g,98.5mg,1g,14.3mg,0.3mg,0mcg,186.7mg
+Masa Crusted Chicken,McMahon,Lunch,"Eggs, Wheat, Gluten",[],2023-02-23,254,1 EACH,9.7g,12.7g,1.5g,0.1g,0g,0g,120.1mg,0g,550.3mg,30.5g,13.2mg,1.9mg,0.3mcg,45.1mg
+Edamame With Miso Butter,McMahon,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,157,4 OZ,7.4g,8.6g,1.2g,5.3g,0g,3.1g,5mg,0g,189.1mg,12.4g,68.7mg,2.5mg,0mcg,546.3mg
+Seared Salmon With Yakitori Sauce,McMahon,Lunch,"Fish, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-02-23,192,1 EACH,9.3g,2.5g,1.2g,0g,0g,2.1g,45.2mg,2g,403.2mg,22.3g,0.5mg,0.1mg,0mcg,1.6mg
+Sushi Rice,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,154,3 OZ,0.2g,34.3g,0g,0g,0g,0.5g,0mg,0.5g,66.3mg,2.8g,5.4mg,0.3mg,0mcg,37.1mg
+Parmesan,McMahon,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,20,1 TBSP,1.5g,0g,1g,0g,0g,0g,5mg,0g,65.5mg,2g,49.4mg,0mg,mcg,mg
+Puttanesca Sauce,McMahon,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-23,135,6 OZL,8.1g,12.4g,1g,1.9g,0g,5.4g,0mg,0g,1064.5mg,2.2g,71.1mg,0.8mg,0mcg,72.1mg
+Red Lentil Penne,McMahon,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-23,405,4 OZ,0g,77g,0g,6.1g,0g,1g,0mg,0g,106.4mg,24.3g,20.3mg,5.7mg,0.6mcg,749.3mg
+Cheese Pizza,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Sausage And Kale Pizza With Fresh Mozz,McMahon,Lunch,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).",[],2023-02-23,304,1 PLATE,15.3g,25.1g,7.2g,1.6g,0g,1.3g,34.1mg,0.5g,605.3mg,13.4g,157.3mg,2mg,0mcg,91.7mg
+Cherry Crisp,McMahon,Lunch,"Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).","['Vegetarian', 'Vegan']",2023-02-23,277,"1/35 2""PAN",6.1g,52.8g,1.8g,1.2g,0g,33.9g,0mg,12.6g,147.1mg,2.5g,9.8mg,0.8mg,0mcg,55.5mg
+Chocolate Chip Cookie,McMahon,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,170,1 EACH,8g,23g,4g,1g,0g,15g,10mg,0g,130mg,2g,0mg,2mg,mcg,70mg
+Provencal Scrod,McMahon,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,305,1 PLATE,11.8g,31.3g,1.5g,4.1g,0g,7.3g,45mg,0g,532.1mg,22.7g,85.1mg,2.3mg,0mcg,785.1mg
+Asian Pork Tacos,McMahon,Dinner,"Wheat, Soybeans, Sesame",[],2023-02-23,660,1 PLATE,35.6g,50.2g,11.9g,2.6g,0g,18g,102.6mg,3.8g,1510.9mg,32.8g,149.2mg,4.1mg,0mcg,315.6mg
+BBQ Ribs With Fries And Slaw,McMahon,Dinner,"Wheat, Soybeans, Gluten",[],2023-02-23,649,1 PLATE,48.8g,39.1g,10.5g,1g,0g,15.8g,46.4mg,1.5g,841mg,15.5g,31.5mg,1.2mg,0mcg,318.7mg
+Cavatappi,McMahon,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,203,4 OZ,3.6g,37.7g,1.3g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,107.8mg
+Marinara Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Stuffed Poblano,McMahon,Dinner,Milk,"['Gluten Friendly', 'Vegetarian']",2023-02-23,254,1 PLATE,8.6g,36.4g,1.5g,2.2g,0g,5.2g,1.9mg,0g,825.3mg,7.1g,81.3mg,2.2mg,0mcg,496.7mg
+Chef's Choice Soup du Jour,McMahon,Dinner,,[],2023-02-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Asian Pork Tacos,McMahon,Dinner,"Wheat, Soybeans, Sesame",[],2023-02-23,660,2 EACH,35.6g,50.2g,11.9g,2.6g,0g,18g,102.6mg,3.8g,1510.9mg,32.8g,149.2mg,4.1mg,0mcg,315.6mg
+BBQ Ribs,McMahon,Dinner,Gluten,['Less Sodium'],2023-02-23,300,1 EACH,20g,15.2g,7.8g,0g,0g,13g,46.4mg,0g,403.2mg,13g,15.1mg,0.6mg,0mcg,11mg
+Coleslaw,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,205,4 OZ,19.1g,7.8g,1.8g,2g,0g,5.7g,0.2mg,3.1g,155.2mg,1.1g,32.9mg,0.4mg,0mcg,135mg
+Curly Fries,McMahon,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-23,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Black Beans In Sofrito,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,69,3 OZ,0.4g,12.3g,0g,0.2g,0g,1.1g,0mg,0g,90.2mg,3.9g,25.4mg,1.1mg,0mcg,290mg
+Mole Sauce,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegan']",2023-02-23,106,2 OZL,7.1g,8g,0.7g,0.9g,0g,3.2g,0mg,0g,384.7mg,1.5g,11.6mg,0.4mg,0mcg,237.7mg
+Stuffed Poblano,McMahon,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,102,1 EACH,1.2g,20.3g,0.8g,1.1g,0g,1.2g,1.9mg,0g,380.5mg,2.9g,52.7mg,1mg,0mcg,65.6mg
+Broken Olive Tapenade,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,68,1 TBL,7.5g,0.3g,1g,0g,0g,0g,0mg,0g,94.7mg,0.1g,6.3mg,0.1mg,0mcg,7.9mg
+Lemon Dill Potato,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,99,4 OZ,2.5g,20.1g,0.3g,2.3g,0g,2.3g,0mg,0g,140.8mg,3.1g,19.7mg,0.9mg,0mcg,555.9mg
+Lemon Dill Scrod,McMahon,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,82,1 EACH,0.9g,0.2g,0g,0g,0g,0g,45mg,0g,116.6mg,18g,18.6mg,0.3mg,0mcg,3.4mg
+Stewed Provencal Vegetables,McMahon,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,56,4 OZ,0.9g,10.8g,0.1g,1.7g,0g,4.9g,0mg,0g,180mg,1.5g,40.5mg,1mg,0mcg,217.9mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Mac & Cheese Bar,McMahon,Dinner,,[],2023-02-23,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cheese Pizza,McMahon,Dinner,"Milk, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,259,1 PLATE,12.3g,25.2g,5.6g,1.1g,0g,2.4g,25.7mg,0.5g,485.2mg,13.1g,263.7mg,1.5mg,0mcg,33.6mg
+Chef's Choice Pizza,McMahon,Dinner,"Wheat, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-23,123,1/16 PIZZA,2.8g,20.4g,0.4g,1.2g,0g,1.6g,0mg,0.4g,186mg,3.6g,12.2mg,1.2mg,0mcg,27.8mg
+Chocolate mousse pie,McMahon,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-23,525,1/8 PIE,19.4g,83.6g,17.1g,0g,0g,66.4g,5mg,32.4g,441.6mg,3.2g,98.3mg,1mg,1.3mcg,51.2mg

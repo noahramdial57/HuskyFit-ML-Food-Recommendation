@@ -1,0 +1,1058 @@
+Food Item, Dining Hall, Meal, Allergens, Dietary Restrictions, Date, Calories, Serving Size, Total Fat, Total Carbohydrates, Saturated Fat, Dietary Fiber , Trans Fat, Total Sugars, Cholesterol, Added Sugars, Sodium, Protein, Calcium, Iron, Vitamin D, Potassium
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-19,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Buttermilk Pancakes,South,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-01-19,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-19,80,6 OZL,1.6g,14.4g,0.3g,0g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chocolate Chip Muffins,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,406,1 EACH,18.9g,53.7g,3.3g,0.5g,0g,35.2g,63.5mg,29.9g,228.8mg,4.7g,34.2mg,0.8mg,0.4mcg,81mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-19,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Fiesta Lime Chicken,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,93,1 EACH,2.7g,0.5g,0.6g,0g,0g,0.3g,48.3mg,0g,234.4mg,17.3g,1.3mg,0.4mg,0mcg,28.3mg
+Chef's Choice Soup du Jour,South,Lunch,Soybeans,[],2023-01-19,23,6 OZL,0g,3.4g,0g,0.4g,0g,2g,0mg,0g,310.3mg,0.9g,44.6mg,0mg,0mcg,100.5mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-19,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-19,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-19,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Lunch,Gluten,['Less Sodium'],2023-01-19,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-19,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Grilled Chicken Caprese Grinder,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-01-19,422,1 slice,15.6g,41.4g,6.1g,1g,0g,3.1g,59.6mg,0g,760.4mg,30.3g,277.8mg,3.1mg,0mcg,199.9mg
+Baja Rice,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,156,4 OZ,3.2g,28.6g,0.5g,0.3g,0g,0.6g,0mg,0g,227.3mg,3.1g,30.1mg,1.5mg,0mcg,100.1mg
+Baked Sweet Potato,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,132,1 HALF,1.8g,27.1g,0.1g,4g,0g,5.6g,0mg,0g,74.1mg,2.1g,40.4mg,0.8mg,0mcg,453.8mg
+Black Beans In Sofrito,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,69,3 OZ,0.4g,12.3g,0g,0.2g,0g,1.1g,0mg,0g,90.2mg,3.9g,25.4mg,1.1mg,0mcg,290mg
+Grilled Salmon,South,Lunch,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,162,1 EACH,7.1g,0.1g,1g,0g,0g,0g,45.2mg,0g,86.5mg,22.1g,0.4mg,0mg,0mcg,1.2mg
+Herb Buttered Corn,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-19,106,3 OZ,3.4g,17.2g,2.2g,0.1g,0g,1.1g,9.3mg,0g,114.6mg,1.1g,1.6mg,0.1mg,0mcg,3.2mg
+Sesame Chicken & Vegetables,South,Lunch,"Eggs, Wheat, Soybeans, Gluten, Sesame",[],2023-01-19,244,4 OZ,13.6g,18.3g,1.5g,1.3g,0g,5.9g,26.7mg,5g,741.6mg,13g,26mg,0.9mg,1mcg,210.4mg
+Szechuan Vegetable Stirfry,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,90,4 OZ,1.5g,14.6g,0.1g,1.8g,0g,3.7g,0mg,0g,261.4mg,4.5g,40.6mg,0.5mg,2.8mcg,228.4mg
+Tokyo Noodles,South,Lunch,"Wheat, Soybeans, Sesame","['Vegetarian', 'Vegan']",2023-01-19,394,6 OZ,4.3g,77.6g,0.6g,1.9g,0g,11.8g,0mg,9.5g,613.1mg,15.2g,62.5mg,2.2mg,0mcg,35.6mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Steamed Broccoli,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Cherry White Chocolate Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,180,1 EACH,7g,27g,3.5g,0g,0g,16g,15mg,0g,115mg,2g,26mg,0.7mg,mcg,mg
+Jonathan Bar,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-19,344,1/35 HFPAN,14.6g,48.2g,8.6g,0g,0.4g,27.4g,49.7mg,27.1g,139.6mg,4g,6.9mg,1.3mg,0mcg,30.2mg
+Grilled Lemon Garlic Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,87,1 EACH,2.2g,0.2g,0.5g,0g,0g,0g,48.3mg,0g,145.1mg,17.2g,1mg,0.4mg,0mcg,2.7mg
+Chef's Choice Soup du Jour,South,Dinner,Soybeans,[],2023-01-19,23,6 OZL,0g,3.4g,0g,0.4g,0g,2g,0mg,0g,310.3mg,0.9g,44.6mg,0mg,0mcg,100.5mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-19,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-19,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-19,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-19,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Dinner,Gluten,['Less Sodium'],2023-01-19,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-19,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Halal Cheeseburgers,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-19,365,1 EACH,30g,0g,13.2g,0g,0g,0g,88.8mg,0g,201.8mg,22.5g,263.3mg,0mg,mcg,mg
+BBQ Sauce,South,Dinner,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-01-19,120,2 OZL,0g,28g,0g,0g,0g,26g,0mg,0g,560mg,0g,0mg,0mg,mcg,mg
+Beer Braised Beef Brisket,South,Dinner,Gluten,['Less Sodium'],2023-01-19,328,4 OZ,25.7g,1.2g,10.4g,0.3g,0g,0g,105.4mg,0g,440.2mg,21.2g,24.4mg,2.1mg,0mcg,346mg
+Garlic Fried Rice (Sinangag),South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,129,4 OZ,0.9g,27g,0.1g,0.1g,0g,0.1g,0mg,0g,94.3mg,3g,31.8mg,1.5mg,0mcg,74.4mg
+Onion Roll,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,170,1 EACH,2.5g,33g,0.5g,1g,g,4g,25mg,0g,150mg,6g,24mg,1.8mg,0mcg,mg
+Roasted Cauliflower,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,105,3 OZ,8.6g,6.6g,1.3g,2.5g,0g,2.4g,0mg,0g,189.9mg,2.4g,29.9mg,0.6mg,0mcg,373.8mg
+Texas Roasted Vegetables,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,34,3 OZ,1.4g,5.3g,0.2g,0.8g,0g,2.4g,0mg,0g,49.5mg,1g,12.2mg,0.3mg,0mcg,211.1mg
+Pasta Bar,South,Dinner,,[],2023-01-19,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Pumpkin Spice Sweet Potato Curry,South,Dinner,Coconut,"['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,121,4 OZL,5.5g,16.5g,2g,2.1g,0g,4.7g,0mg,0g,314.7mg,2.4g,37mg,1.1mg,0mcg,369.9mg
+Spicy Garlic Chickpeas,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-19,163,4 OZ,11.4g,13.1g,1.4g,0g,0g,1.8g,0mg,0g,165mg,3.7g,38.5mg,1mg,0mcg,141.1mg
+Coconut Custard Pie,South,Dinner,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2023-01-19,338,1/8 PIE,17.5g,40g,6.3g,0g,0g,18.8g,87.5mg,15g,512.5mg,7.5g,103.8mg,1.3mg,0mcg,156.3mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,South,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-20,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-20,106,8 OZL,2.1g,19.1g,0.4g,0g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Sausage Patties,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,253,2 EACH,24.3g,0g,9.1g,0g,0g,0g,40.5mg,0g,546.8mg,8.1g,0mg,0.4mg,mcg,mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Vegan French Toast,South,Breakfast,"Wheat, Soybeans","['Smart Check', 'Vegetarian', 'Vegan']",2023-01-20,309,2 EACH,8g,48.2g,0.2g,0.1g,0g,9g,0mg,7.2g,542.9mg,11.4g,184.4mg,2.8mg,1.5mcg,219.5mg
+Cranberry Orange Bread,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,260,1/16 LOAF,10g,40.1g,4.5g,0.8g,0g,23.5g,44.9mg,0g,210.6mg,3g,16.1mg,1.1mg,0mcg,50.1mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-20,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Moroccan Vegetable Tagine,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-20,138,6 OZ,5.1g,22g,0.7g,2.9g,0g,9.2g,0mg,2.3g,371mg,2.7g,59.3mg,1mg,0mcg,343.8mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Cross Trax French Fries,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-20,253,4 OZ,18.9g,21g,1.8g,2g,0g,0g,0mg,0g,550.3mg,2g,0mg,0.7mg,0mcg,240.1mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-20,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-20,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2023-01-20,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-20,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Halal Chicken Fajita,South,Lunch,"Milk, Wheat, Soybeans",[],2023-01-20,305,1 EACH,11.9g,21.9g,5.2g,1.1g,0g,4.8g,81mg,1g,582.8mg,27.3g,283.5mg,1.2mg,0mcg,478mg
+Basmati Rice,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Chicken Tikka Masala,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-20,191,4 OZ,11.5g,4.5g,7.2g,0.3g,0g,2.8g,96.3mg,0.9g,245.9mg,14.5g,538.3mg,1mg,0mcg,159.3mg
+Lemon Dill Scrod,South,Lunch,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-20,82,1 EACH,0.9g,0.2g,0g,0g,0g,0g,45mg,0g,116.6mg,18g,18.6mg,0.3mg,0mcg,3.4mg
+Pea and Potato Samosa,South,Lunch,"Wheat, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,275,2 EACH,16.7g,28g,0.6g,2g,0g,0g,0mg,0g,400mg,4g,0mg,1.4mg,0mcg,mg
+Sauteed Spinach With Garlic,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,39,4 OZ,1.1g,5.8g,0.1g,2.6g,0g,0.5g,0mg,0g,139.3mg,3.6g,121.5mg,3.2mg,0mcg,653.4mg
+Fried Pork And Kimchi Dumplings,South,Lunch,"Eggs, Fish, Wheat, Soybeans, Gluten, Sesame",['Less Sodium'],2023-01-20,199,3 EACH,11.9g,17.9g,2.3g,1.5g,0g,1.5g,11.2mg,0.7g,336.5mg,5.2g,29.9mg,0.4mg,0mcg,89.7mg
+Honey Glazed Carrots,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,75,4 OZ,1.1g,16.6g,0.6g,2.8g,0g,12.3g,2.3mg,4.8g,67.9mg,1.2g,31.3mg,0.6mg,0mcg,372mg
+Orange Chicken Stir Fry,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-20,144,6 OZ,3.2g,10.5g,0.3g,1.5g,0g,6.7g,44.2mg,1.3g,151.8mg,19.5g,27.2mg,1.1mg,0mcg,168.1mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Curried Cauliflower,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,59,4 OZ,3.1g,7g,0.5g,2.9g,0g,2.6g,0mg,0g,40.8mg,2.7g,32.2mg,0.6mg,0mcg,410mg
+Chocolate Brownies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,203,1/96 SHEET,8.8g,28.4g,2g,1g,0g,21.3g,14.2mg,19.2g,122.1mg,1.5g,12.4mg,1.7mg,0.1mcg,76.3mg
+Oatmeal Raisin Cookies,South,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,140,1 EACH,4.5g,22g,1.5g,0g,0g,13g,0mg,8g,85mg,2g,9mg,0.7mg,0mcg,82mg
+Moroccan Salmon,South,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-20,204,1 EACH,9.1g,5.7g,1.3g,1.2g,0g,2.4g,45.2mg,0g,311.2mg,23.1g,27mg,0.9mg,0mcg,206.1mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-01-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Cross Trax French Fries,South,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-20,253,4 OZ,18.9g,21g,1.8g,2g,0g,0g,0mg,0g,550.3mg,2g,0mg,0.7mg,0mcg,240.1mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-20,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-20,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-01-20,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-20,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Halal Spaghetti & Meatballs,South,Dinner,"Eggs, Wheat, Soybeans",['Less Sodium'],2023-01-20,396,8 OZ,5.5g,46g,4.4g,2.8g,0g,7.3g,40mg,0g,573.7mg,16.6g,54.2mg,3.3mg,0mcg,0mg
+Brown Chicken Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-01-20,48,2 OZL,3.1g,3.7g,1g,0g,0g,0.4g,0mg,0g,100.6mg,0.5g,2.2mg,0.2mg,0mcg,6.1mg
+Herb Baked Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,579,1 EACH,44g,0g,13.9g,0g,0g,0g,150.7mg,0g,162.3mg,44g,0mg,2.5mg,mcg,24.6mg
+Sauteed Corn & Bacon,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,83,3 OZ,1g,16g,0.4g,0.1g,0g,1g,2.9mg,0g,63.5mg,1.9g,1.4mg,0mg,0mcg,5.3mg
+Sauteed Kale,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,49,3 OZ,1.6g,7.6g,0.2g,3g,0g,2g,0mg,0g,30.7mg,3.5g,122.1mg,1.2mg,0mcg,401.7mg
+Smashed Yukon Gold Potatoes,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,191,4 OZ,11.3g,17.6g,7g,1.8g,0g,2.7g,35.9mg,0g,291mg,2.1g,684.8mg,0.9mg,0mcg,444.5mg
+Bacon,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-20,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Belgian Waffle,South,Dinner,"Milk, Eggs, Wheat, Soybeans",['Vegetarian'],2023-01-20,398,2 EACH,17.4g,52g,7.7g,2g,0g,10g,70.3mg,0g,860.8mg,8g,20mg,2.7mg,0mcg,0mg
+Fried Tater Tots,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-20,303,4 OZ,20.9g,26.3g,2.2g,2.8g,0g,0g,0mg,0g,497.9mg,2.8g,0mg,0.5mg,0mcg,318.1mg
+Pancake & Waffle Syrup,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,210,2 OZL,0g,52g,0g,0g,0g,29g,0mg,0g,95mg,0g,0mg,0mg,0mcg,0mg
+Plant-Based Breakfast Sausage,South,Dinner,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Dinner,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-20,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Farro Risotto,South,Dinner,"Milk, Wheat","['Less Sodium', 'Vegetarian']",2023-01-20,296,4 OZ,6.1g,51.2g,2.1g,0.2g,0g,0.4g,7.6mg,0g,215.1mg,10.7g,24.5mg,3.4mg,0mcg,412.3mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Peach Bread Pudding,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-20,6665,1 HFPAN,201.8g,898.6g,78g,13.8g,0g,604.1g,4441.1mg,431.5g,5848.4mg,288.1g,4488.6mg,48.5mg,72.3mcg,3436.3mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-21,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Chocolate Chip Pancakes,South,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-21,548,2 EACH,24.5g,66.6g,4.6g,0g,0g,24.7g,114.6mg,14.2g,453.1mg,14g,300.6mg,4mg,0.7mcg,250.4mg
+Fried Hash Brown Patties,South,Breakfast,"Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,178,1 EACH,12.6g,15g,0.9g,2g,0g,0g,0mg,0g,240mg,1g,0mg,0mg,0mcg,150mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-21,80,6 OZL,1.6g,14.4g,0.3g,0g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-01-21,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Oatmeal Hot Cereal,South,Lunch,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-21,80,6 OZL,1.6g,14.4g,0.3g,0g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Chefs Omelet Du Jour,South,Lunch,"Milk, Eggs, Soybeans",[],2023-01-21,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Egg Whites For Omelets,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,62,4 OZL,0g,0g,0g,0g,0g,0g,0mg,0g,184.9mg,12.3g,7.4mg,0mg,0mcg,184.9mg
+Fried Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Halal Rotisserie Chicken,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-21,464,1 PORT,35.3g,0g,11.1g,0g,0g,0g,120.7mg,0g,476.8mg,35.3g,0.4mg,0.7mg,0mcg,1.6mg
+Olive Oil Crushed Potato,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,112,3 OZ,6g,15.2g,0.8g,1.8g,0g,1.8g,0mg,0g,56.3mg,2.3g,14.6mg,0.7mg,0mcg,420.9mg
+Bacon,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-21,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Cheesy Scrambled Eggs,South,Lunch,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Fried Hash Brown Patties,South,Lunch,"Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,178,1 EACH,12.6g,15g,0.9g,2g,0g,0g,0mg,0g,240mg,1g,0mg,0mg,0mcg,150mg
+Hard Boiled Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Plant-Based Breakfast Sausage,South,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Banana Stuffed French Toast,South,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-21,257,1/28 EA,7.9g,37.6g,3.6g,0.3g,0g,17.7g,116.4mg,9g,284.2mg,8.3g,114.2mg,1.6mg,1.2mcg,101.4mg
+Chocolate Chip Pancakes,South,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-21,548,2 EACH,24.5g,66.6g,4.6g,0g,0g,24.7g,114.6mg,14.2g,453.1mg,14g,300.6mg,4mg,0.7mcg,250.4mg
+Chicken Caprese Pasta,South,Lunch,"Milk, Wheat, Soybeans",['Less Sodium'],2023-01-21,272,6 OZ,10.4g,23.4g,3.3g,1g,0g,2.2g,44.6mg,0g,398mg,20.8g,137.5mg,1.5mg,0mcg,120.9mg
+Ham & Cheese Quiche,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-01-21,308,1/8 PIE,22.4g,1.4g,12.9g,0g,0g,5.2g,165mg,0g,490.1mg,14.8g,1858.4mg,0.7mg,0.5mcg,33mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Blueberry Muffin,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,277,1 EACH,12.4g,36.9g,1.3g,0.7g,0g,23.4g,47.6mg,22.5g,171.6mg,3g,25.1mg,0.5mg,0.3mcg,46.1mg
+Double Chocolate Chip Cookie,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,170,1 EACH,8g,23g,4.5g,0g,0g,15g,10mg,0g,140mg,2g,10mg,0.7mg,mcg,105mg
+Chicken & Vegetable Stir Fry,South,Dinner,"Wheat, Soybeans, Gluten, Sesame","['Less Sodium', 'Smart Check']",2023-01-21,184,6 OZ,5.8g,13.1g,1.1g,1.1g,0g,9.2g,82.2mg,5.9g,343.9mg,19g,34.2mg,1.2mg,0mcg,218.2mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-01-21,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-21,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-21,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-21,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-01-21,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-21,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Wedge Fries w/ Skin,South,Dinner,"Wheat, Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,293,4 OZ,19.1g,27.6g,2.1g,2.6g,0g,1.3g,0mg,0g,381mg,2.6g,0mg,0.9mg,mcg,433.5mg
+Cart Style Chicken,South,Dinner,"Milk, Wheat, Soybeans, Sesame",[],2023-01-21,433,8 OZ,20.3g,37.6g,3.8g,0.5g,0g,4g,71.7mg,1.5g,798.1mg,24.9g,71.4mg,0.8mg,0.2mcg,409.1mg
+Chicken Parmesan,South,Dinner,"Milk, Wheat",[],2023-01-21,337,1 EACH,18.9g,20.9g,4.1g,2g,0g,5.5g,56.4mg,0g,957.9mg,23.1g,141.8mg,1.5mg,0mcg,mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Pesto Garlic Bread,South,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-21,207,1 SLICE,7.2g,28.9g,1.8g,0.9g,0g,0.2g,1.1mg,0g,308.6mg,5.9g,17.1mg,2mg,0mcg,56.1mg
+Protein Packed Caprese Cutlet,South,Dinner,"Milk, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-21,236,1 EACH,12.3g,21g,3.2g,0.2g,0g,2.4g,8.8mg,1g,414.8mg,12.1g,102.1mg,1.5mg,0mcg,243.6mg
+Summer Squash,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,14,3 OZ,0.2g,2.8g,0g,0g,0g,1.9g,0mg,0g,1.7mg,1g,12.8mg,0.3mg,0mcg,222.8mg
+Chefs Choice Vegetable Stir Fry,South,Dinner,,[],2023-01-21,101,6 OZ,4g,12.2g,0.3g,2.9g,0g,6.3g,0mg,0g,39mg,2.6g,48.4mg,0mg,0mcg,4.1mg
+Mini Vegetable Egg Rolls,South,Dinner,"Eggs, Wheat, Soybeans, Sesame",['Vegetarian'],2023-01-21,150,4 EACH,5.4g,21.4g,1.1g,0g,0g,2.1g,5.4mg,1.1g,588.8mg,4.3g,27.8mg,1.5mg,0mcg,128.5mg
+White Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Braised Beef Ragout,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-21,77,4 OZ,2.3g,4.9g,0.7g,0.6g,0g,2g,26.4mg,0.6g,160.8mg,9.8g,13.1mg,1.1mg,0.1mcg,258.8mg
+Country Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-01-21,51,2 OZL,3.2g,4g,1g,0g,0g,0.5g,0mg,0g,209.9mg,0.6g,3.2mg,0.2mg,0mcg,7.1mg
+Mashed Ranch Potatoes,South,Dinner,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-21,132,4 OZ,5.5g,16.9g,3.3g,0g,0g,2.5g,15.4mg,0g,79.8mg,3.1g,97mg,0.3mg,1mcg,238.1mg
+Fruit of the Forest Pie,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-21,475,1/8 PIE,27.5g,55g,11.3g,2.5g,0g,22.5g,0mg,0g,412.5mg,3.8g,50mg,1.8mg,0mcg,mg
+Blueberry Pancakes,South,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-01-22,498,2 EACH,20.7g,61g,2.3g,1.2g,0g,19.2g,114.6mg,14.2g,453.1mg,13.1g,304.6mg,3.7mg,0.7mcg,227.1mg
+Breakfast Ham,South,Breakfast,,['Gluten Friendly'],2023-01-22,71,2 OZ,2.5g,3g,1g,0g,g,3g,30.4mg,0g,759.4mg,9.1g,0mg,0.4mg,mcg,mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Lyonnaise Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,118,4 OZ,2.7g,20.6g,0.9g,0g,0g,0.4g,19.7mg,0g,213.4mg,1.9g,2.7mg,0.3mg,0mcg,301.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-22,80,6 OZL,1.6g,14.4g,0.3g,0g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-01-22,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Oatmeal Hot Cereal,South,Lunch,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-22,80,6 OZL,1.6g,14.4g,0.3g,0g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Egg Sandwich Bar,South,Lunch,,[],2023-01-22,0,1 EACH,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Brown Rice & Butternut,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,88,3 oz,4.1g,12.3g,0.5g,1.7g,0g,1.6g,0mg,0g,83.5mg,1.2g,19.4mg,0.5mg,0mcg,147.8mg
+Sauteed Steak Tips,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-22,210,4 OZ,8.3g,2g,2.5g,0.4g,0g,0.7g,65.2mg,0g,264.8mg,29.9g,13.6mg,2.7mg,0mcg,449.9mg
+Breakfast Ham,South,Lunch,,['Gluten Friendly'],2023-01-22,71,2 OZ,2.5g,3g,1g,0g,g,3g,30.4mg,0g,759.4mg,9.1g,0mg,0.4mg,mcg,mg
+Cheesy Scrambled Eggs,South,Lunch,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Lyonnaise Potatoes,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,118,4 OZ,2.7g,20.6g,0.9g,0g,0g,0.4g,19.7mg,0g,213.4mg,1.9g,2.7mg,0.3mg,0mcg,301.1mg
+Plant-Based Breakfast Sausage,South,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Bagel Bar,South,Lunch,,[],2023-01-22,0,1 EACH,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Blueberry Pancakes,South,Lunch,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-01-22,498,2 EACH,20.7g,61g,2.3g,1.2g,0g,19.2g,114.6mg,14.2g,453.1mg,13.1g,304.6mg,3.7mg,0.7mcg,227.1mg
+Blueberry Stuffed French Toast,South,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-22,280,1/28 PAN,13g,30.1g,6.8g,1.3g,0g,8.8g,158.4mg,1g,330.2mg,10.5g,132.6mg,2mg,1.5mcg,106.7mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Penne & Sausage Abruzzi,South,Lunch,"Milk, Wheat","['Less Sodium', 'Smart Check']",2023-01-22,289,6 OZ,7.9g,40.2g,2g,2.8g,1.2g,8.2g,19mg,0g,523.2mg,11.8g,74.9mg,2.6mg,0mcg,14.8mg
+Assorted  Scones 1.8 oz.,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,224,1 EACH,10g,30.7g,5g,0.5g,0g,16.7g,5mg,0g,160mg,2.5g,0mg,0mg,0mcg,0mg
+S'mores Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-01-22,190,1 EACH,9g,25g,4.5g,0g,0g,13g,10mg,13g,200.2mg,1g,10.1mg,1.3mg,0mcg,30mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-01-22,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+California Veggie Burger w/ Bun,South,Dinner,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2023-01-22,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-22,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-22,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-01-22,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Fries,South,Dinner,"Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,335,4 OZ,23.4g,31g,2.4g,1.2g,0g,1.2g,0mg,1.2g,235.4mg,1.2g,0mg,0.4mg,0mcg,322.1mg
+Chili Con Carne,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-22,170,6 OZL,9.4g,10g,3.6g,0.6g,0g,2.8g,28.2mg,0.6g,270.7mg,9.7g,47.2mg,1mg,0mcg,151.8mg
+Cornbread,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,186,1/35 HFSHT,7.3g,25.9g,0.7g,0g,0g,10.5g,23.6mg,9.7g,266.4mg,3.7g,82mg,1.1mg,0.1mcg,51.9mg
+Baked Sesame Nuggets,South,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,222,4 OZ,9.9g,24.7g,0g,4.9g,0g,0g,0mg,0g,369.8mg,14.8g,98.6mg,3.6mg,0mcg,mg
+Biscuits N' Honey,South,Dinner,"Milk, Wheat",['Vegetarian'],2023-01-22,301,1 EACH,13.7g,39.1g,8.4g,1g,0g,6g,10.1mg,2g,810.4mg,6g,20mg,1.8mg,0mcg,1.2mg
+Country Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-01-22,51,2 OZL,3.2g,4g,1g,0g,0g,0.5g,0mg,0g,209.9mg,0.6g,3.2mg,0.2mg,0mcg,7.1mg
+Fried Chicken,South,Dinner,"Eggs, Wheat, Soybeans",['Less Sodium'],2023-01-22,289,1 EACH,17.3g,9.6g,4.8g,0g,0g,0g,86.7mg,0g,366.1mg,27g,21.2mg,1.9mg,0mcg,368.1mg
+Roasted Butternut Squash,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,81,3 OZ,2.8g,14.8g,0.9g,2.8g,0g,7.4g,0mg,5.7g,96.1mg,0.8g,35.7mg,0.5mg,0mcg,245.6mg
+Whipped Golden Potatoes w/ Roasted Garlic and Rosemary,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-22,117,3 OZ,5.1g,15.8g,3.1g,1.6g,0g,1.5g,13.2mg,0g,210.5mg,2.2g,30.6mg,0.8mg,0.3mcg,384.7mg
+Brown Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,96,3 OZ,0.8g,20.3g,0g,1.1g,0g,0g,0mg,0g,2.4mg,2.3g,1.8mg,0.2mg,0mcg,0mg
+Chicken Lo Mein with Pea Pods,South,Dinner,"Wheat, Soybeans, Sesame",[],2023-01-22,299,6 OZ,7.7g,38.5g,1.1g,1.7g,0g,9.6g,53.4mg,7.5g,812.7mg,18.1g,49mg,2.1mg,0mcg,99.9mg
+Summer Garden Stir Fry,South,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,48,3 OZ,2.2g,6.5g,0.3g,1.1g,0g,2.9g,0mg,0g,63.1mg,1.2g,19.9mg,0.4mg,0mcg,202.1mg
+Sweet and Sour Pork,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-22,161,4 OZ,7.1g,7.4g,2g,0.2g,0g,6.8g,55.2mg,4.3g,96.7mg,16.3g,0.9mg,1.1mg,0mcg,28.4mg
+Grilled Swordfish with Citrus Butter,South,Dinner,"Milk, Fish, Soybeans","['Gluten Friendly', 'Less Sodium']",2023-01-22,237,4 OZ,15.2g,1g,4.9g,0.1g,0g,0.2g,87.2mg,0g,310.1mg,22.6g,19.2mg,0.7mg,23.8mcg,484mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Mexican Fiesta Rice,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegan', 'Vegetarian']",2023-01-22,132,4 OZ,1.7g,26.4g,0.3g,0g,0g,1.8g,0mg,0g,404.3mg,3.1g,34.2mg,0.9mg,0mcg,392.6mg
+Seared Broccoli,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-22,35,4 OZL,2.1g,3.2g,0.2g,1.3g,0g,0.9g,0mg,0g,464.5mg,1.7g,28.9mg,0.5mg,0mcg,188.3mg
+Confetti Cake,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-22,203,1/35 HFSHT,8.7g,30g,3.4g,0g,0g,17.1g,0mg,16.8g,250.2mg,1.4g,14.8mg,0.6mg,0mcg,28.4mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-23,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Baked Country Style Hash Browns,South,Breakfast,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,141,4 OZ,4.2g,23.4g,0.3g,2.9g,0g,0g,0mg,0g,185.7mg,1.5g,0.7mg,0.5mg,0mcg,351mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+French Toast,South,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-23,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-23,80,6 OZL,1.6g,14.4g,0.3g,0g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Banana Bread,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,200,1/16 LOAF,5.2g,34.3g,3g,0.5g,0g,16.8g,36.3mg,14.2g,450mg,3.9g,38.5mg,1.2mg,0.1mcg,109.2mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-23,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Tamarind Glazed Salmon,South,Lunch,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-23,171,1 EACH,7g,2.8g,1g,0g,0g,2.8g,45.2mg,2.5g,76mg,22.1g,0.5mg,0mg,0mcg,0mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-01-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Lunch,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-01-23,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-23,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Curly Fries,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-23,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-23,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-23,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2023-01-23,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Halal Chicken Caesar Wrap,South,Lunch,"Milk, Fish, Wheat, Soybeans",[],2023-01-23,542,1 EACH,22.7g,51.3g,6.4g,0.8g,0g,1.5g,67.8mg,0g,919.6mg,31g,253mg,3.4mg,0mcg,575.5mg
+Cheddar Mashed Potatoes,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,166,4 OZ,8.1g,16.3g,5.2g,0g,0g,2.2g,25.2mg,0g,322.2mg,5.4g,157.5mg,0.3mg,0.9mcg,233.1mg
+Country Gravy,South,Lunch,"Wheat, Soybeans",['Less Sodium'],2023-01-23,51,2 OZL,3.2g,4g,1g,0g,0g,0.5g,0mg,0g,209.9mg,0.6g,3.2mg,0.2mg,0mcg,7.1mg
+Herb Buttered Corn,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,106,3 OZ,3.4g,17.2g,2.2g,0.1g,0g,1.1g,9.3mg,0g,114.6mg,1.1g,1.6mg,0.1mg,0mcg,3.2mg
+Roasted Green Beans,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,33,3 OZ,0.5g,6.9g,0.1g,2.8g,0g,3.2g,0mg,0g,14.5mg,1.7g,38.5mg,0.6mg,0mcg,127.6mg
+Zesty Fried Chicken Tenders,South,Lunch,"Wheat, Gluten",[],2023-01-23,682,4 EACH,48.9g,34.7g,5.7g,0g,0g,0g,51mg,0g,1204.3mg,32.7g,53.1mg,0.7mg,mcg,mg
+Beef and Broccoli Stir Fry,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium']",2023-01-23,214,6 OZ,9.9g,7.9g,2.9g,1.7g,0g,4.5g,58.3mg,0g,422.4mg,22.9g,36.4mg,2.7mg,0mcg,496.2mg
+Char Siu Pork Loin,South,Lunch,"Wheat, Soybeans, Sesame",['Less Sodium'],2023-01-23,203,1 EACH,10.2g,2.5g,3.6g,0g,0g,2g,76.2mg,2g,187.3mg,23.4g,0mg,1.1mg,0mcg,0mg
+Edamame Dumpling,South,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,145,3 EACH,5.5g,18g,0g,0g,0g,1.5g,0mg,0.8g,195mg,4.5g,27mg,0.8mg,mcg,52.5mg
+Seared Tofu With Vegetables,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,101,4 OZ,3.5g,10.7g,0.3g,1g,0g,1.4g,0mg,0g,592.1mg,6.1g,63.1mg,0.9mg,2mcg,148.4mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Buttered Egg Noodles,South,Lunch,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-01-23,203,4 OZ,4g,34.6g,1.8g,1.7g,0g,1.7g,60.1mg,0g,36.7mg,6.9g,17.5mg,1.6mg,0mcg,1mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Swedish Vegeballs,South,Lunch,"Wheat, Soybeans","['Vegetarian', 'Vegan']",2023-01-23,300,3 EACH,16.5g,23.6g,1.3g,0.3g,0.1g,3.3g,0mg,1g,1326mg,14.4g,99.5mg,2mg,0mcg,263.7mg
+Chocolate Chip Cookie,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,170,1 EACH,8g,23g,4g,1g,0g,15g,10mg,0g,130mg,2g,0mg,2mg,mcg,70mg
+Lemon Bars,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-23,238,1/35 HFSHT,6.2g,40.5g,2.6g,0g,0g,28.7g,41.8mg,0g,142.9mg,1.7g,0.5mg,0.6mg,0mcg,33.4mg
+Lite 'n Crunchy Baked Fish,South,Dinner,"Eggs, Fish, Wheat, Soybeans","['Less Sodium', 'Smart Check']",2023-01-23,130,1 EACH,4g,13g,0g,0g,0g,1g,50mg,0g,380.2mg,11g,0mg,0.7mg,mcg,mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-01-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Dinner,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-01-23,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-23,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Curly Fries,South,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-23,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-23,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-01-23,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Bruschetta Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-23,157,4 OZ,5.6g,0.8g,0.9g,0.1g,0g,0.4g,81mg,0g,163.4mg,25.5g,9.8mg,0.1mg,0mcg,419.9mg
+Linguini w/ Spinach & Shrooms,South,Dinner,Wheat,"['Vegetarian', 'Vegan']",2023-01-23,159,4 OZ,3.9g,25.2g,0.5g,1.9g,0g,1.4g,0mg,0g,538.7mg,5g,32.6mg,2mg,0mcg,167.8mg
+Baked Sweet Potato,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,132,1 HALF,1.8g,27.1g,0.1g,4g,0g,5.6g,0mg,0g,74.1mg,2.1g,40.4mg,0.8mg,0mcg,453.8mg
+Couscous with Garlic,South,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,86,3 OZ,0.2g,16.6g,0g,0g,0g,0g,1.8mg,0g,285.7mg,2.6g,6.8mg,0.9mg,0.1mcg,43.4mg
+Kashmiri Style Chicken,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-23,89,1 EACH,2.2g,0.4g,0.6g,0.1g,0g,0.2g,48.5mg,0g,154.2mg,17.4g,7.6mg,0.5mg,0.1mcg,10.9mg
+Peas with Lemon Butter and Mint,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-23,110,4 OZ,2.9g,15.4g,1.4g,5.1g,0g,7.7g,6.1mg,0g,172mg,6.4g,0.6mg,0.9mg,0mcg,2mg
+Roasted Cauliflower,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,105,3 OZ,8.6g,6.6g,1.3g,2.5g,0g,2.4g,0mg,0g,189.9mg,2.4g,29.9mg,0.6mg,0mcg,373.8mg
+Bacon,South,Dinner,,['Gluten Friendly'],2023-01-23,243,2 OZ,18.2g,0g,8.1g,0g,0g,0g,101.3mg,0g,1296mg,20.3g,0mg,0mg,0mcg,310.1mg
+Baked Sesame Nuggets,South,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,222,4 OZ,9.9g,24.7g,0g,4.9g,0g,0g,0mg,0g,369.8mg,14.8g,98.6mg,3.6mg,0mcg,mg
+Broccoli Cuts,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,16,2 OZ,0g,2.6g,0g,1.3g,0g,0.7g,0mg,0g,13mg,1.3g,13mg,0.2mg,mcg,mg
+Macaroni & Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-23,325,6 OZ,18.4g,25.4g,10g,0.8g,0g,4.9g,42.4mg,0g,505.2mg,14.3g,367.7mg,1mg,1.6mcg,80.5mg
+Roasted Chicken,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-23,81,2 OZ,1.7g,0.7g,0.3g,0g,0g,0g,40.5mg,0g,216mg,14.9g,17.6mg,0.5mg,mcg,mg
+Battered Zucchini Sticks,South,Dinner,"Milk, Wheat, Soybeans, Gluten","['Less Sodium', 'Vegetarian']",2023-01-23,198,6 EACH,10.2g,24.5g,0.7g,2.5g,0g,4.9g,0mg,0g,441.8mg,2.5g,0mg,0.9mg,0mcg,mg
+Fried Tempeh,South,Dinner,"Soybeans, Gluten","['Gluten Friendly', 'Vegan', 'Vegetarian']",2023-01-23,200,3 OZ,11.8g,9.7g,1.5g,0g,0g,0g,0mg,0g,387.7mg,15.6g,75.8mg,1.8mg,mcg,272.2mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Apple Pie,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-23,495,1/8 PIE,28.5g,58.5g,12g,3g,0g,28.5g,0mg,0g,465mg,3g,0mg,1.6mg,0mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oat Milk Pancakes,South,Breakfast,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,264,2 EACH,3.1g,52g,0.3g,0g,0g,13.6g,0mg,12.4g,572.5mg,6.5g,341.4mg,2.7mg,1mcg,155.3mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-24,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Pork Sausage Links,South,Breakfast,,['Gluten Friendly'],2023-01-24,202,2 EACH,19.2g,0g,7.1g,0g,0g,0g,35.3mg,0g,433.4mg,6g,26.2mg,0.4mg,mcg,mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Pina Colada Muffin,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,341,1 EACH,16.4g,44.2g,3.5g,0.8g,0g,28.4g,55.8mg,23.2g,212.8mg,3.6g,28.5mg,0.5mg,0.3mcg,55.2mg
+Baked Scrod w/  Shrimp Scampi Butter,South,Breakfast,"Milk, Fish, Crustacean Shellfish","['Gluten Friendly', 'Less Sodium']",2023-01-24,123,1 EACH,3.4g,0.3g,1.6g,0.1g,0g,0g,81mg,0g,297mg,22.3g,33.2mg,0.4mg,0mcg,35mg
+Mixed Vegetables,South,Breakfast,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,67,3 OZ,0g,13.3g,0g,3.3g,0g,4.4g,0mg,0g,94.5mg,3.3g,22.2mg,0.8mg,0mcg,mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-24,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-24,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-01-24,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-24,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-24,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chorizo Sausage,South,Lunch,,['Gluten Friendly'],2023-01-24,299,1 EACH,26.9g,2g,11g,0g,0g,1g,74.7mg,0g,766.7mg,11g,0mg,1.1mg,mcg,mg
+Malibu Burgers,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,170,1 EA,9g,21g,1g,4g,0g,2g,0mg,0g,440mg,4g,20mg,0.7mg,0mcg,280mg
+Shoestring Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-24,226,4 OZ,17.2g,24g,1.8g,2g,0g,0g,0mg,0g,370.2mg,2g,0mg,0.4mg,mcg,260.2mg
+Onion Rings,South,Lunch,"Eggs, Wheat, Soybeans, Gluten",['Vegetarian'],2023-01-24,488,4 OZ,30.9g,47.3g,5.3g,0g,0g,0g,0mg,0g,721mg,7.5g,0mg,0mg,0mcg,mg
+Sweet & Smoky Steak for Sandwich,South,Lunch,,['Gluten Friendly'],2023-01-24,239,4 OZ,8.1g,3.6g,2.8g,0.2g,0g,3g,78.2mg,0.4g,389mg,35.2g,9mg,3mg,0mcg,471mg
+Baked Scrod w/  Shrimp Scampi Butter,South,Lunch,"Milk, Fish, Crustacean Shellfish","['Gluten Friendly', 'Less Sodium']",2023-01-24,123,1 EACH,3.4g,0.3g,1.6g,0.1g,0g,0g,81mg,0g,297mg,22.3g,33.2mg,0.4mg,0mcg,35mg
+Chicken Florentine,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-24,122,1 EACH,4.3g,2.1g,2.1g,0.2g,0g,1g,56.3mg,0g,229mg,18.2g,169.7mg,0.5mg,0.4mcg,6.1mg
+Harissa Roasted Vegetables,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,126,5 OZ,8.6g,12.2g,1.2g,2.9g,0g,4.7g,0mg,0g,210.6mg,2g,31.6mg,1.2mg,0mcg,338.8mg
+Mixed Vegetables,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,67,3 OZ,0g,13.3g,0g,3.3g,0g,4.4g,0mg,0g,94.5mg,3.3g,22.2mg,0.8mg,0mcg,mg
+Wild Mushroom Risotto,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,139,4 OZ,3.3g,23.1g,2.1g,1g,0g,0.4g,9mg,0g,282.5mg,3.2g,41mg,0.3mg,0mcg,68.8mg
+Taco Bar,South,Lunch,,[],2023-01-24,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Fried Sweet Potato Tots,South,Lunch,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,272,4 OZ,15.9g,31.1g,0.8g,2.7g,0g,10.8g,0mg,0g,270mg,1.4g,27mg,0.5mg,0mcg,229.5mg
+Garlic Bread,South,Lunch,"Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,121,1 SLICE,5.3g,14.9g,1.6g,0.4g,0g,0.1g,0mg,0g,158mg,2.9g,4.7mg,1mg,0mcg,33.3mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+M & M Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,160,1 EACH,7g,24g,3.5g,1g,0g,15g,10mg,0g,140mg,2g,0mg,0.7mg,0mcg,35mg
+Snickerdoodle Cookies,South,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,171,1 EACH,7.2g,25.4g,4.1g,0.1g,0g,14.9g,15.4mg,1.6g,143.8mg,2.1g,4mg,0.8mg,0mcg,36.9mg
+Huli Huli Chicken,South,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check']",2023-01-24,259,1 EACH,7.4g,7.2g,1.6g,0g,0g,6.3g,170.9mg,0g,580.2mg,36.6g,36.6mg,2.1mg,0mcg,21.4mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-01-24,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-24,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-24,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-24,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Chorizo Sausage,South,Dinner,,['Gluten Friendly'],2023-01-24,299,1 EACH,26.9g,2g,11g,0g,0g,1g,74.7mg,0g,766.7mg,11g,0mg,1.1mg,mcg,mg
+Malibu Burgers,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,170,1 EA,9g,21g,1g,4g,0g,2g,0mg,0g,440mg,4g,20mg,0.7mg,0mcg,280mg
+Shoestring Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-24,226,4 OZ,17.2g,24g,1.8g,2g,0g,0g,0mg,0g,370.2mg,2g,0mg,0.4mg,mcg,260.2mg
+Couscous,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,173,4 OZ,2.2g,30g,0.6g,0.1g,0g,0.4g,3.4mg,0g,177.5mg,4.9g,10.6mg,1.8mg,0.1mcg,99mg
+Kofta Curry,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-24,310,2 EACH,20.9g,12.1g,9.6g,0.7g,0.6g,10.2g,75.5mg,4.3g,460.9mg,15.3g,550.3mg,2mg,0mcg,385.4mg
+Honey Lime Sweet Potato,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-24,127,4 OZ,2.3g,25.6g,0.7g,3.3g,0g,8.1g,0mg,3.6g,133.8mg,1.7g,34.3mg,0.7mg,0mcg,367.7mg
+Korean Pork Loin,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-01-24,225,4 OZ,11.7g,0.5g,4.1g,0.1g,0g,0.4g,87.9mg,0.2g,108.4mg,27g,1.3mg,1.3mg,0mcg,10.7mg
+Korean Sweet Black Beans,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian']",2023-01-24,108,3 OZ,1.8g,18.8g,0.2g,0.1g,0g,8.4g,0mg,7.1g,822.7mg,5.3g,23.2mg,1.5mg,0mcg,251.8mg
+Sauteed Kale,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,66,3 OZ,2g,10.5g,0.2g,4.2g,0g,2.8g,0mg,0g,43.3mg,4.9g,171.6mg,1.7mg,0mcg,565.1mg
+Sesame Cilantro Rice,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,183,4 OZ,3.7g,33.7g,0.9g,0.1g,0g,0g,0mg,0g,45mg,2.9g,4.1mg,0.1mg,0mcg,6.4mg
+Pepper Steak Stir Fry,South,Dinner,Soybeans,['Gluten Friendly'],2023-01-24,162,6 OZ,6.8g,6.9g,2.2g,1.4g,0g,3.6g,45.4mg,0g,536.6mg,17.9g,13.4mg,2.1mg,0mcg,446.3mg
+Sesame Vegetables,South,Dinner,Sesame,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,50,3 OZ,1.7g,7.3g,0.1g,2.2g,0g,4.4g,0mg,0g,117.2mg,2g,29.1mg,1mg,0mcg,232.9mg
+Spring Vegetable Lo Mein,South,Dinner,"Wheat, Soybeans, Sesame","['Vegetarian', 'Vegan']",2023-01-24,274,6 OZ,5.9g,47.4g,0.6g,2.2g,0g,9.1g,0mg,5.5g,630.1mg,9g,44.9mg,1.7mg,0mcg,158mg
+White Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Cauliflower w/ Pumpkin Seeds,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-24,57,3 OZ,2.2g,7.7g,0.4g,3.4g,0g,2.4g,0mg,0g,138.5mg,3.9g,30.2mg,0.6mg,0mcg,395.5mg
+Midnight Choc Cake w/ Chocolate Frosting,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-24,308,1/35 HFSHT,15.2g,37.9g,8.8g,1g,0.2g,25.6g,15.9mg,0g,329.6mg,2.7g,17.1mg,1.6mg,0mcg,81.6mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+French Toast Stix,South,Breakfast,"Wheat, Soybeans, Gluten",['Vegetarian'],2023-01-25,540,5 EACH,34.3g,54.7g,2.9g,1.3g,0g,12.7g,0mg,12.7g,572.3mg,6.4g,25.4mg,3.2mg,0mcg,63.6mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Lyonnaise Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,118,4 OZ,2.7g,20.6g,0.9g,0g,0g,0.4g,19.7mg,0g,213.4mg,1.9g,2.7mg,0.3mg,0mcg,301.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-01-25,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Turkey Sausage Links,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-01-25,153,2 EACH,12g,0g,3.8g,0g,0g,0g,65.7mg,0g,470.7mg,10.9g,0mg,0.8mg,0mcg,mg
+Blueberry Coffee Cake,South,Breakfast,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,248,1/35 HFSHT,7.1g,42g,2.2g,0.6g,0g,20.3g,0mg,19.6g,175.4mg,3.2g,19.2mg,0.9mg,0mcg,40.6mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-01-25,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Grilled Lemon Garlic Chicken,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-25,87,1 EACH,2.2g,0.2g,0.5g,0g,0g,0g,48.3mg,0g,145.1mg,17.2g,1mg,0.4mg,0mcg,2.7mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-01-25,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-01-25,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+California Veggie Burger w/ Bun,South,Lunch,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2023-01-25,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Crinkle Cut Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-25,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-25,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-25,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Kielbasa Dogs,South,Lunch,Milk,['Gluten Friendly'],2023-01-25,232,1 EACH,20.2g,3g,8.1g,0g,0g,1g,40.3mg,1g,715.7mg,10.1g,40.3mg,1mg,0mcg,231.8mg
+Chicken & Tabouleh Wrap,South,Lunch,"Wheat, Soybeans, Sesame",[],2023-01-25,343,1/2 EACH,15.2g,34.9g,2.4g,1.2g,0g,1.9g,28.1mg,0g,573.7mg,17.3g,80.6mg,2.5mg,0mcg,188.3mg
+BBQ Sauce,South,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-01-25,120,2 OZL,0g,28g,0g,0g,0g,26g,0mg,0g,560mg,0g,0mg,0mg,mcg,mg
+Baked Beans,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,138,4 OZ,0g,27.8g,0g,0.8g,0g,12.3g,0mg,9.4g,365.4mg,8g,43.3mg,1.6mg,0mcg,319.7mg
+Macaroni & Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-25,325,6 OZ,18.4g,25.4g,10g,0.8g,0g,4.9g,42.4mg,0g,505.2mg,14.3g,367.7mg,1mg,1.6mcg,80.5mg
+Pulled Pork,South,Lunch,,['Gluten Friendly'],2023-01-25,406,4 OZ,29.5g,8.5g,10.3g,0.3g,0g,7.3g,102.6mg,1.5g,528.4mg,28g,3.2mg,1.8mg,0mcg,19.2mg
+Steamed Broccoli,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Sauteed Baby Bok Choy,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,39,4 OZ,1.7g,4.8g,0.2g,2g,0g,2.6g,0mg,0.5g,172.7mg,2.2g,150.5mg,1.2mg,0mcg,1.5mg
+Singapore Street Noodles with Shrimp,South,Lunch,"Fish, Crustacean Shellfish, Soybeans",['Gluten Friendly'],2023-01-25,224,6 OZ,8.3g,30.7g,0.6g,1g,0g,4.3g,20.3mg,0g,652.2mg,6.8g,36.7mg,0.8mg,0mcg,142.2mg
+Teriyaki Pork Stir fry,South,Lunch,"Wheat, Soybeans, Gluten, Sesame",['Less Sodium'],2023-01-25,122,4 OZ,5.4g,5.7g,1.5g,1g,0g,3.3g,38mg,1g,167.7mg,12.2g,13mg,1mg,0mcg,113.4mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Chickpea & Kale Stew,South,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,109,6 OZ,2.9g,18.3g,1.4g,3.1g,0g,4.2g,0mg,0g,258.2mg,4.2g,93.9mg,1.3mg,0mcg,450.3mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Tempura Battered Pickle Chips,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-25,261,3 OZ,18.9g,22.4g,2.3g,0g,0g,2.1g,0mg,1.1g,885.9mg,3.2g,47mg,1.5mg,0mcg,65.1mg
+Chocolate Streusel Brownies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-01-25,227,1/96 SHEET,10.1g,31.5g,2.9g,1.1g,0g,23.2g,18.5mg,18.5g,151.9mg,1.9g,13.9mg,1.9mg,0.1mcg,89.9mg
+Ranger Cookies,South,Lunch,"Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,180,1 EACH,9g,24g,5g,0g,0g,10g,0mg,0g,125mg,2g,26mg,0.4mg,mcg,0mg
+Hoisin Glazed Salmon,South,Dinner,"Fish, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-01-25,168,1 EACH,7.4g,0.9g,1g,0.1g,0g,0.6g,45.2mg,0.5g,132.8mg,22.3g,1.9mg,0.1mg,0mcg,1.2mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-01-25,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-01-25,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+California Veggie Burger w/ Bun,South,Dinner,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2023-01-25,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Crinkle Cut Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-01-25,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-01-25,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-01-25,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Kielbasa Dogs,South,Dinner,Milk,['Gluten Friendly'],2023-01-25,232,1 EACH,20.2g,3g,8.1g,0g,0g,1g,40.3mg,1g,715.7mg,10.1g,40.3mg,1mg,0mcg,231.8mg
+Basmati Rice,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Halal Indian Butter Chicken,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-25,262,6 OZL,15.3g,6.9g,8.5g,1.2g,0g,3.5g,101.1mg,0g,262.1mg,20.5g,650mg,0.9mg,0mcg,452.1mg
+Balsamic Glazed Carrots & Kale,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,80,4 OZ,3.5g,11.2g,0.5g,2g,0g,4.9g,0mg,1g,150.4mg,3.1g,102.9mg,1.1mg,0mcg,451.3mg
+Chicken Rustica,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-01-25,144,1 EACH,6.1g,4.5g,1.2g,0.6g,0g,3.1g,50mg,0g,411.4mg,18.4g,30.4mg,0.9mg,0mcg,8.2mg
+Peas With Feta,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,63,3 OZL,0.6g,9.6g,0.3g,3.2g,0g,0g,1.2mg,0g,20.1mg,4.3g,15.2mg,0.8mg,0mcg,108.6mg
+Rice Pilaf,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,141,3 oz,3.7g,23.8g,0.3g,0.2g,0g,0.5g,0mg,0g,190.9mg,2.5g,24.1mg,1.2mg,0mcg,70.8mg
+Tuscan Potatoes,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-01-25,124,4 OZ,4.6g,20.7g,0.6g,2.4g,0g,2.6g,1.4mg,0g,246.1mg,3.7g,36.3mg,0.9mg,0mcg,563.6mg
+Belgian Waffle Bar,South,Dinner,,[],2023-01-25,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-01-25,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Mozzarella cheese Stuffed Shells,South,Dinner,"Milk, Eggs, Wheat",['Vegetarian'],2023-01-25,277,2 EA,11g,32.8g,4.7g,1.9g,0g,7.8g,48.5mg,0g,705.1mg,11.1g,203mg,2.5mg,0mcg,1.6mg
+Sweet-n-Sour Tofu,South,Dinner,"Wheat, Soybeans, Sesame",['Less Sodium'],2023-01-25,153,6 OZ,7.1g,11g,0.9g,1.5g,0g,5.8g,0mg,4.8g,187.3mg,11.8g,121.6mg,2.2mg,0mcg,349.3mg
+Lemon Delights,South,Dinner,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-01-25,238,1 EACH,10.5g,34.6g,7g,0g,0g,22.2g,15.4mg,6.9g,161.2mg,2.1g,0mg,0.7mg,0mcg,35.9mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-06,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+French Toast,South,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-06,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Home Fries,South,Breakfast,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,194,4 OZ,11.2g,22.4g,0.8g,0g,0g,0g,0mg,0g,57.5mg,1.4g,0mg,0mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-06,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chocolate Chip Bread,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,255,1/16 LOAF,10.8g,38g,5.2g,0.7g,0g,23.1g,39.9mg,0g,187.2mg,3.1g,13.9mg,1.2mg,0mcg,61.2mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-06,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-06,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Lunch,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-06,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-06,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Curly Fries,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-06,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-06,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2023-02-06,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Halal Chicken Gyro,South,Lunch,"Milk, Wheat, Soybeans, Sesame, Coconut",['Smart Check'],2023-02-06,381,1 EACH,10.1g,45.1g,3g,0.9g,0g,6g,60.8mg,0g,539.8mg,28.2g,138.4mg,1.8mg,0mcg,449.4mg
+Baby Carrots w/ Tarragon Butter,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-06,51,3 OZ,1.5g,7.5g,0.9g,2.1g,0g,4.3g,4.1mg,0g,80.4mg,0.5g,21.9mg,0mg,0mcg,2mg
+Grilled Tuna Steak w/ Sriracha Aioli,South,Lunch,"Fish, Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-06,131,1 EACH,3.9g,1.2g,0.4g,0g,0g,1.1g,35mg,0g,212.2mg,21.1g,3.9mg,0.7mg,1.4mcg,372.4mg
+Roasted Dijon Potatoes,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,126,4 OZ,4.5g,20g,1.4g,5.5g,0g,2.3g,0mg,0g,228.8mg,11.1g,19.6mg,0.9mg,0mcg,555.6mg
+Sauteed Kale,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,49,3 OZ,1.6g,7.6g,0.2g,3g,0g,2g,0mg,0g,30.7mg,3.5g,122.1mg,1.2mg,0mcg,401.7mg
+Yankee Pot Roast,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-02-06,311,4 OZ,16.5g,2.8g,6g,0.3g,0g,1.3g,104.6mg,0.2g,171.9mg,37.7g,16.2mg,2.8mg,0mcg,704.2mg
+Fresh Vegetable and Tofu Stir Fry,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,130,6 OZ,7.5g,9.9g,0.7g,1.8g,0g,4.1g,0mg,0.4g,141.6mg,6.4g,72mg,1.3mg,0mcg,402.6mg
+General Tso's Chicken,South,Lunch,"Eggs, Wheat, Soybeans, Gluten",[],2023-02-06,327,6 OZ,18g,24.6g,2.2g,2.1g,0g,10.7g,40mg,0g,857.1mg,18.4g,43mg,1.3mg,0mcg,364mg
+Vegetable Fried Rice,South,Lunch,"Milk, Eggs, Soybeans, Sesame","['Gluten Friendly', 'Vegetarian']",2023-02-06,157,4 OZ,4.4g,23.6g,1.5g,0.8g,0g,0.9g,53.7mg,0g,498.5mg,5.2g,35mg,1.8mg,0.3mcg,115.8mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Molten Buffalo Chicken Dip,South,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium']",2023-02-06,198,2 OZ,18.3g,1.5g,7.5g,0g,0g,0.7g,41.1mg,0g,344.2mg,7.4g,95.1mg,0.1mg,0mcg,2.4mg
+Tortilla Chips,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,142,1 OZ,6.1g,19.2g,0.5g,0g,0g,0g,0mg,0g,111.4mg,2g,0mg,0mg,mcg,mg
+Cherry White Chocolate Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,180,1 EACH,7g,27g,3.5g,0g,0g,16g,15mg,0g,115mg,2g,26mg,0.7mg,mcg,mg
+Lemon Shortbread Bars,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,198,1/35 HFPAN,8.2g,29.7g,5g,0g,0g,17.2g,13.9mg,13.1g,234.7mg,1.4g,13.8mg,0.6mg,0mcg,27.6mg
+Grilled Chicken Fresco,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-06,105,1 EACH,3.7g,1g,0.8g,0.1g,0g,0.8g,48.3mg,0g,240.6mg,17.2g,1.4mg,0.4mg,0mcg,14.2mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-06,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Dinner,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-06,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-06,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Curly Fries,South,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-06,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-06,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-02-06,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Biscuits,South,Dinner,"Milk, Wheat",['Vegetarian'],2023-02-06,260,1 EACH,10g,37g,6g,1g,0g,4g,0mg,0g,780mg,6g,20mg,1.8mg,mcg,mg
+Hearty Beef Stew,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-02-06,227,6 OZ,12.8g,12.1g,3.2g,1.2g,0g,3g,30.9mg,0.6g,161.3mg,15.6g,21.3mg,1.8mg,0mcg,386.5mg
+5 Grain Blend,South,Dinner,"Wheat, Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,182,4 OZ,5.4g,29g,0.9g,2.4g,0g,1.6g,0mg,0g,460.3mg,4.5g,22.1mg,1.8mg,mcg,146.6mg
+Cauliflower Roasted With Mustard and Cumin,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,44,4 OZ,2.1g,5.2g,0.2g,2.7g,0g,2.2g,0mg,0g,88mg,2.3g,24.4mg,0.8mg,0mcg,169.2mg
+Lemon Pepper Cod,South,Dinner,"Milk, Fish, Wheat, Soybeans",['Less Sodium'],2023-02-06,261,1 EA,16.1g,12.1g,3.5g,0g,0g,0g,65.2mg,0g,381.4mg,15.1g,0.1mg,0.4mg,0mcg,1.6mg
+Roasted Root Vegetables,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,67,3 OZ,2.3g,11.5g,0.2g,1.8g,0g,3.4g,0mg,0g,238.6mg,1.5g,22.2mg,0.5mg,0mcg,293.5mg
+Summer Squash,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,14,3 OZ,0.2g,2.8g,0g,0g,0g,1.9g,0mg,0g,1.7mg,1g,12.8mg,0.3mg,0mcg,222.8mg
+Mac & Cheese Bar,South,Dinner,,[],2023-02-06,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Garlic Bread,South,Dinner,"Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-06,121,1 SLICE,5.3g,14.9g,1.6g,0.4g,0g,0.1g,0mg,0g,158mg,2.9g,4.7mg,1mg,0mcg,33.3mg
+Lemon Pepper Cod,South,Dinner,"Milk, Fish, Wheat, Soybeans",['Less Sodium'],2023-02-06,261,1 EA,16.1g,12.1g,3.5g,0g,0g,0g,65.2mg,0g,381.4mg,15.1g,0.1mg,0.4mg,0mcg,1.6mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Meatballs with Marinara,South,Dinner,"Milk, Wheat, Soybeans",[],2023-02-06,291,3 EACH,21.8g,12.4g,8g,1.9g,1g,4.5g,45mg,0g,755.9mg,13.9g,78mg,1.7mg,0mcg,mg
+"Meatless ""Meat"" Balls",South,Dinner,"Wheat, Soybeans","['Vegetarian', 'Vegan']",2023-02-06,193,3 EACH,8.5g,14g,0.5g,3.8g,0g,5.5g,0mg,0g,578.3mg,15.2g,84.7mg,2.6mg,0mcg,351.8mg
+Spaghetti,South,Dinner,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-06,212,4 OZ,3.6g,36.8g,0.4g,1.8g,0g,1.8g,0mg,0g,0mg,6.3g,0mg,1.6mg,0mcg,0mg
+Blueberry Pie,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Vegetarian', 'Vegan']",2023-02-06,500,1/8 PIE,27.5g,62.5g,11.3g,2.5g,0g,30g,0mg,0g,437.5mg,3.8g,0mg,1.8mg,mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oat Milk Pancakes,South,Breakfast,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,264,2 EACH,3.1g,52g,0.3g,0g,0g,13.6g,0mg,12.4g,572.5mg,6.5g,341.4mg,2.7mg,1mcg,155.3mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-07,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Pork Sausage Links,South,Breakfast,,['Gluten Friendly'],2023-02-07,202,2 EACH,19.2g,0g,7.1g,0g,0g,0g,35.3mg,0g,433.4mg,6g,26.2mg,0.4mg,mcg,mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cinnamon Coffee Cake,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,246,1/35 HFSHT,11.5g,31.1g,2.1g,0.3g,0g,16.1g,34.7mg,15.7g,162.9mg,3.3g,24mg,0.6mg,0.2mcg,43.4mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-07,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Asian Maple Salmon Fillet,South,Lunch,"Fish, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-07,172,1 EACH,7g,2.8g,1g,0g,0g,1.5g,45.2mg,1.4g,121mg,22.2g,0.4mg,0mg,0mcg,0.9mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-07,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-07,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-07,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-07,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Chorizo Sausage,South,Lunch,,['Gluten Friendly'],2023-02-07,299,1 EACH,26.9g,2g,11g,0g,0g,1g,74.7mg,0g,766.7mg,11g,0mg,1.1mg,mcg,mg
+Malibu Burgers,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,170,1 EA,9g,21g,1g,4g,0g,2g,0mg,0g,440mg,4g,20mg,0.7mg,0mcg,280mg
+Shoestring Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-07,226,4 OZ,17.2g,24g,1.8g,2g,0g,0g,0mg,0g,370.2mg,2g,0mg,0.4mg,mcg,260.2mg
+Chicken & Lime Tacos,South,Lunch,"Milk, Soybeans",['Gluten Friendly'],2023-02-07,253,1 EACH,14.5g,10.8g,6.6g,1g,0g,1.3g,47.8mg,0g,454.2mg,21.4g,186.4mg,0.9mg,0mcg,138.9mg
+Acorn Squash with Honey and Cayenne,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,62,2 WEDGES,0.9g,14.7g,0.1g,1.7g,0g,5.2g,0mg,2.7g,63.3mg,0.9g,37.5mg,0.8mg,0mcg,396.2mg
+Ranch Roasted Potatoes,South,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,140,4 OZ,6.8g,20.2g,0.5g,2.4g,0g,2.3g,0.2mg,0g,5.4mg,3.1g,21mg,0.9mg,0mcg,556mg
+Zesty Fried Chicken Tenders,South,Lunch,"Wheat, Gluten",[],2023-02-07,682,4 EACH,48.9g,34.7g,5.7g,0g,0g,0g,51mg,0g,1204.3mg,32.7g,53.1mg,0.7mg,mcg,mg
+Ziti and Beef Cheesy Bake,South,Lunch,"Milk, Wheat",['Less Sodium'],2023-02-07,183,5 OZ,8.3g,17.8g,3.3g,1.7g,0.2g,6.1g,20.8mg,0g,361.6mg,9.3g,99.9mg,1.7mg,0mcg,20.8mg
+Chefs Choice Vegetable Stir Fry,South,Lunch,,[],2023-02-07,101,6 OZ,4g,12.2g,0.3g,2.9g,0g,6.3g,0mg,0g,39mg,2.6g,48.4mg,0mg,0mcg,4.1mg
+Japchae,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,238,4 OZ,5.9g,46.1g,0.8g,0.6g,0g,3.5g,0mg,0g,191.5mg,0.9g,12.9mg,0.3mg,0mcg,42.5mg
+Mince Pork Stir Fry,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium']",2023-02-07,245,3 OZL,15.6g,8.7g,5.5g,0.1g,0g,4.2g,0mg,0g,366mg,14.3g,22.5mg,1mg,0mcg,15.3mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Tuscan White Beans,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,129,6 OZ,4.5g,16.7g,0.6g,4.5g,0g,3.5g,0mg,0g,479.3mg,4.5g,74.4mg,1.7mg,0mcg,343.3mg
+Red Velvet Cookie,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,190,1 EACH,9g,26g,4.5g,1g,0g,16g,15mg,0g,95mg,2g,20mg,1.4mg,mcg,mg
+Rice Krispie Bars,South,Lunch,"Milk, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-07,157,1/35 HFSHT,5.4g,25.2g,3.3g,0g,0g,12g,13.9mg,11g,72.8mg,1.3g,1mg,3mg,0mcg,11.7mg
+Bourbon Brown Sugar Salmon,South,Dinner,"Fish, Gluten","['Less Sodium', 'Smart Check']",2023-02-07,161,1 EACH,7g,0g,1g,0g,0g,0g,45.2mg,0g,332.4mg,22.1g,0mg,0mg,0mcg,0mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-07,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-07,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-07,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-07,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Chorizo Sausage,South,Dinner,,['Gluten Friendly'],2023-02-07,299,1 EACH,26.9g,2g,11g,0g,0g,1g,74.7mg,0g,766.7mg,11g,0mg,1.1mg,mcg,mg
+Malibu Burgers,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,170,1 EA,9g,21g,1g,4g,0g,2g,0mg,0g,440mg,4g,20mg,0.7mg,0mcg,280mg
+Shoestring Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-07,226,4 OZ,17.2g,24g,1.8g,2g,0g,0g,0mg,0g,370.2mg,2g,0mg,0.4mg,mcg,260.2mg
+Basmati Rice,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Halal Mongolian Beef,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Smart Check', 'Less Sodium']",2023-02-07,161,4 OZ,5.8g,4.6g,1.8g,0.8g,0g,2.1g,46.6mg,0g,199.2mg,21.6g,21.9mg,1.9mg,0mcg,344.1mg
+Brown Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-02-07,50,2 OZL,3.3g,3.6g,1g,0g,0g,0.5g,0mg,0g,146.1mg,1g,27.8mg,0.2mg,0mcg,79.9mg
+Flame Roasted Corn and Peppers,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,123,3 OZ,6.5g,13.9g,1.2g,0g,0g,6.5g,0mg,0g,120.6mg,2.8g,0mg,0.5mg,mcg,168mg
+Garlic & Herb Roasted Beef Sirloin,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-07,446,4 OZ,30.4g,0.4g,12.4g,0.1g,1.8g,1.8g,132.8mg,0g,286.2mg,35.5g,5mg,3.4mg,0mcg,6mg
+Quinoa and Rice Pilaf,South,Dinner,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-07,161,4 OZ,7.1g,22.4g,0.9g,1.3g,0g,1.1g,0mg,0g,509.6mg,2.6g,10.1mg,0.5mg,0mcg,74.3mg
+Scalloped Potatoes,South,Dinner,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-07,134,1/2 CUP,3.6g,22g,1.7g,0g,0g,4g,7.1mg,2g,226.9mg,2g,34mg,0.4mg,0mcg,460.3mg
+Fajita Bar,South,Dinner,,[],2023-02-07,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,0.2mg,0g,0.1mg,0mg,0mcg,0mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Green Beans With Lemon And Dill,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-07,47,4 OZ,1.1g,9.1g,0.2g,3.7g,0g,4.2g,0mg,0g,57.7mg,2.2g,51.3mg,0.8mg,0mcg,171.5mg
+Humming Bird Cake,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-07,228,1/35 HFPAN,9.5g,32.4g,3g,0.8g,0.2g,16.6g,22.4mg,14g,188.8mg,3g,14.5mg,0.9mg,0.1mcg,80.7mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+French Toast Stix,South,Breakfast,"Wheat, Soybeans, Gluten",['Vegetarian'],2023-02-08,540,5 EACH,34.3g,54.7g,2.9g,1.3g,0g,12.7g,0mg,12.7g,572.3mg,6.4g,25.4mg,3.2mg,0mcg,63.6mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Lyonnaise Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,118,4 OZ,2.7g,20.6g,0.9g,0g,0g,0.4g,19.7mg,0g,213.4mg,1.9g,2.7mg,0.3mg,0mcg,301.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-08,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Turkey Sausage Links,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-08,153,2 EACH,12g,0g,3.8g,0g,0g,0g,65.7mg,0g,470.7mg,10.9g,0mg,0.8mg,0mcg,mg
+Apple Turnover,South,Breakfast,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,220,1 EACH,13g,24g,6.5g,0.5g,0g,10.2g,0mg,0g,105.1mg,2g,10mg,0.5mg,0mcg,0mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-08,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Roasted Turkey,South,Lunch,,"['Gluten Friendly', 'Smart Check']",2023-02-08,129,4 OZ,2.1g,0g,0g,0g,0g,0g,64.3mg,0g,600.4mg,23.6g,0mg,0.8mg,0mcg,mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-08,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Lunch,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-08,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-08,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Crinkle Cut Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-08,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-08,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-08,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2023-02-08,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Garlic Bread,South,Lunch,"Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,121,1 SLICE,5.3g,14.9g,1.6g,0.4g,0g,0.1g,0mg,0g,158mg,2.9g,4.7mg,1mg,0mcg,33.3mg
+Halal Beef Lasagna,South,Lunch,"Milk, Eggs, Wheat",[],2023-02-08,567,1/28 PAN,29.4g,46.7g,14g,3.4g,0g,17.1g,117mg,0g,1216.1mg,32.7g,783.3mg,2.2mg,0mcg,3.9mg
+Green Bean Casserole,South,Lunch,"Milk, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-08,78,3 OZ,3.9g,7.5g,1.7g,1.6g,0g,1.7g,4.6mg,0g,259.9mg,2.1g,56mg,0.5mg,0.1mcg,98.6mg
+Mashed Red Potatoes with Garlic,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,129,4 OZ,6.3g,17.9g,4g,2g,0g,2.8g,17.5mg,0g,270.8mg,3.2g,43.3mg,0.7mg,0.3mcg,469mg
+Sauteed Spinach With Garlic,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,39,4 OZ,1.1g,5.8g,0.1g,2.6g,0g,0.5g,0mg,0g,139.3mg,3.6g,121.5mg,3.2mg,0mcg,653.4mg
+Stove Top Stuffing,South,Lunch,"Wheat, Soybeans",[],2023-02-08,194,4 OZL,9.6g,23.1g,2.1g,0g,0g,2.4g,0mg,0g,603.5mg,3.6g,15.4mg,1.3mg,0mcg,0mg
+Turkey Gravy,South,Lunch,"Milk, Wheat, Soybeans",['Less Sodium'],2023-02-08,54,2 OZL,3.7g,3.9g,1.2g,0g,0g,0.3g,0mg,0.3g,254.3mg,0.9g,4mg,0.2mg,0mcg,9.8mg
+Edamame Fried Rice,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-08,273,6 OZ,8.3g,41.9g,0.8g,1.1g,0g,3.1g,0mg,0g,771.8mg,6.7g,47.6mg,2.6mg,0mcg,218.1mg
+Fried Pork And Kimchi Dumplings,South,Lunch,"Eggs, Fish, Wheat, Soybeans, Gluten, Sesame",['Less Sodium'],2023-02-08,199,3 EACH,11.9g,17.9g,2.3g,1.5g,0g,1.5g,11.2mg,0.7g,336.5mg,5.2g,29.9mg,0.4mg,0mcg,89.7mg
+Lemon Soy Tofu Stir Fry,South,Lunch,"Soybeans, Gluten, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,73,4 OZ,2.8g,7.3g,0.4g,0.6g,0g,3.2g,0mg,0g,184.8mg,5.2g,46.6mg,1mg,0mcg,200.6mg
+Steamed Broccoli,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Grilled Salmon,South,Lunch,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-08,162,1 EACH,7.1g,0.1g,1g,0g,0g,0g,45.2mg,0g,86.5mg,22.1g,0.4mg,0mg,0mcg,1.2mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Strawberry  Blondie,South,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,240,1/35 HFSHT,11.1g,32.6g,6.7g,0.4g,0g,20.8g,53.7mg,19.6g,22mg,2.5g,11.5mg,0.9mg,0.2mcg,35.1mg
+Sugar Cookies,South,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,164,1 EACH,7.2g,23.6g,4.1g,0g,0g,13.4g,15.4mg,0g,143.8mg,2.1g,0mg,0.7mg,mcg,35.9mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-08,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-08,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Dinner,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-08,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-08,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Crinkle Cut Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-08,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-08,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-02-08,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Halal Shepherd's Pie,South,Dinner,"Milk, Soybeans",['Less Sodium'],2023-02-08,284,8 OZ,13.4g,26.6g,6g,0.2g,0.5g,4.9g,47.7mg,2g,330.4mg,12.3g,71.3mg,1.1mg,0.7mcg,216.2mg
+Cruciferous Vegetable Saute,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,33,3 OZ,1.7g,3.9g,0.2g,1.7g,0g,1.2g,0mg,0g,147.8mg,1.9g,55.5mg,0.9mg,0mcg,252.4mg
+Fried Plantains,South,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,294,3 EACH,15.4g,38.8g,1.6g,1.5g,0g,32.8g,0mg,0g,0mg,0.7g,5.2mg,0.4mg,0mcg,552.1mg
+Grilled Pineapple,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-08,251,1 SKEWER,4.9g,56.2g,2.3g,3.9g,0g,18.3g,9.7mg,18.3g,33.1mg,1.2g,25.9mg,1.1mg,0mcg,343.3mg
+Lime Infused Swordfish,South,Dinner,Fish,"['Gluten Friendly', 'Less Sodium']",2023-02-08,179,1 EA(4 oz),8.6g,0.6g,1.8g,0.1g,0g,0.3g,0mg,0g,134.2mg,22.5g,15.8mg,0.4mg,75mcg,503.8mg
+Pernil,South,Dinner,,['Gluten Friendly'],2023-02-08,372,4 OZ,29.3g,0.5g,10.3g,0.1g,0g,0g,102.6mg,0g,1165.4mg,27.9g,3.6mg,1.6mg,0mcg,6.1mg
+Yellow Rice w/ Pinto Beans,South,Dinner,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-08,216,6 OZ,0g,46.9g,0g,1.4g,0g,0.8g,0mg,0g,524.9mg,6.1g,54mg,2.8mg,0mcg,230.8mg
+Curry Tofu,South,Dinner,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-08,122,1 EACH,6.1g,4.2g,1.1g,0.3g,0g,0.8g,0mg,0g,52.5mg,11.4g,107.9mg,2.3mg,0mcg,183.8mg
+Japanese Curry Chicken,South,Dinner,"Milk, Wheat, Soybeans",[],2023-02-08,224,6 OZL,9.1g,20.8g,4.8g,1.8g,0g,7.8g,69.5mg,3.2g,876.8mg,13.4g,35.1mg,2mg,0mcg,178.6mg
+Sauteed Baby Bok Choy,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,39,4 OZ,1.7g,4.8g,0.2g,2g,0g,2.6g,0mg,0.5g,172.7mg,2.2g,150.5mg,1.2mg,0mcg,1.5mg
+Thai Yellow Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,136,4 OZ,0.3g,29.9g,0g,0.1g,0g,0.1g,0mg,0g,5mg,2.6g,4.3mg,0.1mg,0mcg,6.8mg
+Cinnamon Sugared Churros,South,Dinner,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-08,220,1 EACH,13g,21g,3g,0g,4g,0g,35mg,0g,250mg,3g,0mg,0mg,0mcg,mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-08,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Chocolate Whoopie Pies,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-08,344,1 EACH,12g,55.5g,3.6g,1.3g,2.2g,38.2g,21.6mg,15.2g,490.7mg,3.6g,23.2mg,2.2mg,0mcg,111mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-09,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Buttermilk Pancakes,South,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-02-09,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-09,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chocolate Chip Muffins,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,317,1 EACH,16.2g,38.2g,2.8g,0.4g,0g,22.4g,54.4mg,17.9g,196.1mg,4g,29.3mg,0.7mg,0.3mcg,69.4mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-09,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Fiesta Lime Chicken,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,93,1 EACH,2.7g,0.5g,0.6g,0g,0g,0.3g,48.3mg,0g,234.4mg,17.3g,1.3mg,0.4mg,0mcg,28.3mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-09,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-09,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-09,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-09,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Lunch,Gluten,['Less Sodium'],2023-02-09,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-09,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Grilled Chicken Caprese Grinder,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-09,422,1 slice,15.6g,41.4g,6.1g,1g,0g,3.1g,59.6mg,0g,760.4mg,30.3g,277.8mg,3.1mg,0mcg,199.9mg
+Baked Cajun Scrod,South,Lunch,"Fish, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,113,1 EACH,4.4g,0.1g,1.1g,0g,0g,0g,45mg,0g,213.2mg,18g,18.1mg,0.3mg,0mcg,1.7mg
+Baked Sweet Potato,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,132,1 HALF,1.8g,27.1g,0.1g,4g,0g,5.6g,0mg,0g,74.1mg,2.1g,40.4mg,0.8mg,0mcg,453.8mg
+Black Beans In Sofrito,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,69,3 OZ,0.4g,12.3g,0g,0.2g,0g,1.1g,0mg,0g,90.2mg,3.9g,25.4mg,1.1mg,0mcg,290mg
+Herb Buttered Corn,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-09,106,3 OZ,3.4g,17.2g,2.2g,0.1g,0g,1.1g,9.3mg,0g,114.6mg,1.1g,1.6mg,0.1mg,0mcg,3.2mg
+Thai Yellow Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,136,4 OZ,0.3g,29.9g,0g,0.1g,0g,0.1g,0mg,0g,5mg,2.6g,4.3mg,0.1mg,0mcg,6.8mg
+Yellow Rice w/ Pinto Beans,South,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-09,216,6 OZ,0g,46.9g,0g,1.4g,0g,0.8g,0mg,0g,524.9mg,6.1g,54mg,2.8mg,0mcg,230.8mg
+Sesame Chicken & Vegetables,South,Lunch,"Eggs, Wheat, Soybeans, Gluten, Sesame",[],2023-02-09,244,4 OZ,13.6g,18.3g,1.5g,1.3g,0g,5.9g,26.7mg,5g,741.6mg,13g,26mg,0.9mg,1mcg,210.4mg
+Szechuan Vegetable Stirfry,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,90,4 OZ,1.5g,14.6g,0.1g,1.8g,0g,3.7g,0mg,0g,261.4mg,4.5g,40.6mg,0.5mg,2.8mcg,228.4mg
+Tokyo Noodles,South,Lunch,"Wheat, Soybeans, Sesame","['Vegetarian', 'Vegan']",2023-02-09,394,6 OZ,4.3g,77.6g,0.6g,1.9g,0g,11.8g,0mg,9.5g,613.1mg,15.2g,62.5mg,2.2mg,0mcg,35.6mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Steamed Broccoli,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Cherry White Chocolate Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,180,1 EACH,7g,27g,3.5g,0g,0g,16g,15mg,0g,115mg,2g,26mg,0.7mg,mcg,mg
+Jonathan Bar,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-09,344,1/35 HFPAN,14.6g,48.2g,8.6g,0g,0.4g,27.4g,49.7mg,27.1g,139.6mg,4g,6.9mg,1.3mg,0mcg,30.2mg
+Grilled Lemon Garlic Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,87,1 EACH,2.2g,0.2g,0.5g,0g,0g,0g,48.3mg,0g,145.1mg,17.2g,1mg,0.4mg,0mcg,2.7mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-09,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-09,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-09,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-09,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-09,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Dinner,Gluten,['Less Sodium'],2023-02-09,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-09,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Halal Cheeseburgers,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-09,365,1 EACH,30g,0g,13.2g,0g,0g,0g,88.8mg,0g,201.8mg,22.5g,263.3mg,0mg,mcg,mg
+BBQ Sauce,South,Dinner,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-09,120,2 OZL,0g,28g,0g,0g,0g,26g,0mg,0g,560mg,0g,0mg,0mg,mcg,mg
+Beer Braised Beef Brisket,South,Dinner,Gluten,['Less Sodium'],2023-02-09,328,4 OZ,25.7g,1.2g,10.4g,0.3g,0g,0g,105.4mg,0g,440.2mg,21.2g,24.4mg,2.1mg,0mcg,346mg
+Garlic Fried Rice (Sinangag),South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,129,4 OZ,0.9g,27g,0.1g,0.1g,0g,0.1g,0mg,0g,94.3mg,3g,31.8mg,1.5mg,0mcg,74.4mg
+Onion Roll,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,170,1 EACH,2.5g,33g,0.5g,1g,g,4g,25mg,0g,150mg,6g,24mg,1.8mg,0mcg,mg
+Roasted Cauliflower,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,105,3 OZ,8.6g,6.6g,1.3g,2.5g,0g,2.4g,0mg,0g,189.9mg,2.4g,29.9mg,0.6mg,0mcg,373.8mg
+Texas Roasted Vegetables,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,34,3 OZ,1.4g,5.3g,0.2g,0.8g,0g,2.4g,0mg,0g,49.5mg,1g,12.2mg,0.3mg,0mcg,211.1mg
+Pasta Bar,South,Dinner,,[],2023-02-09,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Pumpkin Spice Sweet Potato Curry,South,Dinner,Coconut,"['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,121,4 OZL,5.5g,16.5g,2g,2.1g,0g,4.7g,0mg,0g,314.7mg,2.4g,37mg,1.1mg,0mcg,369.9mg
+Spicy Garlic Chickpeas,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-09,163,4 OZ,11.4g,13.1g,1.4g,0g,0g,1.8g,0mg,0g,165mg,3.7g,38.5mg,1mg,0mcg,141.1mg
+Coconut Custard Pie,South,Dinner,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).",['Vegetarian'],2023-02-09,338,1/8 PIE,17.5g,40g,6.3g,0g,0g,18.8g,87.5mg,15g,512.5mg,7.5g,103.8mg,1.3mg,0mcg,156.3mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,South,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Sausage Patties,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,253,2 EACH,24.3g,0g,9.1g,0g,0g,0g,40.5mg,0g,546.8mg,8.1g,0mg,0.4mg,mcg,mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Vegan French Toast,South,Breakfast,"Wheat, Soybeans","['Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,309,2 EACH,8g,48.2g,0.2g,0.1g,0g,9g,0mg,7.2g,542.9mg,11.4g,184.4mg,2.8mg,1.5mcg,219.5mg
+Cranberry Orange Bread,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,260,1/16 LOAF,10g,40.1g,4.5g,0.8g,0g,23.5g,44.9mg,0g,210.6mg,3g,16.1mg,1.1mg,0mcg,50.1mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2/10/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Moroccan Vegetable Tagine,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,138,6 OZ,5.1g,22g,0.7g,2.9g,0g,9.2g,0mg,2.3g,371mg,2.7g,59.3mg,1mg,0mcg,343.8mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Cross Trax French Fries,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,253,4 OZ,18.9g,21g,1.8g,2g,0g,0g,0mg,0g,550.3mg,2g,0mg,0.7mg,0mcg,240.1mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/10/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2/10/2023,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Halal Chicken Fajita,South,Lunch,"Milk, Wheat, Soybeans",[],2/10/2023,305,1 EACH,11.9g,21.9g,5.2g,1.1g,0g,4.8g,81mg,1g,582.8mg,27.3g,283.5mg,1.2mg,0mcg,478mg
+Basmati Rice,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Chicken Tikka Masala,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2/10/2023,191,4 OZ,11.5g,4.5g,7.2g,0.3g,0g,2.8g,96.3mg,0.9g,245.9mg,14.5g,538.3mg,1mg,0mcg,159.3mg
+Pea and Potato Samosa,South,Lunch,"Wheat, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,275,2 EACH,16.7g,28g,0.6g,2g,0g,0g,0mg,0g,400mg,4g,0mg,1.4mg,0mcg,mg
+Sauteed Spinach With Garlic,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,39,4 OZ,1.1g,5.8g,0.1g,2.6g,0g,0.5g,0mg,0g,139.3mg,3.6g,121.5mg,3.2mg,0mcg,653.4mg
+Fried Pork And Kimchi Dumplings,South,Lunch,"Eggs, Fish, Wheat, Soybeans, Gluten, Sesame",['Less Sodium'],2/10/2023,199,3 EACH,11.9g,17.9g,2.3g,1.5g,0g,1.5g,11.2mg,0.7g,336.5mg,5.2g,29.9mg,0.4mg,0mcg,89.7mg
+Orange Chicken Stir Fry,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,144,6 OZ,3.2g,10.5g,0.3g,1.5g,0g,6.7g,44.2mg,1.3g,151.8mg,19.5g,27.2mg,1.1mg,0mcg,168.1mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Curried Cauliflower,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,59,4 OZ,3.1g,7g,0.5g,2.9g,0g,2.6g,0mg,0g,40.8mg,2.7g,32.2mg,0.6mg,0mcg,410mg
+Chocolate Brownies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,203,1/96 SHEET,8.8g,28.4g,2g,1g,0g,21.3g,14.2mg,19.2g,122.1mg,1.5g,12.4mg,1.7mg,0.1mcg,76.3mg
+Oatmeal Raisin Cookies,South,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,140,1 EACH,4.5g,22g,1.5g,0g,0g,13g,0mg,8g,85mg,2g,9mg,0.7mg,0mcg,82mg
+Moroccan Salmon,South,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,204,1 EACH,9.1g,5.7g,1.3g,1.2g,0g,2.4g,45.2mg,0g,311.2mg,23.1g,27mg,0.9mg,0mcg,206.1mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Cross Trax French Fries,South,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,253,4 OZ,18.9g,21g,1.8g,2g,0g,0g,0mg,0g,550.3mg,2g,0mg,0.7mg,0mcg,240.1mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/10/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2/10/2023,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Halal Spaghetti & Meatballs,South,Dinner,"Eggs, Wheat, Soybeans",['Less Sodium'],2/10/2023,396,8 OZ,5.5g,46g,4.4g,2.8g,0g,7.3g,40mg,0g,573.7mg,16.6g,54.2mg,3.3mg,0mcg,0mg
+Brown Chicken Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2/10/2023,48,2 OZL,3.1g,3.7g,1g,0g,0g,0.4g,0mg,0g,100.6mg,0.5g,2.2mg,0.2mg,0mcg,6.1mg
+Herb Baked Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,579,1 EACH,44g,0g,13.9g,0g,0g,0g,150.7mg,0g,162.3mg,44g,0mg,2.5mg,mcg,24.6mg
+Sauteed Corn & Bacon,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,83,3 OZ,1g,16g,0.4g,0.1g,0g,1g,2.9mg,0g,63.5mg,1.9g,1.4mg,0mg,0mcg,5.3mg
+Sauteed Kale,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,49,3 OZ,1.6g,7.6g,0.2g,3g,0g,2g,0mg,0g,30.7mg,3.5g,122.1mg,1.2mg,0mcg,401.7mg
+Smashed Yukon Gold Potatoes,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,191,4 OZ,11.3g,17.6g,7g,1.8g,0g,2.7g,35.9mg,0g,291mg,2.1g,684.8mg,0.9mg,0mcg,444.5mg
+Bacon,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Belgian Waffle,South,Dinner,"Milk, Eggs, Wheat, Soybeans",['Vegetarian'],2/10/2023,398,2 EACH,17.4g,52g,7.7g,2g,0g,10g,70.3mg,0g,860.8mg,8g,20mg,2.7mg,0mcg,0mg
+Fried Tater Tots,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,303,4 OZ,20.9g,26.3g,2.2g,2.8g,0g,0g,0mg,0g,497.9mg,2.8g,0mg,0.5mg,0mcg,318.1mg
+Pancake & Waffle Syrup,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,210,2 OZL,0g,52g,0g,0g,0g,29g,0mg,0g,95mg,0g,0mg,0mg,0mcg,0mg
+Plant-Based Breakfast Sausage,South,Dinner,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Dinner,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Farro Risotto,South,Dinner,"Milk, Wheat","['Less Sodium', 'Vegetarian']",2/10/2023,296,4 OZ,6.1g,51.2g,2.1g,0.2g,0g,0.4g,7.6mg,0g,215.1mg,10.7g,24.5mg,3.4mg,0mcg,412.3mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Peach Bread Pudding,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,190,1/35 HFPAN,5.8g,25.7g,2.2g,0.4g,0g,17.3g,126.9mg,12.3g,167.1mg,8.2g,128.2mg,1.4mg,2.1mcg,98.2mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-11,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Chocolate Chip Pancakes,South,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-11,548,2 EACH,24.5g,66.6g,4.6g,0g,0g,24.7g,114.6mg,14.2g,453.1mg,14g,300.6mg,4mg,0.7mcg,250.4mg
+Fried Hash Brown Patties,South,Breakfast,"Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,178,1 EACH,12.6g,15g,0.9g,2g,0g,0g,0mg,0g,240mg,1g,0mg,0mg,0mcg,150mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-11,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-11,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Oatmeal Hot Cereal,South,Lunch,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-11,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Chefs Omelet Du Jour,South,Lunch,"Milk, Eggs, Soybeans",[],2023-02-11,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Egg Whites For Omelets,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,62,4 OZL,0g,0g,0g,0g,0g,0g,0mg,0g,184.9mg,12.3g,7.4mg,0mg,0mcg,184.9mg
+Fried Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Halal Rotisserie Chicken,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-11,260,1 PORT,19.8g,0g,6.2g,0g,0g,0g,67.6mg,0g,419.6mg,19.8g,0.4mg,0.4mg,0mcg,1.6mg
+Olive Oil Crushed Potato,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,112,3 OZ,6g,15.2g,0.8g,1.8g,0g,1.8g,0mg,0g,56.3mg,2.3g,14.6mg,0.7mg,0mcg,420.9mg
+Bacon,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-11,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Cheesy Scrambled Eggs,South,Lunch,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Fried Hash Brown Patties,South,Lunch,"Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,178,1 EACH,12.6g,15g,0.9g,2g,0g,0g,0mg,0g,240mg,1g,0mg,0mg,0mcg,150mg
+Hard Boiled Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Plant-Based Breakfast Sausage,South,Lunch,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Lunch,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Banana Stuffed French Toast,South,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-11,257,1/28 EA,7.9g,37.6g,3.6g,0.3g,0g,17.7g,116.4mg,9g,284.2mg,8.3g,114.2mg,1.6mg,1.2mcg,101.4mg
+Chocolate Chip Pancakes,South,Lunch,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-11,548,2 EACH,24.5g,66.6g,4.6g,0g,0g,24.7g,114.6mg,14.2g,453.1mg,14g,300.6mg,4mg,0.7mcg,250.4mg
+Chicken Caprese Pasta,South,Lunch,"Milk, Wheat, Soybeans",['Less Sodium'],2023-02-11,272,6 OZ,10.4g,23.4g,3.3g,1g,0g,2.2g,44.6mg,0g,398mg,20.8g,137.5mg,1.5mg,0mcg,120.9mg
+Ham & Cheese Quiche,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",['Less Sodium'],2023-02-11,308,1/8 PIE,22.4g,1.4g,12.9g,0g,0g,5.2g,165mg,0g,490.1mg,14.8g,1858.4mg,0.7mg,0.5mcg,33mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Blueberry Muffin,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,277,1 EACH,12.4g,36.9g,1.3g,0.7g,0g,23.4g,47.6mg,22.5g,171.6mg,3g,25.1mg,0.5mg,0.3mcg,46.1mg
+Double Chocolate Chip Cookie,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,170,1 EACH,8g,23g,4.5g,0g,0g,15g,10mg,0g,140mg,2g,10mg,0.7mg,mcg,105mg
+Chicken & Vegetable Stir Fry,South,Dinner,"Wheat, Soybeans, Gluten, Sesame","['Less Sodium', 'Smart Check']",2023-02-11,184,6 OZ,5.8g,13.1g,1.1g,1.1g,0g,9.2g,82.2mg,5.9g,343.9mg,19g,34.2mg,1.2mg,0mcg,218.2mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-11,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-11,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-11,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-11,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-02-11,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-11,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Wedge Fries w/ Skin,South,Dinner,"Wheat, Soybeans, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,293,4 OZ,19.1g,27.6g,2.1g,2.6g,0g,1.3g,0mg,0g,381mg,2.6g,0mg,0.9mg,mcg,433.5mg
+Cart Style Chicken,South,Dinner,"Milk, Wheat, Soybeans, Sesame",[],2023-02-11,433,8 OZ,20.3g,37.6g,3.8g,0.5g,0g,4g,71.7mg,1.5g,798.1mg,24.9g,71.4mg,0.8mg,0.2mcg,409.1mg
+Chicken Parmesan,South,Dinner,"Milk, Wheat",[],2023-02-11,337,1 EACH,18.9g,20.9g,4.1g,2g,0g,5.5g,56.4mg,0g,957.9mg,23.1g,141.8mg,1.5mg,0mcg,mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Pesto Garlic Bread,South,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-11,207,1 SLICE,7.2g,28.9g,1.8g,0.9g,0g,0.2g,1.1mg,0g,308.6mg,5.9g,17.1mg,2mg,0mcg,56.1mg
+Protein Packed Caprese Cutlet,South,Dinner,"Milk, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-11,236,1 EACH,12.3g,21g,3.2g,0.2g,0g,2.4g,8.8mg,1g,414.8mg,12.1g,102.1mg,1.5mg,0mcg,243.6mg
+Summer Squash,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,14,3 OZ,0.2g,2.8g,0g,0g,0g,1.9g,0mg,0g,1.7mg,1g,12.8mg,0.3mg,0mcg,222.8mg
+Chefs Choice Vegetable Stir Fry,South,Dinner,,[],2023-02-11,101,6 OZ,4g,12.2g,0.3g,2.9g,0g,6.3g,0mg,0g,39mg,2.6g,48.4mg,0mg,0mcg,4.1mg
+Mini Vegetable Egg Rolls,South,Dinner,"Eggs, Wheat, Soybeans, Sesame",['Vegetarian'],2023-02-11,150,4 EACH,5.4g,21.4g,1.1g,0g,0g,2.1g,5.4mg,1.1g,588.8mg,4.3g,27.8mg,1.5mg,0mcg,128.5mg
+White Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Braised Beef Ragout,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-11,77,4 OZ,2.3g,4.9g,0.7g,0.6g,0g,2g,26.4mg,0.6g,160.8mg,9.8g,13.1mg,1.1mg,0.1mcg,258.8mg
+Country Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-02-11,51,2 OZL,3.2g,4g,1g,0g,0g,0.5g,0mg,0g,209.9mg,0.6g,3.2mg,0.2mg,0mcg,7.1mg
+Mashed Ranch Potatoes,South,Dinner,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-11,132,4 OZ,5.5g,16.9g,3.3g,0g,0g,2.5g,15.4mg,0g,79.8mg,3.1g,97mg,0.3mg,1mcg,238.1mg
+Fruit of the Forest Pie,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-11,475,1/8 PIE,27.5g,55g,11.3g,2.5g,0g,22.5g,0mg,0g,412.5mg,3.8g,50mg,1.8mg,0mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oat Milk Pancakes,South,Breakfast,Wheat,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,264,2 EACH,3.1g,52g,0.3g,0g,0g,13.6g,0mg,12.4g,572.5mg,6.5g,341.4mg,2.7mg,1mcg,155.3mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/10/2023,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Pork Sausage Links,South,Breakfast,,['Gluten Friendly'],2/10/2023,202,2 EACH,19.2g,0g,7.1g,0g,0g,0g,35.3mg,0g,433.4mg,6g,26.2mg,0.4mg,mcg,mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Pina Colada Muffin,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,341,1 EACH,16.4g,44.2g,3.5g,0.8g,0g,28.4g,55.8mg,23.2g,212.8mg,3.6g,28.5mg,0.5mg,0.3mcg,55.2mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2/10/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/10/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chorizo Sausage,South,Lunch,,['Gluten Friendly'],2/10/2023,299,1 EACH,26.9g,2g,11g,0g,0g,1g,74.7mg,0g,766.7mg,11g,0mg,1.1mg,mcg,mg
+Malibu Burgers,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,170,1 EA,9g,21g,1g,4g,0g,2g,0mg,0g,440mg,4g,20mg,0.7mg,0mcg,280mg
+Shoestring Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,226,4 OZ,17.2g,24g,1.8g,2g,0g,0g,0mg,0g,370.2mg,2g,0mg,0.4mg,mcg,260.2mg
+Onion Rings,South,Lunch,"Eggs, Wheat, Soybeans, Gluten",['Vegetarian'],2/10/2023,488,4 OZ,30.9g,47.3g,5.3g,0g,0g,0g,0mg,0g,721mg,7.5g,0mg,0mg,0mcg,mg
+Sweet & Smoky Steak for Sandwich,South,Lunch,,['Gluten Friendly'],2/10/2023,239,4 OZ,8.1g,3.6g,2.8g,0.2g,0g,3g,78.2mg,0.4g,389mg,35.2g,9mg,3mg,0mcg,471mg
+California Vegetable Blend,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,29,3 OZ,0g,4.8g,0g,1.9g,0g,1.9g,0mg,0g,28.6mg,1g,0mg,0mg,mcg,mg
+Chicken Florentine,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2/10/2023,122,1 EACH,4.3g,2.1g,2.1g,0.2g,0g,1g,56.3mg,0g,229mg,18.2g,169.7mg,0.5mg,0.4mcg,6.1mg
+Harissa Roasted Vegetables,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,126,5 OZ,8.6g,12.2g,1.2g,2.9g,0g,4.7g,0mg,0g,210.6mg,2g,31.6mg,1.2mg,0mcg,338.8mg
+Popcorn Shrimp,South,Lunch,"Crustacean Shellfish, Wheat, Soybeans, Gluten",['Less Sodium'],2/10/2023,288,4 OZ,12.2g,33.4g,0.8g,0g,0g,1g,75.9mg,0g,394.9mg,12.2g,40.5mg,1mg,0mcg,136.7mg
+Wild Mushroom Risotto,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,139,4 OZ,3.3g,23.1g,2.1g,1g,0g,0.4g,9mg,0g,282.5mg,3.2g,41mg,0.3mg,0mcg,68.8mg
+Taco Bar,South,Lunch,,[],2/10/2023,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Fried Sweet Potato Tots,South,Lunch,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,272,4 OZ,15.9g,31.1g,0.8g,2.7g,0g,10.8g,0mg,0g,270mg,1.4g,27mg,0.5mg,0mcg,229.5mg
+Garlic Bread,South,Lunch,"Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,121,1 SLICE,5.3g,14.9g,1.6g,0.4g,0g,0.1g,0mg,0g,158mg,2.9g,4.7mg,1mg,0mcg,33.3mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+M & M Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,160,1 EACH,7g,24g,3.5g,1g,0g,15g,10mg,0g,140mg,2g,0mg,0.7mg,0mcg,35mg
+Snickerdoodle Cookies,South,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,171,1 EACH,7.2g,25.4g,4.1g,0.1g,0g,14.9g,15.4mg,1.6g,143.8mg,2.1g,4mg,0.8mg,0mcg,36.9mg
+Huli Huli Chicken,South,Dinner,Soybeans,"['Gluten Friendly', 'Smart Check']",2/10/2023,259,1 EACH,7.4g,7.2g,1.6g,0g,0g,6.3g,170.9mg,0g,580.2mg,36.6g,36.6mg,2.1mg,0mcg,21.4mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2/10/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/10/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/10/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/10/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Chorizo Sausage,South,Dinner,,['Gluten Friendly'],2/10/2023,299,1 EACH,26.9g,2g,11g,0g,0g,1g,74.7mg,0g,766.7mg,11g,0mg,1.1mg,mcg,mg
+Malibu Burgers,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,170,1 EA,9g,21g,1g,4g,0g,2g,0mg,0g,440mg,4g,20mg,0.7mg,0mcg,280mg
+Shoestring Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/10/2023,226,4 OZ,17.2g,24g,1.8g,2g,0g,0g,0mg,0g,370.2mg,2g,0mg,0.4mg,mcg,260.2mg
+Couscous,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,173,4 OZ,2.2g,30g,0.6g,0.1g,0g,0.4g,3.4mg,0g,177.5mg,4.9g,10.6mg,1.8mg,0.1mcg,99mg
+Kofta Curry,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2/10/2023,310,2 EACH,20.9g,12.1g,9.6g,0.7g,0.6g,10.2g,75.5mg,4.3g,460.9mg,15.3g,550.3mg,2mg,0mcg,385.4mg
+Honey Lime Sweet Potato,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/10/2023,127,4 OZ,2.3g,25.6g,0.7g,3.3g,0g,8.1g,0mg,3.6g,133.8mg,1.7g,34.3mg,0.7mg,0mcg,367.7mg
+Korean Pork Loin,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium']",2/10/2023,225,4 OZ,11.7g,0.5g,4.1g,0.1g,0g,0.4g,87.9mg,0.2g,108.4mg,27g,1.3mg,1.3mg,0mcg,10.7mg
+Korean Sweet Black Beans,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Vegetarian']",2/10/2023,108,3 OZ,1.8g,18.8g,0.2g,0.1g,0g,8.4g,0mg,7.1g,822.7mg,5.3g,23.2mg,1.5mg,0mcg,251.8mg
+Sauteed Kale,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,66,3 OZ,2g,10.5g,0.2g,4.2g,0g,2.8g,0mg,0g,43.3mg,4.9g,171.6mg,1.7mg,0mcg,565.1mg
+Sesame Cilantro Rice,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,183,4 OZ,3.7g,33.7g,0.9g,0.1g,0g,0g,0mg,0g,45mg,2.9g,4.1mg,0.1mg,0mcg,6.4mg
+Country Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2/10/2023,51,2 OZL,3.2g,4g,1g,0g,0g,0.5g,0mg,0g,209.9mg,0.6g,3.2mg,0.2mg,0mcg,7.1mg
+Fried Chicken,South,Dinner,"Eggs, Wheat, Soybeans",['Less Sodium'],2/10/2023,289,1 EACH,17.3g,9.6g,4.8g,0g,0g,0g,86.7mg,0g,366.1mg,27g,21.2mg,1.9mg,0mcg,368.1mg
+Roasted Butternut Squash,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,81,3 OZ,2.8g,14.8g,0.9g,2.8g,0g,7.4g,0mg,5.7g,96.1mg,0.8g,35.7mg,0.5mg,0mcg,245.6mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Cauliflower w/ Pumpkin Seeds,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/10/2023,57,3 OZ,2.2g,7.7g,0.4g,3.4g,0g,2.4g,0mg,0g,138.5mg,3.9g,30.2mg,0.6mg,0mcg,395.5mg
+Midnight Choc Cake w/ Chocolate Frosting,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/10/2023,308,1/35 HFSHT,15.2g,37.9g,8.8g,1g,0.2g,25.6g,15.9mg,0g,329.6mg,2.7g,17.1mg,1.6mg,0mcg,81.6mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+French Toast Stix,South,Breakfast,"Wheat, Soybeans, Gluten",['Vegetarian'],2023-02-15,540,5 EACH,34.3g,54.7g,2.9g,1.3g,0g,12.7g,0mg,12.7g,572.3mg,6.4g,25.4mg,3.2mg,0mcg,63.6mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Lyonnaise Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,118,4 OZ,2.7g,20.6g,0.9g,0g,0g,0.4g,19.7mg,0g,213.4mg,1.9g,2.7mg,0.3mg,0mcg,301.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-15,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Turkey Sausage Links,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-15,153,2 EACH,12g,0g,3.8g,0g,0g,0g,65.7mg,0g,470.7mg,10.9g,0mg,0.8mg,0mcg,mg
+Blueberry Coffee Cake,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,380,1/35 HFSHT,17.6g,48.6g,3g,1.2g,0g,25.7g,58mg,24g,256mg,4.6g,42.9mg,0.9mg,0.3mcg,76.2mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-15,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Grilled Lemon Garlic Chicken,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-15,87,1 EACH,2.2g,0.2g,0.5g,0g,0g,0g,48.3mg,0g,145.1mg,17.2g,1mg,0.4mg,0mcg,2.7mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-15,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-15,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+California Veggie Burger w/ Bun,South,Lunch,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2023-02-15,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Crinkle Cut Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-15,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-15,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-15,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Kielbasa Dogs,South,Lunch,Milk,['Gluten Friendly'],2023-02-15,232,1 EACH,20.2g,3g,8.1g,0g,0g,1g,40.3mg,1g,715.7mg,10.1g,40.3mg,1mg,0mcg,231.8mg
+Chicken & Tabouleh Wrap,South,Lunch,"Wheat, Soybeans, Sesame",[],2023-02-15,343,1/2 EACH,15.2g,34.9g,2.4g,1.2g,0g,1.9g,28.1mg,0g,573.7mg,17.3g,80.6mg,2.5mg,0mcg,188.3mg
+BBQ Sauce,South,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-15,120,2 OZL,0g,28g,0g,0g,0g,26g,0mg,0g,560mg,0g,0mg,0mg,mcg,mg
+Baked Beans,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,138,4 OZ,0g,27.8g,0g,0.8g,0g,12.3g,0mg,9.4g,365.4mg,8g,43.3mg,1.6mg,0mcg,319.7mg
+Macaroni & Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-15,325,6 OZ,18.4g,25.4g,10g,0.8g,0g,4.9g,42.4mg,0g,505.2mg,14.3g,367.7mg,1mg,1.6mcg,80.5mg
+Pulled Pork,South,Lunch,,['Gluten Friendly'],2023-02-15,406,4 OZ,29.5g,8.5g,10.3g,0.3g,0g,7.3g,102.6mg,1.5g,528.4mg,28g,3.2mg,1.8mg,0mcg,19.2mg
+Steamed Broccoli,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Sauteed Baby Bok Choy,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,39,4 OZ,1.7g,4.8g,0.2g,2g,0g,2.6g,0mg,0.5g,172.7mg,2.2g,150.5mg,1.2mg,0mcg,1.5mg
+Singapore Street Noodles with Shrimp,South,Lunch,"Fish, Crustacean Shellfish, Soybeans",['Gluten Friendly'],2023-02-15,224,6 OZ,8.3g,30.7g,0.6g,1g,0g,4.3g,20.3mg,0g,652.2mg,6.8g,36.7mg,0.8mg,0mcg,142.2mg
+Teriyaki Pork Stir fry,South,Lunch,"Wheat, Soybeans, Gluten, Sesame",['Less Sodium'],2023-02-15,122,4 OZ,5.4g,5.7g,1.5g,1g,0g,3.3g,38mg,1g,167.7mg,12.2g,13mg,1mg,0mcg,113.4mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Tempura Battered Pickle Chips,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-15,261,3 OZ,18.9g,22.4g,2.3g,0g,0g,2.1g,0mg,1.1g,885.9mg,3.2g,47mg,1.5mg,0mcg,65.1mg
+Chocolate Streusel Brownies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-15,227,1/96 SHEET,10.1g,31.5g,2.9g,1.1g,0g,23.2g,18.5mg,18.5g,151.9mg,1.9g,13.9mg,1.9mg,0.1mcg,89.9mg
+Ranger Cookies,South,Lunch,"Wheat, Soybeans, Coconut, The UConn bakery uses coconut (a tree nut).","['Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,180,1 EACH,9g,24g,5g,0g,0g,10g,0mg,0g,125mg,2g,26mg,0.4mg,mcg,0mg
+Hoisin Glazed Salmon,South,Dinner,"Fish, Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-02-15,168,1 EACH,7.4g,0.9g,1g,0.1g,0g,0.6g,45.2mg,0.5g,132.8mg,22.3g,1.9mg,0.1mg,0mcg,1.2mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-15,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-15,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+California Veggie Burger w/ Bun,South,Dinner,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2023-02-15,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Crinkle Cut Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-15,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-15,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-15,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Kielbasa Dogs,South,Dinner,Milk,['Gluten Friendly'],2023-02-15,232,1 EACH,20.2g,3g,8.1g,0g,0g,1g,40.3mg,1g,715.7mg,10.1g,40.3mg,1mg,0mcg,231.8mg
+Basmati Rice,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Halal Indian Butter Chicken,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-15,262,6 OZL,15.3g,6.9g,8.5g,1.2g,0g,3.5g,101.1mg,0g,262.1mg,20.5g,650mg,0.9mg,0mcg,452.1mg
+Balsamic Glazed Carrots & Kale,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,80,4 OZ,3.5g,11.2g,0.5g,2g,0g,4.9g,0mg,1g,150.4mg,3.1g,102.9mg,1.1mg,0mcg,451.3mg
+Chicken Rustica,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-15,144,1 EACH,6.1g,4.5g,1.2g,0.6g,0g,3.1g,50mg,0g,411.4mg,18.4g,30.4mg,0.9mg,0mcg,8.2mg
+Peas With Feta,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,63,3 OZL,0.6g,9.6g,0.3g,3.2g,0g,0g,1.2mg,0g,20.1mg,4.3g,15.2mg,0.8mg,0mcg,108.6mg
+Rice Pilaf,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,141,3 oz,3.7g,23.8g,0.3g,0.2g,0g,0.5g,0mg,0g,190.9mg,2.5g,24.1mg,1.2mg,0mcg,70.8mg
+Tuscan Potatoes,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-15,124,4 OZ,4.6g,20.7g,0.6g,2.4g,0g,2.6g,1.4mg,0g,246.1mg,3.7g,36.3mg,0.9mg,0mcg,563.6mg
+Belgian Waffle Bar,South,Dinner,,[],2023-02-15,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-15,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Mozzarella cheese Stuffed Shells,South,Dinner,"Milk, Eggs, Wheat",['Vegetarian'],2023-02-15,277,2 EA,11g,32.8g,4.7g,1.9g,0g,7.8g,48.5mg,0g,705.1mg,11.1g,203mg,2.5mg,0mcg,1.6mg
+Sweet-n-Sour Tofu,South,Dinner,"Wheat, Soybeans, Sesame",['Less Sodium'],2023-02-15,153,6 OZ,7.1g,11g,0.9g,1.5g,0g,5.8g,0mg,4.8g,187.3mg,11.8g,121.6mg,2.2mg,0mcg,349.3mg
+Lemon Delights,South,Dinner,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-15,238,1 EACH,10.5g,34.6g,7g,0g,0g,22.2g,15.4mg,6.9g,161.2mg,2.1g,0mg,0.7mg,0mcg,35.9mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2/16/2023,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Buttermilk Pancakes,South,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2/16/2023,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/16/2023,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Peach Crunch Cake,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,473,1/35 HFSHT,27.6g,49.8g,6.7g,0.7g,0g,34.1g,53.3mg,26.9g,187mg,5.3g,70.8mg,0.5mg,0.2mcg,140.1mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2/16/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Spiced Lentils,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,39,2 OZ,0.1g,6.6g,0g,2.7g,0g,0.9g,0mg,0g,54.4mg,2.3g,8.9mg,0.7mg,0mcg,44mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2/16/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/16/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/16/2023,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/16/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/16/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Lunch,Gluten,['Less Sodium'],2/16/2023,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/16/2023,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Basmati Rice,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,178,4 OZ,2.6g,34.9g,0.8g,0g,0g,0g,0mg,0g,23.8mg,2.9g,2.1mg,0mg,0mcg,0mg
+Halal Chana Masala,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/16/2023,132,8 OZ,3g,23g,0.5g,2.6g,0g,6.1g,0mg,2.1g,410mg,4.3g,65.2mg,1.7mg,0mcg,341mg
+Halal Chicken Tikka Masala,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2/16/2023,176,4 OZ,12.4g,4.5g,7.7g,0.3g,0g,2.8g,81.4mg,0.9g,231.3mg,10.6g,526.6mg,3.1mg,0mcg,160mg
+Beef Brisket Tacos,South,Lunch,"Wheat, Soybeans",['Less Sodium'],2/16/2023,362,1 EACH,24.3g,16.4g,8.7g,0.9g,0g,0.8g,77.7mg,0.7g,416mg,17.7g,74.5mg,2.8mg,0mcg,299mg
+Fish Taco with Chipotle Cream and Salsa Fresca,South,Lunch,"Milk, Fish, Wheat, Soybeans, Gluten",[],2/16/2023,348,1 EACH,19.6g,29.4g,3.4g,0.3g,0g,2.2g,30.1mg,1g,682.1mg,13.9g,69.8mg,2.1mg,0.8mcg,325.7mg
+Fresh Steamed Spinach,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,20,3 OZ,0.3g,3.2g,0.1g,1.9g,0g,0.4g,0mg,0g,68.9mg,2.5g,86.4mg,2.4mg,0mcg,491.5mg
+Honey Sriracha Sweet Potatoes,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,60,3 OZL,0g,14.5g,0g,1.6g,0g,5.7g,0mg,3.2g,80.1mg,0.8g,16.1mg,0.3mg,0mcg,183.1mg
+Mexican Fiesta Rice,South,Lunch,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2/16/2023,96,3 OZ,1g,19.2g,0.2g,0.4g,0g,1.2g,0mg,0g,665mg,2g,31.5mg,1.1mg,0mcg,61.9mg
+Chefs Choice Vegetable Stir Fry,South,Lunch,,[],2/16/2023,101,6 OZ,4g,12.2g,0.3g,2.9g,0g,6.3g,0mg,0g,39mg,2.6g,48.4mg,0mg,0mcg,4.1mg
+General Tso's Chicken,South,Lunch,"Eggs, Wheat, Soybeans, Gluten",[],2/16/2023,327,6 OZ,18g,24.6g,2.2g,2.1g,0g,10.7g,40mg,0g,857.1mg,18.4g,43mg,1.3mg,0mcg,364mg
+Sesame Noodles,South,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,208,4 OZ,3.1g,37.2g,0.1g,1.6g,0g,6.1g,0mg,4.6g,394.1mg,5.5g,2.2mg,1.4mg,0mcg,3.7mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Corn Taco Shell,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,53,1 EACH,2.3g,7g,0.3g,0g,0g,0g,0mg,0g,0mg,0.7g,8.7mg,0.1mg,mcg,mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Death by Chocolate Pudding,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,317,1/35 PAN,12.9g,46.8g,7.6g,0.6g,0.1g,33.5g,12.7mg,11.5g,345.2mg,3.9g,85.7mg,1.5mg,1mcg,64.8mg
+"Red ,White & Blue Cookies",South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,160,1 EACH,7g,24g,3g,0g,0g,15g,10mg,0g,130mg,1g,8mg,1mg,mcg,35mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/16/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2/16/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/16/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/16/2023,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Guinness Bratwurst,South,Dinner,Gluten,['Less Sodium'],2/16/2023,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2/16/2023,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Straight Cut French Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/16/2023,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Halal Baked Meatloaf,South,Dinner,"Eggs, Fish, Wheat, Soybeans",['Less Sodium'],2/16/2023,105,4 OZ,4.3g,14.6g,1.1g,0.1g,0g,6.6g,30.2mg,0.3g,457.1mg,1.5g,28.6mg,0.7mg,0.2mcg,33.2mg
+Baked Swordfish W/ Cracker Crumbs,South,Dinner,"Milk, Fish, Wheat, Soybeans",[],2/16/2023,614,1 EA,46.9g,16.8g,23.6g,0g,0g,2.1g,87.1mg,0g,683.7mg,29.2g,209.6mg,1.6mg,75mcg,502.5mg
+Beef Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2/16/2023,42,2 OZL,2.8g,3g,0.9g,0g,0g,0.4g,0mg,0g,149.5mg,0.8g,23.8mg,0.2mg,0mcg,68.4mg
+Cajun Crusted Steak with Caramelized Onion,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium']",2/16/2023,270,1 EACH,18g,1.8g,7.6g,0.1g,1g,2.4g,78.5mg,0g,236.3mg,20.8g,19mg,1.9mg,0mcg,10mg
+Mashed Red Potatoes with Garlic,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/16/2023,129,4 OZ,6.3g,17.9g,4g,2g,0g,2.8g,17.5mg,0g,270.8mg,3.2g,43.3mg,0.7mg,0.3mcg,469mg
+Roasted Green Beans,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/16/2023,33,3 OZ,0.5g,6.9g,0.1g,2.8g,0g,3.2g,0mg,0g,14.5mg,1.7g,38.5mg,0.6mg,0mcg,127.6mg
+Pasta Bar,South,Dinner,,[],2/16/2023,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Tatcho Bar,South,Dinner,,[],2/16/2023,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Cinnamon Roll Cheesecake,South,Dinner,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/16/2023,246,1/20 CAKE,16.5g,23.7g,10.8g,0.1g,0g,20.2g,75mg,18.8g,141.5mg,3.8g,98.9mg,0.3mg,0.1mcg,12.1mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Mini Potato Pancakes,South,Breakfast,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-17,216,4 OZ,13.7g,23.9g,1.3g,1.5g,0g,1.5g,0mg,0g,552.1mg,1.5g,0mg,0mg,mcg,358.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-17,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Sausage Patties,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-17,253,2 EACH,24.3g,0g,9.1g,0g,0g,0g,40.5mg,0g,546.8mg,8.1g,0mg,0.4mg,mcg,mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Vegan French Toast,South,Breakfast,"Wheat, Soybeans","['Smart Check', 'Vegetarian', 'Vegan']",2023-02-17,309,2 EACH,8g,48.2g,0.2g,0.1g,0g,9g,0mg,7.2g,542.9mg,11.4g,184.4mg,2.8mg,1.5mcg,219.5mg
+Assorted Donuts,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-17,432,1 EACH,24.2g,49.4g,10.6g,0.1g,0g,18g,10mg,0g,488.9mg,6.6g,8.7mg,2.1mg,0mcg,mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-17,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-17,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-17,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-17,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Cross Trax French Fries,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-17,253,4 OZ,18.9g,21g,1.8g,2g,0g,0g,0mg,0g,550.3mg,2g,0mg,0.7mg,0mcg,240.1mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-17,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2023-02-17,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-17,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Halal Chicken Fajita,South,Lunch,"Milk, Wheat, Soybeans",[],2023-02-17,305,1 EACH,11.9g,21.9g,5.2g,1.1g,0g,4.8g,81mg,1g,582.8mg,27.3g,283.5mg,1.2mg,0mcg,478mg
+Bacon Cheddar Mashed Potatoes,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium']",2023-02-17,157,4 OZ,7.6g,16.8g,4.7g,0g,0g,0g,24.5mg,0g,404.2mg,4.2g,62.7mg,0.3mg,0mcg,293.6mg
+Corn,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,74,3 OZ,0g,17g,0g,0g,0g,1.1g,0mg,0g,0mg,1.1g,0mg,0mg,mcg,mg
+Fried Chicken Nuggets,South,Lunch,"Wheat, Gluten",[],2023-02-17,326,6 EACH,22.3g,16.6g,3.1g,1.2g,0g,0g,41.5mg,0g,616.3mg,16.6g,23.7mg,0.9mg,0mcg,mg
+Panko Crusted Scrod Filet,South,Lunch,"Milk, Fish, Wheat",['Less Sodium'],2023-02-17,205,1 EACH,13.1g,2.9g,5.5g,0.2g,0g,0.1g,67.1mg,0g,260.6mg,18.5g,20.1mg,0.4mg,0mcg,9.3mg
+Rice Florentine,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-17,174,4 OZ,5.5g,24.4g,3.6g,0.2g,0g,0.2g,17mg,0g,212.5mg,5.3g,102.5mg,1.4mg,0mcg,57.2mg
+Sliced Carrots,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,37,3 OZ,0g,6.4g,0g,2.1g,0g,3.2g,0mg,0g,48mg,0g,21.3mg,0mg,0mcg,mg
+Beef and Broccoli Stir Fry,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium']",2023-02-17,214,6 OZ,9.9g,7.9g,2.9g,1.7g,0g,4.5g,58.3mg,0g,422.4mg,22.9g,36.4mg,2.7mg,0mcg,496.2mg
+Chefs Choice Fried Rice,South,Lunch,"Eggs, Soybeans, Sesame",[],2023-02-17,162,4 OZ,5.7g,22g,1g,1g,0.1g,1.5g,41.9mg,0g,550.2mg,5.1g,31mg,2mg,0.3mcg,68.2mg
+Edamame Dumpling,South,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,145,3 EACH,5.5g,18g,0g,0g,0g,1.5g,0mg,0.8g,195mg,4.5g,27mg,0.8mg,mcg,52.5mg
+Sesame Broccoli,South,Lunch,"Soybeans, Sesame","['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,61,4 OZ,2.9g,7g,0.3g,2.8g,0g,2.5g,0mg,0.6g,131.3mg,3.9g,59.8mg,1.2mg,0mcg,399.6mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Baked Sesame Nuggets,South,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,222,4 OZ,9.9g,24.7g,0g,4.9g,0g,0g,0mg,0g,369.8mg,14.8g,98.6mg,3.6mg,0mcg,mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Oatmeal Raisin Cookies,South,Lunch,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,140,1 EACH,4.5g,22g,1.5g,0g,0g,13g,0mg,8g,85mg,2g,9mg,0.7mg,0mcg,82mg
+Raspberry Coconut Magic Bars,South,Lunch,"Milk, Wheat, Soybeans, Coconut","['Less Sodium', 'Vegetarian']",2023-02-17,271,1/35 HFPAN,9g,44.8g,7.1g,1.5g,0g,34.7g,5.8mg,14.8g,128.7mg,2.7g,61.3mg,0.4mg,0mcg,88.6mg
+Cajun Salmon W/ Honey Dill Mustard Sauce,South,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-17,182,1 EA,7g,2.6g,1g,0g,0g,2.4g,45.2mg,2.4g,200.7mg,22.1g,0.1mg,0mg,0mcg,1.8mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-17,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-17,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Cross Trax French Fries,South,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-17,253,4 OZ,18.9g,21g,1.8g,2g,0g,0g,0mg,0g,550.3mg,2g,0mg,0.7mg,0mcg,240.1mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-17,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-02-17,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Sweet Potato Black Bean Burger with Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-17,330,1 EACH,4g,61g,0g,8g,0g,6g,0mg,0g,500mg,14g,660mg,3.8mg,0mcg,615mg
+Halal Spaghetti & Meatballs,South,Dinner,"Eggs, Wheat, Soybeans",['Less Sodium'],2023-02-17,396,8 OZ,5.5g,46g,4.4g,2.8g,0g,7.3g,40mg,0g,573.7mg,16.6g,54.2mg,3.3mg,0mcg,0mg
+Indian Bar,South,Dinner,,[],2023-02-17,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Boneless Chinese BBQ Pork,South,Dinner,"Wheat, Soybeans, Sesame",[],2023-02-17,206,4 OZ,8.5g,12.8g,2.4g,0g,0g,10.9g,60.8mg,8.5g,523.3mg,18g,0mg,1.2mg,0mcg,0mg
+Broccoli Stir Fry w/ Ginger,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,50,4 OZ,1.1g,8g,0.1g,1.6g,0g,3.4g,0mg,1.6g,150.1mg,2.6g,26.2mg,0.7mg,0mcg,258.6mg
+Sesame Noodles,South,Dinner,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,208,4 OZ,3.1g,37.2g,0.1g,1.6g,0g,6.1g,0mg,4.6g,394.1mg,5.5g,2.2mg,1.4mg,0mcg,3.7mg
+White Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Chickpea Biryani,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-17,299,8 OZL,7.2g,49.2g,1.1g,3.9g,0g,1.8g,0mg,0g,410.2mg,7.9g,30.8mg,1.4mg,0mcg,268mg
+Vegetable Samosas w/ Chutney,South,Dinner,"Wheat, Gluten","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-17,297,2 EACH,16.6g,34.1g,0.6g,2g,0g,6g,0mg,5.7g,435.9mg,4g,1.2mg,1.5mg,0mcg,0mg
+Assorted Cupcakes,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-17,298,1 EA,13.7g,40.7g,7.2g,0.6g,0.1g,26.8g,10.3mg,11.9g,322mg,2.3g,17.1mg,1.3mg,0mcg,64.4mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Chorizo Sausage Patties,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-20,158,1 EACH,14.3g,1g,4.5g,0g,0.1g,0g,29.3mg,0g,363.4mg,6.1g,13.1mg,0.7mg,mcg,mg
+French Toast,South,Breakfast,"Milk, Eggs, Wheat, Soybeans","['Less Sodium', 'Vegetarian']",2023-02-20,315,2 SLICES,9.9g,36.6g,2.9g,0g,0g,4.6g,263.4mg,2g,486mg,16.9g,180.3mg,3.6mg,2.6mcg,169.2mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Home Fries,South,Breakfast,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,194,4 OZ,11.2g,22.4g,0.8g,0g,0g,0g,0mg,0g,57.5mg,1.4g,0mg,0mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-20,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Lemon Blueberry Bread,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-20,265,1/16 loaf,10.2g,40.7g,4.4g,1.2g,0g,22.9g,39.9mg,1.7g,215.4mg,3g,17.5mg,1.2mg,0mcg,50.6mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-20,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-20,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Lunch,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-20,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-20,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Curly Fries,South,Lunch,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-20,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-20,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-20,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2023-02-20,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Beef & Bean Burrito,South,Lunch,"Milk, Wheat, Soybeans",[],2023-02-20,355,1 EACH,14.3g,44g,6.6g,0.2g,0g,4.5g,30.4mg,2g,976.6mg,13.9g,347.5mg,2.3mg,0mcg,286.1mg
+Tortilla Chips,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,142,1 OZ,6.1g,19.2g,0.5g,0g,0g,0g,0mg,0g,111.4mg,2g,0mg,0mg,mcg,mg
+Fried Cabbage,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,29,3 OZ,0.4g,6.2g,0g,1.1g,0g,2.9g,0mg,0g,68.3mg,1.1g,34.8mg,0.2mg,0mcg,158.7mg
+Kielbasa,South,Lunch,,['Gluten Friendly'],2023-02-20,306,3 OZ,27.5g,4.6g,9.2g,0g,0g,1.5g,45.9mg,0g,1132.2mg,7.7g,39.8mg,0.6mg,mcg,mg
+Potato & Cheese Pierogi,South,Lunch,"Milk, Eggs, Wheat, Soybeans",['Vegetarian'],2023-02-20,343,4 EACH,15.7g,42.8g,5.5g,0.2g,0g,1.5g,25.1mg,0g,696.6mg,7.1g,32.9mg,2.3mg,0mcg,266.3mg
+Summer Vegetable Medley,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,14,3 OZ,0.2g,2.9g,0g,0.4g,0g,1.8g,0mg,0g,108.8mg,1g,13mg,0.3mg,0mcg,205.7mg
+Char Siu Chicken,South,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Smart Check']",2023-02-20,256,1 EACH,7.5g,6.3g,1.6g,0.1g,0g,4.7g,170.9mg,4g,501.5mg,36.3g,36.9mg,1.9mg,0mcg,6.8mg
+Hunan Beef,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium']",2023-02-20,151,4 OZ,6.5g,7.5g,1.8g,1.2g,0g,3.2g,35.5mg,0.6g,304.5mg,14.6g,24.8mg,1.7mg,0.7mcg,320.2mg
+Szechuan Vegetable Stirfry,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,90,4 OZ,1.5g,14.6g,0.1g,1.8g,0g,3.7g,0mg,0g,261.4mg,4.5g,40.6mg,0.5mg,2.8mcg,228.4mg
+White Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Herb Grilled Tofu,South,Lunch,Soybeans,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2023-02-20,141,1 PIECE,8.5g,2.9g,0.9g,0g,0g,0g,0mg,0g,616mg,11.5g,108.3mg,1.9mg,0mcg,167.5mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Spinach & Artichoke Dip,South,Lunch,Milk,"['Gluten Friendly', 'Vegetarian']",2023-02-20,414,3 OZ,31.1g,22.2g,10.3g,0.1g,0g,1g,43.9mg,0g,582.3mg,9.8g,204.8mg,0.2mg,0mcg,12.2mg
+Tortilla Chips,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,142,1 OZ,6.1g,19.2g,0.5g,0g,0g,0g,0mg,0g,111.4mg,2g,0mg,0mg,mcg,mg
+S'mores Cookies,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-20,190,1 EACH,9g,25g,4.5g,0g,0g,13g,10mg,13g,200.2mg,1g,10.1mg,1.3mg,0mcg,30mg
+Sugar Cookies,South,Lunch,"Milk, Eggs, Wheat, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-20,164,1 EACH,7.2g,23.6g,4.1g,0g,0g,13.4g,15.4mg,0g,143.8mg,2.1g,0mg,0.7mg,mcg,35.9mg
+Pan Seared Tuna Steak w/ Lime,South,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-20,148,1 each,2.3g,1.8g,0.3g,0.1g,0g,1.3g,46.7mg,0g,180.7mg,28g,4mg,0.9mg,1.9mcg,599.1mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-20,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Awesome Burger,South,Dinner,"Wheat, Coconut","['Contains Nuts', 'Vegetarian', 'Vegan']",2023-02-20,270,1 EACH,16g,9g,8g,0g,0g,1g,0mg,0g,460mg,22g,160mg,4.3mg,0mcg,200mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-20,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Curly Fries,South,Dinner,"Wheat, Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-20,246,4 OZ,19.2g,20g,1.8g,0g,0g,0g,0mg,0g,360.2mg,2g,0mg,0.4mg,mcg,240.1mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-20,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-20,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2023-02-20,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Halal Chicken Shawarma,South,Dinner,,['Gluten Friendly'],2023-02-20,210,4 OZ,13.5g,2.3g,3.3g,0.9g,0g,0.1g,106.3mg,0g,676.8mg,20.8g,17.4mg,7.1mg,0mcg,33.9mg
+Jasmine Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,87,3 OZ,0g,19.6g,0g,0.6g,0g,0g,0mg,0g,2.4mg,1.7g,13.4mg,0.2mg,0mcg,0mg
+Baked Sweet Potato,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,132,1 HALF,1.8g,27.1g,0.1g,4g,0g,5.6g,0mg,0g,74.1mg,2.1g,40.4mg,0.8mg,0mcg,453.8mg
+Country Fried Steak,South,Dinner,"Milk, Wheat, Gluten",[],2023-02-20,319,1 EA,15.3g,29.4g,2.3g,1g,0g,1g,35.4mg,0g,901.1mg,16.2g,30.4mg,2.4mg,0mcg,263.3mg
+Country Gravy,South,Dinner,"Wheat, Soybeans",['Less Sodium'],2023-02-20,51,2 OZL,3.2g,4g,1g,0g,0g,0.5g,0mg,0g,209.9mg,0.6g,3.2mg,0.2mg,0mcg,7.1mg
+Rice Pilaf,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,141,3 oz,3.7g,23.8g,0.3g,0.2g,0g,0.5g,0mg,0g,190.9mg,2.5g,24.1mg,1.2mg,0mcg,70.8mg
+Sauteed Spinach With Garlic,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,37,4 OZ,1g,5.5g,0.1g,2.5g,0g,0.5g,0mg,0g,132.8mg,3.4g,115.5mg,3mg,0mcg,620.9mg
+Burrito Bowl Bar,South,Dinner,,[],2023-02-20,0,1 BAR,0g,0g,0g,0g,0g,0g,0mg,0g,36.3mg,0g,27.2mg,0mg,0mcg,0mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Roasted Green Beans With Lemon And Dill,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,47,4 OZ,1.1g,9.1g,0.2g,3.7g,0g,4.2g,0mg,0g,57.7mg,2.2g,51.3mg,0.8mg,0mcg,171.5mg
+Cherry Pie,South,Dinner,"Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-20,388,1/8 PIE,17.5g,55g,7.5g,2.5g,0g,18.8g,0mg,0g,400mg,3.8g,0mg,1.8mg,0mcg,mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+French Toast Stix,South,Breakfast,"Wheat, Soybeans, Gluten",['Vegetarian'],2/22/2023,540,5 EACH,34.3g,54.7g,2.9g,1.3g,0g,12.7g,0mg,12.7g,572.3mg,6.4g,25.4mg,3.2mg,0mcg,63.6mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Lyonnaise Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,118,4 OZ,2.7g,20.6g,0.9g,0g,0g,0.4g,19.7mg,0g,213.4mg,1.9g,2.7mg,0.3mg,0mcg,301.1mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,80,6 OZL,1.6g,14.4g,0.3g,2.1g,0g,0.5g,0mg,0g,61.6mg,2.7g,14mg,0.8mg,0mcg,79.7mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Turkey Sausage Links,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,153,2 EACH,12g,0g,3.8g,0g,0g,0g,65.7mg,0g,470.7mg,10.9g,0mg,0.8mg,0mcg,mg
+Strawberry Banana Muffin,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,333,1 EACH,15.4g,42.8g,1.6g,0.4g,0g,26.4g,59.4mg,25.2g,214.2mg,3.8g,29.7mg,0.5mg,0.3mcg,50.3mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2/22/2023,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Grilled Salmon,South,Lunch,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,162,1 EACH,7.1g,0.1g,1g,0g,0g,0g,45.2mg,0g,86.5mg,22.1g,0.4mg,0mg,0mcg,1.2mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2/22/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+California Veggie Burger w/ Bun,South,Lunch,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Crinkle Cut Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/22/2023,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/22/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Hot Dogs,South,Lunch,,['Gluten Friendly'],2/22/2023,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Halal BBQ Chicken,South,Lunch,,['Gluten Friendly'],2/22/2023,260,1 PORT,19.8g,0g,6.2g,0g,0g,0g,67.6mg,0g,864.8mg,19.8g,0mg,0.4mg,0mcg,0mg
+Roasted Potato Medley,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,118,4 OZ,3g,21.7g,0.9g,2.8g,0g,2.8g,0mg,0g,118mg,2.5g,24.1mg,1mg,0mcg,501.3mg
+Bacon Wrapped Pork Loin,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,247,4 OZ,13.6g,0.1g,4.8g,0g,0g,0g,93.2mg,0g,212mg,28.6g,0.4mg,1.3mg,0mcg,1.3mg
+Buffalo Cauliflower,South,Lunch,Soybeans,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2/22/2023,84,5 OZ,3.7g,11.3g,0.6g,4.6g,0g,4.3g,0mg,0g,520.1mg,4.3g,50.7mg,1mg,0mcg,676.9mg
+Farro Risotto,South,Lunch,"Milk, Wheat","['Less Sodium', 'Vegetarian']",2/22/2023,296,4 OZ,6.1g,51.2g,2.1g,0.2g,0g,0.4g,7.6mg,0g,215.1mg,10.7g,24.5mg,3.4mg,0mcg,412.3mg
+Macaroni & Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/22/2023,325,6 OZ,18.4g,25.4g,10g,0.8g,0g,4.9g,42.4mg,0g,505.2mg,14.3g,367.7mg,1mg,1.6mcg,80.5mg
+Peas With Feta,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,63,3 OZL,0.6g,9.6g,0.3g,3.2g,0g,0g,1.2mg,0g,20.1mg,4.3g,15.2mg,0.8mg,0mcg,108.6mg
+Pork Cider Gravy,South,Lunch,"Wheat, Soybeans",['Less Sodium'],2/22/2023,72,2 OZL,2.8g,10.9g,0.9g,0g,0g,8.2g,0.2mg,0g,155.5mg,0.6g,1.2mg,0.3mg,0mcg,4.2mg
+Baked Sesame Nuggets,South,Lunch,"Wheat, Soybeans, Sesame","['Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,222,4 OZ,9.9g,24.7g,0g,4.9g,0g,0g,0mg,0g,369.8mg,14.8g,98.6mg,3.6mg,0mcg,mg
+Cornbread,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,186,1/35 HFSHT,7.3g,25.9g,0.7g,0g,0g,10.5g,23.6mg,9.7g,266.4mg,3.7g,82mg,1.1mg,0.1mcg,51.9mg
+Nashville Hot Chicken Bites,South,Lunch,"Milk, Eggs, Wheat, Gluten",[],2/22/2023,392,4 OZ,27g,21.3g,6.4g,1.4g,0g,0.5g,56.9mg,0.5g,794.9mg,15.5g,0.4mg,1.4mg,0mcg,6.7mg
+Spicy Red Beans and Rice,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,201,6 OZ,2g,39g,0.3g,0.5g,0g,1.7g,0mg,0g,243.3mg,5.8g,58.2mg,2.2mg,0mcg,90.9mg
+Marinara Sauce,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Raspberry Oat Bar,South,Lunch,"Milk, Eggs, Wheat, Soybeans, Gluten, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,316,1/35 HFPAN,12.4g,48.4g,7.2g,0.5g,0g,25.6g,22.6mg,13.1g,238mg,3.1g,21.3mg,1.1mg,0mcg,76.4mg
+Red Velvet Cookie,South,Lunch,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,190,1 EACH,9g,26g,4.5g,1g,0g,16g,15mg,0g,95mg,2g,20mg,1.4mg,mcg,mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2/22/2023,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+California Veggie Burger w/ Bun,South,Dinner,"Wheat, Soybeans, Gluten","['Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,290,1 EACH,7g,43g,0g,6g,0g,5g,0mg,0g,510mg,11g,100mg,3.8mg,0mcg,mg
+Crinkle Cut Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2/22/2023,240,4 OZ,17.7g,21g,1.8g,2g,0g,0g,0mg,0g,420.2mg,2g,0mg,0.4mg,mcg,280.2mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2/22/2023,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Hot Dogs,South,Dinner,,['Gluten Friendly'],2/22/2023,172,1 EACH,15.2g,2g,5.1g,0g,0g,1g,30.4mg,0g,587.3mg,7.1g,26.3mg,0.7mg,mcg,mg
+Halal Cajun Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,139,4 OZ,4.3g,0g,0.1g,0g,0g,0g,65.2mg,0g,117.5mg,26.1g,0mg,0.7mg,0mcg,mg
+Mashed Red Potatoes with Garlic,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2/22/2023,129,4 OZ,6.3g,17.9g,4g,2g,0g,2.8g,17.5mg,0g,270.8mg,3.2g,43.3mg,0.7mg,0.3mcg,469mg
+BBQ Kansas City Pork Spare Ribs,South,Dinner,,['Gluten Friendly'],2/22/2023,472,8 OZ,33.8g,21.3g,13.1g,1.2g,0g,16.7g,77.3mg,3.6g,616.7mg,21.9g,45.7mg,2mg,0mcg,59mg
+Collard Greens with Applewood Bacon,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2/22/2023,45,3 OZ,1.8g,4.9g,0.5g,2.4g,0g,0.7g,4.1mg,0g,345.5mg,3g,130.4mg,0.3mg,0mcg,132.8mg
+Green Beans,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,35,3 OZ,0g,6.7g,0g,2.2g,0g,2.2g,0mg,0g,0mg,1.5g,45mg,0.8mg,mcg,164.9mg
+Old Bay Roasted Sweet Potatoes,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,60,3 OZL,1.1g,11.7g,0.2g,1.8g,0g,2.4g,0mg,0g,92mg,0.9g,17.5mg,0.4mg,0mcg,196.5mg
+Sizzlin' Tater Crusted Fish,South,Dinner,"Fish, Wheat, Soybeans",['Less Sodium'],2/22/2023,204,1 EA,11.2g,13.3g,1.5g,1g,0g,0g,45.9mg,0g,316.4mg,13.3g,0mg,0.7mg,mcg,mg
+Firey Tequila Lime Shrimp,South,Dinner,"Fish, Crustacean Shellfish","['Gluten Friendly', 'Less Sodium']",2/22/2023,69,3 OZ,0.2g,0g,0g,0g,0g,0g,101.3mg,0g,296.3mg,14.6g,47mg,0.2mg,0mcg,102.1mg
+Flame Roasted Corn and Peppers,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,123,3 OZ,6.5g,13.9g,1.2g,0g,0g,6.5g,0mg,0g,120.6mg,2.8g,0mg,0.5mg,mcg,168mg
+Grilled Mojito & Lime Chicken,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2/22/2023,220,1 EACH,7g,0.2g,1.6g,0.1g,0g,0g,164.1mg,0g,289mg,34.4g,32.7mg,1.7mg,0mcg,4.7mg
+Yellow Rice w/ Pinto Beans,South,Dinner,,"['Gluten Friendly', 'Vegetarian', 'Vegan']",2/22/2023,216,6 OZ,0g,46.9g,0g,1.4g,0g,0.8g,0mg,0g,524.9mg,6.1g,54mg,2.8mg,0mcg,230.8mg
+Biscuits N' Honey,South,Dinner,"Milk, Wheat",['Vegetarian'],2/22/2023,301,1 EACH,13.7g,39.1g,8.4g,1g,0g,6g,10.1mg,2g,810.4mg,6g,20mg,1.8mg,0mcg,1.2mg
+Chickpea Pasta With Roasted Vegetables and White Beans,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2/22/2023,161,6 OZ,3.5g,26.7g,0.2g,6.2g,0g,5.9g,0mg,0g,362.7mg,9.7g,54.4mg,3.8mg,0mcg,133mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2/22/2023,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Peach & RaspberryTrifle,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2/22/2023,272,1/35 HFPAN,11.3g,41.5g,6.7g,0g,0g,27.3g,0mg,23.7g,244.5mg,1.6g,18.4mg,0.7mg,0mcg,75.2mg
+Bacon,South,Breakfast,,"['Gluten Friendly', 'Less Sodium']",2023-02-23,45,2 EACH,3.5g,0g,1.5g,0g,0g,0g,10mg,0g,125mg,3g,0mg,0mg,mcg,mg
+Breakfast Potatoes,South,Breakfast,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,126,4 OZ,3g,22.7g,1g,0.2g,0g,0g,0mg,0g,350.1mg,1.5g,2.2mg,0.1mg,0mcg,9.6mg
+Buttermilk Pancakes,South,Breakfast,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian']",2023-02-23,512,2 EACH,24g,57.1g,2.5g,0g,0g,17.2g,114.6mg,14.2g,453.1mg,13.1g,300.6mg,3.6mg,0.7mcg,207.8mg
+Cheesy Scrambled Eggs,South,Breakfast,"Milk, Eggs","['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,158,3 OZ,10.5g,0g,4.4g,0g,0g,0g,305.6mg,0g,166.5mg,12.5g,104.3mg,1.9mg,1.7mcg,113.5mg
+Hard Boiled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Oatmeal Hot Cereal,South,Breakfast,Gluten,"['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-23,106,8 OZL,2.1g,19.1g,0.4g,2.8g,0g,0.7g,0mg,0g,82.1mg,3.5g,18.7mg,1.1mg,0mcg,106.3mg
+Plant-Based Breakfast Sausage,South,Breakfast,"Soybeans, Coconut","['Gluten Friendly', 'Contains Nuts', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,90,1 EACH,6g,4g,2.5g,0g,0g,0g,0mg,0g,210mg,6g,49mg,1mg,0mcg,280mg
+Scrambled Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,132,3 OZ,8.5g,0g,2.8g,0g,0g,0g,320mg,0g,122.4mg,11.3g,48.9mg,2mg,1.9mcg,122.4mg
+Cranberry Orange Bread,South,Breakfast,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,260,1/16 LOAF,10g,40.1g,4.5g,0.8g,0g,23.5g,44.9mg,0g,210.6mg,3g,16.1mg,1.1mg,0mcg,50.1mg
+Chefs Omelet Du Jour,South,Breakfast,"Milk, Eggs, Soybeans",[],2023-02-23,293,1 EACH,20.1g,1.5g,9.3g,0g,0g,0.5g,478.6mg,0g,507.5mg,22.1g,236.4mg,2.9mg,2.7mcg,203.7mg
+Fried Eggs,South,Breakfast,Eggs,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,150,2 EACH,10g,2g,3g,0g,0g,0g,430mg,0g,140mg,12g,40mg,1.4mg,0mcg,mg
+Baked Scrod w/  Shrimp Scampi Butter,South,Lunch,"Milk, Fish, Crustacean Shellfish","['Gluten Friendly', 'Less Sodium']",2023-02-23,123,1 EACH,3.4g,0.3g,1.6g,0.1g,0g,0g,81mg,0g,297mg,22.3g,33.2mg,0.4mg,0mcg,35mg
+Chef's Choice Soup du Jour,South,Lunch,,[],2023-02-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Lunch,,"['Gluten Friendly', 'Less Sodium']",2023-02-23,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Lunch,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-23,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Lunch,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-23,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Lunch,Gluten,['Less Sodium'],2023-02-23,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Lunch,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-23,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Basmati Rice,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,89,2 OZ,1.3g,17.4g,0.4g,0g,0g,0g,0mg,0g,11.9mg,1.5g,1mg,0mg,0mcg,0mg
+Halal Biryani Spiced Chicken,South,Lunch,"Milk, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,83,1 EACH,1.9g,0.6g,0.3g,0g,0g,0.1g,48.7mg,0g,72.7mg,15.3g,7.2mg,0mg,0mcg,232mg
+BBQ Carrots,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,35,3 OZ,0.3g,7.6g,0g,2.7g,0g,3.4g,0mg,0.4g,67.9mg,0.7g,27mg,0.3mg,0mcg,205.6mg
+Baja Rice,South,Lunch,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,156,4 OZ,3.2g,28.6g,0.5g,0.3g,0g,0.6g,0mg,0g,227.3mg,3.1g,30.1mg,1.5mg,0mcg,100.1mg
+Brown Chicken Gravy,South,Lunch,"Wheat, Soybeans",['Less Sodium'],2023-02-23,48,2 OZL,3.1g,3.7g,1g,0g,0g,0.4g,0mg,0g,100.6mg,0.5g,2.2mg,0.2mg,0mcg,6.1mg
+Outback Chicken with Apple Smoked Bacon,South,Lunch,"Eggs, Soybeans","['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,315,1 EACH,11.3g,11.4g,2.8g,0.2g,0g,10.2g,179.4mg,0g,441.8mg,38g,44.9mg,2.2mg,0mcg,11.1mg
+Steamed Broccoli,South,Lunch,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,24,3 OZ,0.3g,4.3g,0g,2g,0g,1.3g,0mg,0g,23mg,2.5g,40.8mg,0.7mg,0mcg,276.4mg
+Whipped Golden Potatoes w/ Roasted Garlic and Rosemary,South,Lunch,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,117,3 OZ,5.1g,15.8g,3.1g,1.6g,0g,1.5g,13.2mg,0g,210.5mg,2.2g,30.6mg,0.8mg,0.3mcg,384.7mg
+Blackened Cod,South,Dinner,Fish,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,102,1 EACH,3.1g,0g,0.2g,0g,0g,0g,45mg,0g,164mg,18g,18mg,0.3mg,0mcg,mg
+Chef's Choice Soup du Jour,South,Dinner,,[],2023-02-23,26,6 OZL,0.3g,3.9g,0g,0.4g,0g,1.4g,0mg,0g,307.6mg,0.9g,12.2mg,0mg,0mcg,8.7mg
+Beef Burger No Bun,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-23,247,1 EACH,15.7g,0g,5.9g,0g,0.7g,0g,80.7mg,0g,82.6mg,24.5g,25.4mg,2.5mg,0mcg,344.7mg
+Beet and Kale Burger w/ Bun,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Smart Check', 'Vegetarian', 'Vegan']",2023-02-23,310,1 EA,3.5g,59g,0g,6g,0g,11g,0mg,0g,470mg,10g,63mg,1.4mg,0mcg,mg
+Grilled Cheese,South,Dinner,"Milk, Wheat, Soybeans","['Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-23,279,1 EACH,15.5g,25g,9.3g,2g,0g,3g,40.5mg,2g,786.8mg,9.1g,171.6mg,1.3mg,0.1mcg,120.8mg
+Grilled Chicken Breast,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,86,1 EACH,2.1g,0g,0.5g,0g,g,0g,48.3mg,0g,145mg,17.2g,mg,0.4mg,mcg,mg
+Grilled Guinness Bratwurst,South,Dinner,Gluten,['Less Sodium'],2023-02-23,289,1 EACH,24.9g,3g,8g,0g,0g,1g,74.8mg,1g,757.7mg,13g,0mg,1.1mg,0mcg,179.4mg
+Straight Cut French Fries,South,Dinner,"Soybeans, Gluten","['Vegetarian', 'Vegan']",2023-02-23,196,4 OZ,15.2g,17g,1.3g,1g,0g,1g,0mg,0g,520.3mg,1g,20mg,0.4mg,mcg,260.2mg
+Cumin Basmati Rice,South,Dinner,Soybeans,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,180,4 OZ,2.7g,35.1g,0.8g,0.2g,0g,0g,0mg,0g,24.7mg,3g,5.9mg,0.2mg,0mcg,0mg
+Halal Mongolian Beef,South,Dinner,"Soybeans, Sesame","['Gluten Friendly', 'Smart Check', 'Less Sodium']",2023-02-23,161,4 OZ,5.8g,4.6g,1.8g,0.8g,0g,2.1g,46.6mg,0g,199.2mg,21.6g,21.9mg,1.9mg,0mcg,344.1mg
+Black Beans In Sofrito,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,69,3 OZ,0.4g,12.3g,0g,0.2g,0g,1.1g,0mg,0g,90.2mg,3.9g,25.4mg,1.1mg,0mcg,290mg
+Calypso Pork,South,Dinner,,"['Gluten Friendly', 'Less Sodium']",2023-02-23,275,4 OZ,12g,12.6g,4.2g,0.5g,0g,10.1g,87.9mg,6.5g,355.8mg,27.5g,14.3mg,1.6mg,0mcg,107.2mg
+Fresh Steamed Spinach,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,20,3 OZ,0.3g,3.2g,0.1g,1.9g,0g,0.4g,0mg,0g,68.9mg,2.5g,86.4mg,2.4mg,0mcg,491.5mg
+Fried Plantains,South,Dinner,Gluten,"['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,392,4 EACH,20.5g,51.7g,2.1g,2g,0g,43.8g,0mg,0g,0mg,1g,7mg,0.6mg,0mcg,736.1mg
+Peruvian Grilled Chicken W/ Aji Verde,South,Dinner,"Milk, Soybeans",['Gluten Friendly'],2023-02-23,297,1 EACH,12.7g,4.1g,2.5g,0.5g,0g,2.4g,172.8mg,1.3g,532.5mg,37.4g,68.3mg,2.2mg,0mcg,71.8mg
+White Rice,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,91,3 OZ,0g,20.4g,0g,0g,0g,0g,0mg,0g,2.4mg,2.1g,19.5mg,1.1mg,0mcg,44mg
+Cheese Ravioli,South,Dinner,"Milk, Eggs, Wheat","['Less Sodium', 'Vegetarian', 'A vegetarian or vegan entree offfered at lunch or dinner that does not contain onions or garlic.']",2023-02-23,287,8 EACH,8.5g,38.3g,4.8g,0g,g,2.1g,69.2mg,0g,415.3mg,12.8g,159.7mg,2.9mg,mcg,mg
+Chickpea Rotini With Cajun Cream Sauce,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,269,6 OZ,14.8g,20.2g,7.3g,4.7g,0g,8.4g,46.3mg,0g,341.8mg,9.6g,1663.3mg,3mg,0mcg,83.3mg
+Garlic Bread with Cheese,South,Dinner,"Milk, Eggs, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).","['Less Sodium', 'Vegetarian']",2023-02-23,232,1 SLICE,8.7g,29.1g,4.7g,0.8g,0g,0.7g,20.3mg,0g,370.8mg,9.1g,103.2mg,1.9mg,0mcg,50.3mg
+Marinara Sauce,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,90,4 OZL,4g,12g,0g,2g,g,10g,0mg,0g,479mg,2g,40mg,1.4mg,0mcg,mg
+Parmesan Roasted Broccoli,South,Dinner,Milk,"['Gluten Friendly', 'Less Sodium', 'Vegetarian']",2023-02-23,30,4 OZL,1.2g,3.5g,0.4g,1.6g,0g,1g,1.7mg,0g,71.3mg,2.7g,49.3mg,0.6mg,0mcg,222mg
+Roasted Chicken Tenders,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Smart Check']",2023-02-23,149,4 OZ,4.1g,0.9g,0.7g,0.2g,0g,0g,73mg,0g,440.1mg,29.3g,1.7mg,1mg,0mcg,18.2mg
+Sliced Italian Vegan Sausage,South,Dinner,"Wheat, Soybeans","['Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,108,2 OZ,5.7g,6.2g,1.7g,0g,0g,1.1g,0mg,0g,402.6mg,9.6g,663.4mg,1.5mg,mcg,mg
+Tomato Cream Sauce,South,Dinner,"Milk, Wheat","['Less Sodium', 'Vegetarian']",2023-02-23,230,3 OZL,19.5g,3.3g,11.8g,0.4g,0g,4.6g,62.6mg,0g,342.2mg,5.6g,1240.4mg,0.3mg,0mcg,1.9mg
+Green Beans,South,Dinner,,"['Gluten Friendly', 'Less Sodium', 'Vegetarian', 'Vegan']",2023-02-23,35,3 OZ,0g,6.7g,0g,2.2g,0g,2.2g,0mg,0g,0mg,1.5g,45mg,0.8mg,mcg,164.9mg
+Chocolate mousse pie,South,Dinner,"Milk, Wheat, Soybeans, The UConn bakery uses coconut (a tree nut).",[],2023-02-23,525,1/8 PIE,19.4g,83.6g,17.1g,0g,0g,66.4g,5mg,32.4g,441.6mg,3.2g,98.3mg,1mg,1.3mcg,51.2mg
