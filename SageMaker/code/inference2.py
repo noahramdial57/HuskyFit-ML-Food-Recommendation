@@ -9,7 +9,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.model_selection import train_test_split
 import boto3
-
+from datetime import date
 
 # Define the model
 class MatrixFactorization(nn.Module):
@@ -44,9 +44,15 @@ users = users_file.copy() # normalizedValues.csv
 diningRates = df2.copy()      # dining_ratings.csv
 diningHalls = df3.copy()           # alldininghalls.cs
 
+# users_file = os.path.abspath("/home/ec2-user/SageMaker/preprocessed-data/normalizedValues.csv")
+# diningRates_file = os.path.abspath("/home/ec2-user/SageMaker/preprocessed-data/dining_ratings.csv")
+# diningHalls_file = os.path.abspath("/home/ec2-user/SageMaker/preprocessed-data/alldininghalls.csv")
+
+# users = pd.read_csv(users_file)
+# diningRates = pd.read_csv(diningRates_file)
+# diningHalls = pd.read_csv(diningHalls_file)
 
 # Preprocess the data
-# print(diningRates)
 n_users = diningRates.userId.unique().shape[0]
 n_foodItems = diningRates.foodItem.unique().shape[0]
 
@@ -61,7 +67,7 @@ def model_fn(model_dir):
     model = MatrixFactorization(n_users, n_foodItems)
     with open(os.path.join(model_dir, "model.pth"), "rb") as f:
         model.load_state_dict(torch.load(f))
-    model.to(device).eval()
+    model.to('cpu').eval()
     return model
 
 def input_fn(request_body, request_content_type):
@@ -70,7 +76,7 @@ def input_fn(request_body, request_content_type):
     return data
 
 def predict_fn(input_object, model):
-    UserID = input_object['inputs']["UserID"]
+    UserID = int(input_object['inputs']["UserID"])
     # num_recs = input_object['inputs']["num_recs"]
     dHallPref = input_object['inputs']["Dining Hall Preference"]
     allergens = input_object['inputs']["Allergens"]
@@ -78,9 +84,10 @@ def predict_fn(input_object, model):
     meal = input_object['inputs']["Meal"]
 
     df = getSimilarUserRecs(model, UserID, 10) # dataframe
-    recs = contentFiltering(df, dHallPref, allergens, dietary_restrictions, meal)["Food Item"].tolist()
+    recs = contentFiltering(df, dHallPref, allergens, dietary_restrictions, meal)
+    check = checkDiningHall(recs, dHallPref, meal)
 
-    return recs
+    return check
 
 def output_fn(predictions, content_type):
     assert content_type == 'application/json'
@@ -188,7 +195,14 @@ def contentFiltering(df, dHall_pref, allergens, diet_restr, meal):
             if all_zeros == True: 
                 recs = recs.drop(actual_index)
                      
-    return recs
+    df_input = ["foodId", "Food Item"]
+    for pref in dHall_pref:
+        df_input.append(pref)
+
+    a = recs[df_input] # gets only necessary values
+    obj = a.to_dict(orient="records") 
+        
+    return obj
 
 def find_similar_users(userID, k=25):    
     
@@ -206,3 +220,62 @@ def find_similar_users(userID, k=25):
     top_k_similar_users = users.iloc[top_k_similar_users_indices]
     
     return top_k_similar_users
+
+# Check to see if food is being served at specified Dining hall
+def checkDiningHall(recs, dHallPref, meal):
+    bucket = "dininghall-data-cache"
+
+    s3 = boto3.client('s3')
+    today = date.today()
+    dd = today.strftime("%d")
+    mm = today.strftime("%m")
+    yyyy = today.strftime("%Y")
+     
+    L = []
+    # Check to see if user has a preference
+    if len(dHallPref) > 0:
+        
+        # For each recommended item
+        for item in recs:
+        
+            # Check all preferred dining halls to see if food item is being served
+            for pref in dHallPref:
+
+                # If a user has a preference, see if its currently being served at their preferred dining hall
+                if item[pref] == 1:
+                    dHall = item[pref]
+
+                    key = "{}-{}-{}-{}-{}.json".format(pref.capitalize(), meal, mm, dd, yyyy) # pref is the dining hall
+                    response = s3.get_object(Bucket=bucket, Key=key)
+                    content = response['Body'].read()
+                    data = json.loads(content)
+
+                    for food_item in data:
+                        if food_item["Food Item"] == item["Food Item"]:
+                            # print("IT ACTUALLY FUCKING WORKS!!!")
+                            L.append(food_item)
+                            
+    else:
+        # User does not have a preference, recommend food from anywhere
+        dHalls = ["gelfenbien", "kosher", "north", "northwest", "McMahon", "putnam", "south", "whitney"]
+
+        for item in recs:
+            
+            # Check each dining hall to see if item is being served
+            for dining_hall in dHalls:
+
+                if dining_hall == "McMahon": continue
+                else: dining_hall = dining_hall.capitalize()
+
+
+                key = "{}-{}-{}-{}-{}.json".format(dining_hall, meal, mm, dd, yyyy) # pref is the dining hall
+                response = s3.get_object(Bucket=bucket, Key=key)
+                content = response['Body'].read()
+                data = json.loads(content)
+
+                for food_item in data:
+                    if food_item["Food Item"] == item["Food Item"]:
+                        # print("IT ACTUALLY FUCKING WORKS!!!")
+                        L.append(food_item)          
+
+    return L                           

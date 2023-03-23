@@ -49,20 +49,24 @@ def train(args):
         matrix[int(row.user_id), int(row.movie_id)] = row.rating
     
     # Create model
-    model = MatrixFactorization(n_users, n_movies)
+
+    model = MatrixFactorization(n_users, n_foodItems)
     criterion = nn.MSELoss()
     optimizer = torch.optim.SGD(model.parameters(), lr=lr)
-        
+
     # Train the model
     for i in range(epochs):
         optimizer.zero_grad()
-        user = torch.LongTensor(ratings.user_id)
-        movie = torch.LongTensor(ratings.movie_id)
-        rating = torch.FloatTensor(ratings.rating)
+        user = torch.LongTensor(diningRates.user_id)
+        movie = torch.LongTensor(diningRates.food_item)
+        rating = torch.FloatTensor(diningRates.rating)
         predictions = model(user, movie)
         loss = criterion(predictions, rating)
         loss.backward()
         optimizer.step()
+
+        if i % 10 == 0:
+            print(loss)
             
     test(model, ratings)
     save_model(model, args.model_dir)

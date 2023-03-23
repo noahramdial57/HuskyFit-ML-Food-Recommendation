@@ -25,7 +25,7 @@ class MatrixFactorization(nn.Module):
     
 def train(args):
     
-    files = os.listdir(args.movies)
+    files = os.listdir(args.ratings)
     ratings_path = args.movies + "/dining_ratings.csv"
     ratings = pd.read_csv(ratings_path)
     epochs = args.epochs
@@ -44,10 +44,6 @@ def train(args):
     dining_map = {m: i for i, m in enumerate(diningRates.foodItem.unique())}
     diningRates['food_item'] = diningRates['foodItem'].map(dining_map)
 
-    # Create a matrix with users as rows and movies as columns
-    matrix = torch.zeros((n_users, n_foodItems))
-    for i, row in diningRates.iterrows():
-        matrix[int(row.user_id), int(row.food_item)] = row.rating
     
     # Create model
     model = MatrixFactorization(n_users, n_movies)
@@ -57,27 +53,27 @@ def train(args):
     # Train the model
     for i in range(epochs):
         optimizer.zero_grad()
-        user = torch.LongTensor(ratings.user_id)
-        movie = torch.LongTensor(ratings.movie_id)
-        rating = torch.FloatTensor(ratings.rating)
-        predictions = model(user, movie)
+        user = torch.LongTensor(diningRates.user_id)
+        food = torch.LongTensor(diningRates.food_item)
+        rating = torch.FloatTensor(diningRates.rating)
+        predictions = model(user, food)
         loss = criterion(predictions, rating)
         loss.backward()
         optimizer.step()
             
-    test(model, ratings)
+    # test(model, ratings)
     save_model(model, args.model_dir)
     
     return
     
-def test(model, ratings):
-    model.eval()
-    user = torch.LongTensor(ratings.user_id)
-    movie = torch.LongTensor(ratings.movie_id)
-    rating = torch.FloatTensor(ratings.rating)
-    y_hat = model(user, movie)
-    loss = F.mse_loss(y_hat, rating)
-    print("test loss %.3f " % loss.item())
+# def test(model, ratings):
+#     model.eval()
+#     user = torch.LongTensor(ratings.user_id)
+#     movie = torch.LongTensor(ratings.food_item)
+#     rating = torch.FloatTensor(ratings.rating)
+#     y_hat = model(user, movie)
+#     loss = F.mse_loss(y_hat, rating)
+#     print("test loss %.3f " % loss.item())
 
 def save_model(model, model_dir):
     print("Saving the model")
@@ -119,7 +115,7 @@ def parse_args():
     parser.add_argument("--current-host", type=str, default=os.environ["SM_CURRENT_HOST"])
     parser.add_argument("--model-dir", type=str, default=os.environ["SM_MODEL_DIR"])
     parser.add_argument("--ratings", type=str, default=os.environ["SM_CHANNEL_RATINGS"])
-    parser.add_argument("--movies", type=str, default=os.environ["SM_CHANNEL_MOVIES"])
+    # parser.add_argument("--movies", type=str, default=os.environ["SM_CHANNEL_MOVIES"])
 
     return parser.parse_args()
 
